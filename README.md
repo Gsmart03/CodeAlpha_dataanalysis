@@ -284,7 +284,31 @@ ORDER BY revenue DESC;`
 from sales;`
 
 **6.2 Duplicate Orders**
+`
+SELECT order_id, COUNT(*) AS cnt
+FROM sales
+GROUP BY order_id
+HAVING COUNT(*) > 1;`
 
+
+**6.3 Inconsistent Categorical Values**
+-- Case-sensitive duplicates
+`SELECT LOWER(product) AS normalized_product,
+       COUNT(DISTINCT product) AS variations
+FROM sales
+GROUP BY normalized_product
+HAVING COUNT(DISTINCT product) > 1;`
+
+
+no |	Issue|	Count|	Recommended Fix
+---|---------|-------|-----------------
+1 |	NULL | region	2	|Impute 'Unknown'
+2 |	NULL |quantity	1	|Recalculate or drop
+3 | Negative profit	|~20	|Flag as promotional loss
+4 |	Case inconsistencies in product / sales_channel|	Multiple	|LOWER(TRIM(...))
+5 |	Extreme revenue outliers (>₦5M)|	~5	|Investigate bulk orders
+6 |	Revenue ≠ qty × price × (1−disc)	|~10	|Recompute
+7 |	Trailing whitespace in sales_channel	|Multiple	|TRIM()
 
 ---
 
@@ -313,9 +337,4 @@ from sales;`
 - Grow Corporate Sales — highest AOV, lowest marketing cost.
 - Expand in underserved regions (Kano, Kaduna, Enugu) — untapped demand.
 
-**📊 Visualization (Power BI)**
-- Monthly revenue & profit trend line
-- Category × Region heatmap
-- Discount band vs avg profit scatter
-- Order status funnel
-- Top 10 products by revenue
+

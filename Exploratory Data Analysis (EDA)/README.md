@@ -103,34 +103,20 @@ order_status|	VARCHAR	|Completed / Pending / Cancelled / Returned
 **3.2 Basic Profiling Queries**
 
 - checking all rows and column
-  
-`select * from sales;`
+
+![All rows and Column](Images/column.PNG)
 
 - Row count and date range
   
-`select count(*), 
-	min(order_date) as first_date,
-    max(order_date) as last_date
-from sales;`
+![Row count and date ranges](Images/first date order.PNG)
 
 - Category distribution
-  
-`select category, count(*) as order_category
-from sales
-group by category
-order by order_category desc;`
+- 
+![Category distribution](Images/category.PNG)
 
 - Distinct values per categorical column
   
-`select
- count(distinct product) as product_count,
- count(distinct customer_id) as customer_id_count,
- count(distinct category) as category_count,
- count(distinct region) as region_count,
- count(distinct sales_channel) as sale_channels_count,
- count(distinct payment_method) as payment_status_count,
- count(distinct order_status) as order_status_count
- from sales;`
+![All rows and Column](Images/count distin.PNG)
  
 
 

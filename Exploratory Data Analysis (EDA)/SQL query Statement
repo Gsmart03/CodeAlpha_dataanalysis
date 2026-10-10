@@ -103,10 +103,11 @@ ORDER BY orders DESC;
 SELECT order_id, product, revenue, cost, profit, discount_rate
 FROM sales
 WHERE profit < 0
-ORDER BY profit ASC;
+ORDER BY profit ASC
+limit 10;
 
 -- Extreme discounts
-SELECT * FROM sales
+SELECT product, discount_rate FROM sales
 WHERE discount_rate > 0.20 OR discount_rate < 0;
 
 -- Revenue formula mismatch
@@ -175,7 +176,7 @@ GROUP BY normalized_product
 HAVING COUNT(DISTINCT product) > 1;
 
 -- Invalid Ranges
-SELECT *
+SELECT product, quantity, unit_price, discount_rate
 FROM sales
 WHERE quantity <= 0
    OR unit_price <= 0

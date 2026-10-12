@@ -116,7 +116,7 @@ order_status|	VARCHAR	|Completed / Pending / Cancelled / Returned
 
 - Distinct values per categorical column
   
-![All rows and Column](Images/count distin.PNG)
+![All rows and Column](Images/count_distin.PNG)
  
 
 
@@ -136,6 +136,7 @@ select category,
 FROM sales
 GROUP BY category
 ORDER BY total_revenue DESC;`
+
 
 Expected Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
 
@@ -224,6 +225,8 @@ FROM sales
 GROUP BY discount_band
 ORDER BY orders desc;`
 
+![ Higher discounts lead to higher quantities purchased](Images/H1.PNG)
+
 - Hypothesis 2: Q4 generates significantly higher revenue
 `SELECT EXTRACT(QUARTER FROM order_date) AS quarter,
        COUNT(*) AS orders,
@@ -232,6 +235,9 @@ ORDER BY orders desc;`
 FROM sales
 GROUP BY quarter
 ORDER BY quarter;`
+
+
+![Hypothesis 2: Q4 generates significantly higher revenue](Images/extract.PNG)
 
 - Hypothesis 3: Corporate Sales channel has the highest AOV
   
@@ -243,6 +249,8 @@ FROM sales
 GROUP BY sales_channel
 ORDER BY aov DESC;`
 
+![Hypothesis 3: Corporate Sales channel has the highest AOV](Images/H3.PNG)
+
  - Hypothesis 4: Mobile category dominates revenue share
  `SELECT category,
        ROUND(SUM(revenue), 2) AS revenue,
@@ -250,6 +258,8 @@ ORDER BY aov DESC;`
 FROM sales
 GROUP BY category
 ORDER BY revenue DESC;`
+
+![Hypothesis 4: Mobile category dominates revenue share](Images/H4.PNG)
 
 ---
 
@@ -276,6 +286,8 @@ FROM sales
 GROUP BY order_id
 HAVING COUNT(*) > 1;`
 
+![Duplicate Orders](Images/duplicate_order.PNG)
+
 
 **6.3 Inconsistent Categorical Values**
 -- Case-sensitive duplicates
@@ -284,6 +296,8 @@ HAVING COUNT(*) > 1;`
 FROM sales
 GROUP BY normalized_product
 HAVING COUNT(DISTINCT product) > 1;`
+
+![Inconsistent Categorical Values](Images/case.PNG)
 
 
 no |	Issue|	Count|	Recommended Fix

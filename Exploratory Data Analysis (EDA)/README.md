@@ -103,22 +103,42 @@ order_status|	VARCHAR	|Completed / Pending / Cancelled / Returned
 **3.2 Basic Profiling Queries**
 
 - checking all rows and column
-
+  
+`select * from sales;`
 ![All rows and Column](Images/column.PNG)
 
 - Row count and date range
-  
+
+`select count(*), 
+	min(order_date) as first_date,
+    max(order_date) as last_date
+from sales;`
+
 ![Row count and date ranges](Images/first date order.PNG)
 
 - Category distribution
-- 
+
+`select category, count(*) as order_category
+from sales
+group by category
+order by order_category desc;`
+
 ![Category distribution](Images/category.PNG)
 
 - Distinct values per categorical column
-  
+
+`select
+ count(distinct product) as product_count,
+ count(distinct customer_id) as customer_id_count,
+ count(distinct category) as category_count,
+ count(distinct region) as region_count,
+ count(distinct sales_channel) as sale_channels_count,
+ count(distinct payment_method) as payment_status_count,
+ count(distinct order_status) as order_status_count
+ from sales;`
+ 
 ![All rows and Column](Images/count_distin.PNG)
  
-
 
 **3.3 Initial Observations**
 
@@ -137,6 +157,7 @@ FROM sales
 GROUP BY category
 ORDER BY total_revenue DESC;`
 
+![Revenue by Product Category](product.PNG)
 
 Expected Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
 
@@ -148,6 +169,8 @@ Expected Finding: Computers and Mobile dominate revenue; Accessories dominate or
 FROM sales
 GROUP BY month
 ORDER BY month;`
+
+![Monthly Revenue Trend](monthly.PNG)
 
 Expected Pattern: Q4 (Oct–Dec) spikes from holiday shopping.
 
@@ -161,6 +184,8 @@ FROM sales
 GROUP BY region
 ORDER BY revenue DESC;`
 
+![Regional Performance](region.PNG)
+
 4.4 Sales Channel Analysis
 `
 SELECT sales_channel,
@@ -172,6 +197,8 @@ FROM sales
 GROUP BY sales_channel
 ORDER BY revenue DESC;`
 
+![Sales Channel Analysis](sale_channel.PNG)
+
 4.5 Order Status Distribution
 `
 SELECT order_status,
@@ -180,6 +207,9 @@ SELECT order_status,
 FROM sales
 GROUP BY order_status
 ORDER BY orders DESC;`
+
+![Order Status Distribution](sale_channel2.PNG)
+
 
 Expected Finding: ~70–75% Completed, rest split between Cancelled/Returned/Pending — a significant operational concern
 
@@ -192,10 +222,14 @@ FROM sales
 WHERE profit < 0
 ORDER BY profit ASC;`
 
+
+
 - Extreme discounts
 `
 SELECT * FROM sales
 WHERE discount_rate > 0.20 OR discount_rate < 0;`
+
+![Order Status Distribution](sale_channel2.PNG)
 
 - Revenue formula mismatch
 `

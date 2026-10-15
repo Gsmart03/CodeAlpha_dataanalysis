@@ -1,30 +1,22 @@
-📊 Data Visualization Task — CodeAlpha Internship
-Nigerian E-Commerce Sales Dataset (2025)
-Analyst: [Your Name]
-Tool: Tableau (with Power BI equivalents)
-Dataset: codealpha_task2_3_sales_eda_visualization.csv (1,500 rows)
-Deliverable: Interactive dashboard + data story + portfolio-ready visuals
+# 📊 Data Visualization Task — CodeAlpha Internship
+## Nigerian E-Commerce Sales Dataset (2025)
+**Analyst:** Abdulsobur Adebayo
+**Tool:** Tableau 
+**Dataset:** codealpha_task2_3_sales_eda_visualization.csv (1,500 rows)
+**Deliverable:** Interactive dashboard + data story + portfolio-ready visuals
 
-📑 Table of Contents
-Project Brief
+## 📑 Table of Contents
+**Project Brief**
+1. Data Preparation Before Visualization
+2. Design Principles for These Visuals
+3. Chart Plan (8 Core Visuals)
+4. Step-by-Step Tableau Build Guide
+5. Dashboard Layout & Story Flow
+6. The Data Story (Narrative Script)
+7. Portfolio Packaging for GitHub
+8. Full Documentation Template
 
-Data Preparation Before Visualization
-
-Design Principles for These Visuals
-
-Chart Plan (8 Core Visuals)
-
-Step-by-Step Tableau Build Guide
-
-Dashboard Layout & Story Flow
-
-The Data Story (Narrative Script)
-
-Portfolio Packaging for GitHub
-
-Full Documentation Template
-
-1. Project Brief
+##1. Project Brief
 The Data Visualization task asks for five things. Here's how each is addressed:
 
 Task Requirement	How This Project Delivers
@@ -33,7 +25,7 @@ Use Tableau for visuals	Full step-by-step Tableau build guide (with Power BI fal
 Design visuals that enhance understanding	Enforced design system: color palette, typography, hierarchy
 Craft compelling data stories	5-act narrative + executive summary for decision-makers
 Build a portfolio	GitHub repo structure + README + screenshot deliverables
-2. Data Preparation Before Visualization
+## 2. Data Preparation Before Visualization
 2.1 Issues Carried Over from EDA
 Before building any chart, fix these (in Tableau Prep, Power Query, or SQL):
 

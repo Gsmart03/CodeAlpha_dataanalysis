@@ -1,6 +1,6 @@
 # 📊 Exploratory Data Analysis (EDA) — Sales Transactions Dataset
 
-## CodeAlpha Data Analytics Internship — Task 2 & 3
+## CodeAlpha Data Analytics Internship 
 
 **Analyst:** Abdulsobur Adejumo
 

@@ -4,7 +4,7 @@
 
 **Analyst:** Abdulsobur Adejumo
 
-**Dataset:** codealpha_task2_3_sales_eda_visualization.csv
+**Dataset:** e-commerce sales dataset.csv
 
 **Records:** 1,500 orders
 

@@ -114,7 +114,7 @@ order_status|	VARCHAR	|Completed / Pending / Cancelled / Returned
     max(order_date) as last_date
 from sales;`
 
-![Row count and date ranges](Images/first date order.PNG)
+![Row count and date ranges](Images/first_date_order.PNG)
 
 - Category distribution
 

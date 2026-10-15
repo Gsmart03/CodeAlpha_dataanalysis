@@ -50,7 +50,7 @@ The dataset represents retail electronics sales across Nigeria, capturing custom
 ---
 
 ### 2. Step 1 — Ask Meaningful Questions (Before Analysis)
-Before  I wrote any query, this are some business questions driving this EDA:
+Before  I wrote any query, these are some business questions driving this EDA:
 
 **🎯 Revenue & Performance**
 1. What is the total revenue, total cost, and total profit generated in 2025?
@@ -142,7 +142,7 @@ order by order_category desc;`
 
 **3.3 Initial Observations**
 
-There are 389 unique customers with repeat purchases within exact span of 12 months in year 2025. Region has 3 null values, quantity has 2 null values and inconsistencies like (mouse, tablet vs Mouse, Tablet) are detected in product name. sale_channel trim and 
+There are 389 unique customers with repeat purchases of 10 products within 8 regions at the exact span of 12 months in year 2025 using 5 sales channels and 5 payment method with either completed, pending, returned and cancelled.
 
 ### 4. Step 3 — Identify Trends, Patterns & Anomalies
 **4.1 Revenue by Product Category**
@@ -159,7 +159,7 @@ ORDER BY total_revenue DESC;`
 
 ![Revenue by Product Category](Images/Revenue_per_product_category.PNG)
 
-Expected Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
+key Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
 
 **4.2 Monthly Revenue Trend**
 `SELECT month(order_date) AS month,
@@ -211,7 +211,7 @@ ORDER BY orders DESC;`
 ![Order Status Distribution](Images/sale_channel2.PNG)
 
 
-Expected Finding: ~70–75% Completed, rest split between Cancelled/Returned/Pending — a significant operational concern
+key Finding: ~70–75% Completed, rest split between Cancelled/Returned/Pending — a significant operational concern
 
 4.6 Anomaly Detection
 
@@ -261,7 +261,7 @@ FROM sales
 GROUP BY discount_band
 ORDER BY orders desc;`
 
-![ Higher discounts lead to higher quantities purchased](Images/H1.PNG)
+![Higher discounts lead to higher quantities purchased](Images/H1.PNG)
 
 - Hypothesis 2: Q4 generates significantly higher revenue
 `SELECT EXTRACT(QUARTER FROM order_date) AS quarter,
@@ -363,16 +363,9 @@ no |	Issue|	Count|	Recommended Fix
 ---
 
 ### 8. Recommendations
-**🧹 Data Engineering**
-- Enforce schema validation on ingestion (NOT NULL, CHECK constraints, ENUM for categoricals).
-- Standardize text casing and trimming via ETL.
-- Recompute revenue and profit fields to eliminate formula drift.
 
-**📈 Business**
-- Push Q4 readiness: Stock up by September; launch promos in October.
-- Cap discounts at 15% — beyond this, profit turns negative.
-- Investigate cancellations/returns by channel and region — potential logistics issue.
-- Grow Corporate Sales — highest AOV, lowest marketing cost.
-- Expand in underserved regions (Kano, Kaduna, Enugu) — untapped demand.
+**Data Engineering:** The organization should enforce schema validation during data ingestion using NOT NULL constraints, CHECK constraints, and ENUM data types for categorical fields to improve data integrity and consistency. Text fields should be standardized through appropriate ETL processes, including consistent casing and the removal of unnecessary spaces. Revenue and profit fields should also be recalculated to eliminate discrepancies caused by inconsistent formulas and ensure the accuracy of financial reporting.
+
+**Business:** To prepare for the fourth-quarter sales period, the organization should increase stock levels by September and launch promotional campaigns in October to maximize seasonal demand. Discounts should be capped at 15%, as higher discount rates may result in negative profit margins. The organization should investigate cancellations and returns across different sales channels and regions to identify potential logistics or operational challenges. Corporate Sales should receive greater strategic attention because it generates the highest average order value (AOV) while incurring the lowest marketing costs. Finally, the organization should explore expansion opportunities in underserved regions, particularly Kano, Kaduna, and Enugu, to capitalize on potential untapped demand and support business growth.
 
 

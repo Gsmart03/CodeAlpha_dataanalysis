@@ -1,0 +1,1501 @@
+order_id,order_date,customer_id,product,category,region,sales_channel,quantity,unit_price,discount_rate,revenue,cost,profit,payment_method,order_status
+ORD00001,8/3/2025,CUST0331,Tablet,Mobile,Kano,Online,3,338700,0.05,965295,668029.33,297265.67,Cash,Cancelled
+ORD00002,6/10/2025,CUST0314,Laptop,Computers,Rivers,Retail Store,5,866600,0,4333000,3718280.64,614719.36,Card,Completed
+ORD00003,6/24/2025,CUST0051,Monitor,Computers,Abuja,Marketplace,1,119300,0.03,115721,87024.2,28696.8,Card,Completed
+ORD00004,1/14/2025,CUST0242,Power Bank,Accessories,Abuja,Online,2,41300,0,82600,69890.21,12709.79,Bank Transfer,Completed
+ORD00005,3/22/2025,CUST0050,Smartphone,Mobile,Oyo,Online,2,432800,0.1,779040,572687.47,206352.53,Bank Transfer,Completed
+ORD00006,9/27/2025,CUST0351,Smartphone,Mobile,Ogun,Online,3,538700,0.15,1373685,1349053.32,24631.68,USSD,Completed
+ORD00007,8/5/2025,CUST0252,External SSD,Storage,Rivers,Online,3,159000,0.05,453150,362911.27,90238.73,Mobile Money,Returned
+ORD00008,3/4/2025,CUST0139,Smartphone,Mobile,Lagos,Corporate Sales,2,185800,0.03,360452,256566.45,103885.55,Cash,Completed
+ORD00009,9/25/2025,CUST0033,Monitor,Computers,Lagos,Online,2,284500,0.15,483650,468861.27,14788.73,Mobile Money,Completed
+ORD00010,5/11/2025,CUST0257,Smartwatch,Wearables,Kaduna,Online,2,82100,0.03,159274,140097.23,19176.77,Cash,Completed
+ORD00011,8/29/2025,CUST0052,Keyboard,Accessories,Rivers,Corporate Sales,2,21700,0,43400,36238.27,7161.73,Mobile Money,Returned
+ORD00012,8/31/2025,CUST0086,Monitor,Computers,Enugu,Retail Store,1,203400,0.15,172890,155342.22,17547.78,Card,Pending
+ORD00013,12/14/2025,CUST0231,Power Bank,Accessories,Ogun,Online,1,46600,0.15,39610,34924,4686,Cash,Cancelled
+ORD00014,11/14/2025,CUST0165,Laptop,Computers,Oyo,Online,1,755800,0,755800,565475.55,190324.45,Cash,Cancelled
+ORD00015,9/25/2025,CUST0295,Smartphone,Mobile,Kano,Online,1,386500,0,386500,263183.19,123316.81,Card,Completed
+ORD00016,5/6/2025,CUST0130,Smartphone,Mobile,Rivers,Retail Store,1,541300,0,541300,380434.9,160865.1,USSD,Returned
+ORD00017,7/17/2025,CUST0395,Keyboard,Accessories,Enugu,Marketplace,3,29300,0.03,85263,67837.12,17425.88,Card,Completed
+ORD00018,12/12/2025,CUST0147,Headphones,Accessories,Unknown,Online,4,91100,0.03,353468,245189.4,108278.6,Card,Completed
+ORD00019,5/31/2025,CUST0298,Headphones,Accessories,Lagos,Corporate Sales,4,74200,0.08,273056,236386.91,36669.09,Bank Transfer,Completed
+ORD00020,6/9/2025,CUST0009,Smartwatch,Wearables,Lagos,Corporate Sales,6,80200,0.2,384960,362820.19,22139.81,Cash,Completed
+ORD00021,4/14/2025,CUST0340,Power Bank,Accessories,Rivers,Online,2,45500,0,91000,59949.97,31050.03,Card,Completed
+ORD00022,6/18/2025,CUST0161,External SSD,Storage,Lagos,Retail Store,1,83300,0.05,79135,60610.9,18524.1,USSD,Returned
+ORD00023,1/22/2025,CUST0238,Keyboard,Accessories,Rivers,Marketplace,2,33500,0.05,63650,51772.23,11877.77,Cash,Cancelled
+ORD00024,11/13/2025,CUST0304,Power Bank,Accessories,Abuja,Online,1,30700,0.08,28244,23962.63,4281.37,Card,Completed
+ORD00025,2/6/2025,CUST0280,External SSD,Storage,Abuja,Retail Store,1,108400,0.15,92140,86660.65,5479.35,Cash,Completed
+ORD00026,5/8/2025,CUST0018,Power Bank,Accessories,Rivers,Marketplace,1,24700,0.1,22230,17192.71,5037.29,Bank Transfer,Completed
+ORD00027,6/4/2025,CUST0386,Smartwatch,Wearables,Abuja,Marketplace,2,58100,0.2,92960,75950.66,17009.34,Card,Completed
+ORD00028,1/13/2025,CUST0316,Keyboard,Accessories,Rivers,Retail Store,1,48200,0.03,46754,32847.8,13906.2,Mobile Money,Completed
+ORD00029,4/2/2025,CUST0354,Monitor,Computers,Lagos,Retail Store,3,237400,0.15,605370,499336.84,106033.16,Cash,Completed
+ORD00030,6/19/2025,CUST0326,Smartphone,Mobile,Abuja,Retail Store,4,543300,0.1,1955880,1477907.1,477972.9,Mobile Money,Completed
+ORD00031,12/16/2025,CUST0047,Mouse,Accessories,Oyo,Online,6,18000,0.05,102600,88785.24,13814.76,Mobile Money,Completed
+ORD00032,12/12/2025,CUST0229,Smartwatch,Wearables,Lagos,Online,3,88600,0.03,257826,192798.86,65027.14,Card,Completed
+ORD00033,2/17/2025,CUST0089,Headphones,Accessories,Oyo,Online,1,41500,0.03,40255,31200.3,9054.7,Mobile Money,Returned
+ORD00034,3/27/2025,CUST0185,Monitor,Computers,Abuja,Online,3,181500,0,544500,411559.74,132940.26,Card,Cancelled
+ORD00035,2/8/2025,CUST0100,Power Bank,Accessories,Lagos,Retail Store,2,42300,0,84600,62433.77,22166.23,Bank Transfer,Completed
+ORD00036,4/6/2025,CUST0257,External SSD,Storage,Rivers,Corporate Sales,1,164700,0,164700,139010.87,25689.13,Bank Transfer,Completed
+ORD00037,2/2/2025,CUST0179,Power Bank,Accessories,Enugu,Retail Store,3,39400,0.08,108744,89549.28,19194.72,Card,Completed
+ORD00038,9/10/2025,CUST0242,Monitor,Computers,Oyo,Online,1,133400,0,133400,94786.33,38613.67,Mobile Money,Completed
+ORD00039,4/24/2025,CUST0075,Monitor,Computers,Enugu,Corporate Sales,1,161500,0.05,153425,126986.43,26438.57,Mobile Money,Pending
+ORD00040,2/5/2025,CUST0096,Smartphone,Mobile,Abuja,Marketplace,3,245700,0.1,663390,632226.32,31163.68,Mobile Money,Completed
+ORD00041,3/3/2025,CUST0084,Headphones,Accessories,Enugu,Online,3,96300,0,288900,241697.41,47202.59,Cash,Completed
+ORD00042,7/25/2025,CUST0223,Tablet,Mobile,Ogun,Retail Store,4,122500,0,490000,341351.28,148648.72,Mobile Money,Pending
+ORD00043,2/26/2025,CUST0039,Tablet,Mobile,Lagos,Retail Store,2,195600,0.08,359904,316863.77,43040.23,Bank Transfer,Pending
+ORD00044,9/10/2025,CUST0230,Keyboard,Accessories,Lagos,Corporate Sales,3,47800,0.2,114720,112587.24,2132.76,Bank Transfer,Completed
+ORD00045,12/31/2025,CUST0321,Mouse,Accessories,Enugu,Online,1,34100,0,34100,29216.66,4883.34,Card,Pending
+ORD00046,4/1/2025,CUST0202,Keyboard,Accessories,Ogun,Online,1,37600,0.08,34592,28351.04,6240.96,Cash,Pending
+ORD00047,12/27/2025,CUST0001,Laptop,Computers,Oyo,Online,1,790600,0,790600,512471.9,278128.1,Card,Returned
+ORD00048,6/22/2025,CUST0160,Headphones,Accessories,Rivers,Online,2,32900,0.05,62510,53462.91,9047.09,Mobile Money,Completed
+ORD00049,11/1/2025,CUST0014,Power Bank,Accessories,Abuja,Marketplace,3,22900,0,68700,45334.56,23365.44,Cash,Returned
+ORD00050,6/5/2025,CUST0373,Laptop,Computers,Lagos,Online,5,734300,0.15,3120775,2677836.5,442938.5,Bank Transfer,Completed
+ORD00051,5/25/2025,CUST0201,Smartphone,Mobile,Abuja,Marketplace,1,278400,0.03,270048,202891.74,67156.26,USSD,Pending
+ORD00052,1/10/2025,CUST0312,Smartphone,Mobile,Enugu,Retail Store,5,208200,0.03,1009770,790617.67,219152.33,Mobile Money,Returned
+ORD00053,10/9/2025,CUST0063,Headphones,Accessories,Abuja,Marketplace,2,98900,0.2,158240,140520.55,17719.45,Card,Pending
+ORD00054,7/16/2025,CUST0351,Laptop,Computers,Kaduna,Marketplace,1,661000,0,661000,421774.96,239225.04,Mobile Money,Pending
+ORD00055,2/20/2025,CUST0173,External SSD,Storage,Rivers,Online,1,159700,0.05,151715,103964.42,47750.58,Card,Completed
+ORD00056,11/2/2025,CUST0268,Tablet,Mobile,Enugu,Marketplace,2,146100,0.05,277590,235325.14,42264.86,Cash,Completed
+ORD00057,3/16/2025,CUST0103,Smartwatch,Wearables,Lagos,Online,2,109800,0.1,197640,169848.9,27791.1,Bank Transfer,Completed
+ORD00058,12/1/2025,CUST0030,Monitor,Computers,Oyo,Marketplace,1,206500,0.08,189980,155161.44,34818.56,Mobile Money,Pending
+ORD00059,2/3/2025,CUST0262,Smartphone,Mobile,Kano,Online,2,522800,0.03,1014232,763489.36,250742.64,Cash,Completed
+ORD00060,1/8/2025,CUST0388,Smartphone,Mobile,Lagos,Online,1,208100,0,208100,136608.63,71491.37,Cash,Completed
+ORD00061,4/2/2025,CUST0170,Smartwatch,Wearables,Lagos,Online,2,176400,0.03,342216,288318.66,53897.34,Card,Pending
+ORD00062,3/14/2025,CUST0282,Headphones,Accessories,Kaduna,Retail Store,1,44600,0.05,42370,35041.99,7328.01,Cash,Returned
+ORD00063,6/29/2025,CUST0207,Tablet,Mobile,Rivers,Marketplace,4,120600,0,482400,368238.47,114161.53,Bank Transfer,Completed
+ORD00064,1/7/2025,CUST0003,Tablet,Mobile,Enugu,Retail Store,3,226400,0,679200,462253.24,216946.76,USSD,Pending
+ORD00065,1/28/2025,CUST0202,Power Bank,Accessories,Rivers,Marketplace,1,27200,0,27200,21677.78,5522.22,Bank Transfer,Cancelled
+ORD00066,4/19/2025,CUST0146,Laptop,Computers,Lagos,Retail Store,2,917200,0.08,1687648,1484765.37,202882.63,Bank Transfer,Returned
+ORD00067,10/9/2025,CUST0320,Keyboard,Accessories,Rivers,Online,1,40900,0.03,39673,28922.02,10750.98,Mobile Money,Cancelled
+ORD00068,1/4/2025,CUST0350,Monitor,Computers,Lagos,Online,1,139800,0,139800,94928.37,44871.63,Card,Returned
+ORD00069,8/8/2025,CUST0075,Laptop,Computers,Enugu,Marketplace,3,655500,0.2,1573200,1642394.18,-69194.18,Card,Cancelled
+ORD00070,6/22/2025,CUST0300,Smartphone,Mobile,Lagos,Marketplace,5,427400,0.05,2030150,1618108.72,412041.28,USSD,Completed
+ORD00071,2/7/2025,CUST0293,Smartphone,Mobile,Kano,Marketplace,2,452400,0.08,832416,727700.85,104715.15,Mobile Money,Completed
+ORD00072,1/13/2025,CUST0168,Smartwatch,Wearables,Kaduna,Online,2,94800,0.05,180120,142530.15,37589.85,Mobile Money,Completed
+ORD00073,11/1/2025,CUST0069,Keyboard,Accessories,Enugu,Marketplace,2,50700,0.03,98358,71358.06,26999.94,Mobile Money,Completed
+ORD00074,11/16/2025,CUST0349,External SSD,Storage,Lagos,Marketplace,1,69500,0.08,63940,52672.21,11267.79,USSD,Cancelled
+ORD00075,3/30/2025,CUST0237,Mouse,Accessories,Rivers,Corporate Sales,1,14900,0.05,14155,12484.53,1670.47,Cash,Pending
+ORD00076,11/5/2025,CUST0104,Tablet,Mobile,Lagos,Retail Store,2,292000,0.03,566480,488164.37,78315.63,Cash,Returned
+ORD00077,8/19/2025,CUST0157,Keyboard,Accessories,Lagos,Online,1,56600,0.1,50940,41821.83,9118.17,Mobile Money,Completed
+ORD00078,12/19/2025,CUST0118,Keyboard,Accessories,Enugu,Online,2,17000,0.08,31280,28234.41,3045.59,USSD,Pending
+ORD00079,11/28/2025,CUST0173,Laptop,Computers,Kaduna,Corporate Sales,3,769200,0,2307600,1557676.92,749923.08,Cash,Completed
+ORD00080,2/7/2025,CUST0134,Smartwatch,Wearables,Abuja,Retail Store,1,79000,0,79000,66204.22,12795.78,Cash,Completed
+ORD00081,6/20/2025,CUST0356,Power Bank,Accessories,Ogun,Marketplace,1,18000,0.03,17460,14296.73,3163.27,Mobile Money,Returned
+ORD00082,10/23/2025,CUST0297,Smartphone,Mobile,Ogun,Retail Store,2,393200,0.05,747080,626561.54,120518.46,Mobile Money,Pending
+ORD00083,5/29/2025,CUST0309,Smartphone,Mobile,Abuja,Marketplace,4,248900,0.03,965732,691689.74,274042.26,Mobile Money,Completed
+ORD00084,7/29/2025,CUST0347,Tablet,Mobile,Kano,Online,2,211600,0.15,359720,297561.67,62158.33,USSD,Completed
+ORD00085,6/26/2025,CUST0285,Smartphone,Mobile,Rivers,Corporate Sales,2,245300,0.03,475882,411889.62,63992.38,USSD,Completed
+ORD00086,3/4/2025,CUST0189,Monitor,Computers,Lagos,Online,6,127400,0,764400,549993.28,214406.72,Mobile Money,Cancelled
+ORD00087,10/13/2025,CUST0144,Keyboard,Accessories,Rivers,Online,4,27600,0,110400,73500.46,36899.54,Cash,Returned
+ORD00088,5/12/2025,CUST0385,Smartwatch,Wearables,Abuja,Online,2,117200,0.05,222680,188383.88,34296.12,Cash,Completed
+ORD00089,6/27/2025,CUST0391,Smartphone,Mobile,Oyo,Online,1,418300,0,418300,275022.47,143277.53,Cash,Returned
+ORD00090,4/7/2025,CUST0092,Monitor,Computers,Lagos,Online,1,94100,0.1,84690,62374.25,22315.75,Cash,Completed
+ORD00091,11/26/2025,CUST0263,External SSD,Storage,Kaduna,Online,1,64000,0.03,62080,41015.17,21064.83,Mobile Money,Completed
+ORD00092,8/22/2025,CUST0386,Smartwatch,Wearables,Abuja,Online,4,101900,0.1,366840,286149.94,80690.06,USSD,Pending
+ORD00093,12/8/2025,CUST0364,Tablet,Mobile,Lagos,Marketplace,1,298000,0.1,268200,200459.39,67740.61,Cash,Cancelled
+ORD00094,8/25/2025,CUST0281,Headphones,Accessories,Lagos,Online,2,42300,0.05,80370,67511.21,12858.79,Cash,Cancelled
+ORD00095,5/26/2025,CUST0128,External SSD,Storage,Lagos,Retail Store,1,116000,0.03,112520,72432,40088,Bank Transfer,Completed
+ORD00096,1/27/2025,CUST0313,Headphones,Accessories,Lagos,Corporate Sales,3,72300,0,216900,141766.81,75133.19,Bank Transfer,Completed
+ORD00097,7/9/2025,CUST0122,Monitor,Computers,Kano,Online,2,193800,0.1,348840,277929.18,70910.82,Cash,Completed
+ORD00098,6/13/2025,CUST0113,Laptop,Computers,Kaduna,Retail Store,1,830900,0.03,805973,572728.15,233244.85,Bank Transfer,Returned
+ORD00099,5/28/2025,CUST0227,Monitor,Computers,Enugu,Marketplace,3,286700,0,860100,539698.95,320401.05,Cash,Pending
+ORD00100,5/9/2025,CUST0217,Smartphone,Mobile,Oyo,Retail Store,2,410600,0.03,796564,578428.35,218135.65,Card,Returned
+ORD00101,1/12/2025,CUST0275,Laptop,Computers,Abuja,Marketplace,1,673300,0.2,538640,418294.98,120345.02,Card,Pending
+ORD00102,12/5/2025,CUST0264,Mouse,Accessories,Oyo,Corporate Sales,2,33600,0,67200,57117.38,10082.62,Mobile Money,Cancelled
+ORD00103,12/31/2025,CUST0026,Monitor,Computers,Lagos,Corporate Sales,4,295900,0.08,1088912,930738.12,158173.88,Card,Returned
+ORD00104,6/25/2025,CUST0328,Smartwatch,Wearables,Ogun,Marketplace,1,108900,0,108900,86624.03,22275.97,Bank Transfer,Returned
+ORD00105,6/8/2025,CUST0152,Power Bank,Accessories,Lagos,Online,1,48300,0.1,43470,30374.99,13095.01,Bank Transfer,Completed
+ORD00106,1/4/2025,CUST0349,Monitor,Computers,Oyo,Corporate Sales,3,161400,0,484200,336843.26,147356.74,Card,Pending
+ORD00107,9/4/2025,CUST0269,Monitor,Computers,Rivers,Marketplace,1,138900,0.1,125010,86827.04,38182.96,Cash,Completed
+ORD00108,7/4/2025,CUST0272,External SSD,Storage,Enugu,Marketplace,3,92300,0.03,268593,203568.61,65024.39,Bank Transfer,Cancelled
+ORD00109,5/22/2025,CUST0376,Headphones,Accessories,Abuja,Online,3,65000,0.03,189150,126070.19,63079.81,Mobile Money,Completed
+ORD00110,5/20/2025,CUST0187,Smartphone,Mobile,Ogun,Marketplace,1,516800,0,516800,368990.67,147809.33,Cash,Completed
+ORD00111,6/2/2025,CUST0199,Headphones,Accessories,Ogun,Online,5,108500,0.05,515375,416216.16,99158.84,USSD,Pending
+ORD00112,8/6/2025,CUST0241,Monitor,Computers,Ogun,Marketplace,2,217600,0.03,422144,288262,133882,Mobile Money,Pending
+ORD00113,6/27/2025,CUST0338,Monitor,Computers,Oyo,Online,2,135400,0.05,257260,202018.85,55241.15,Cash,Cancelled
+ORD00114,9/24/2025,CUST0105,Monitor,Computers,Abuja,Online,1,247100,0.15,210035,204210.96,5824.04,Mobile Money,Completed
+ORD00115,8/14/2025,CUST0124,Laptop,Computers,Abuja,Online,1,905700,0.03,878529,764031.74,114497.26,Mobile Money,Completed
+ORD00116,4/24/2025,CUST0040,Smartwatch,Wearables,Enugu,Retail Store,1,174900,0.15,148665,150056.17,-1391.17,Cash,Completed
+ORD00117,8/4/2025,CUST0147,Smartwatch,Wearables,Enugu,Online,2,134400,0.1,241920,214002,27918,Cash,Completed
+ORD00118,6/4/2025,CUST0188,Smartphone,Mobile,Lagos,Marketplace,1,303600,0.15,258060,195943.5,62116.5,Bank Transfer,Completed
+ORD00119,3/23/2025,CUST0356,Laptop,Computers,Rivers,Corporate Sales,1,897700,0.03,870769,716761.37,154007.63,USSD,Returned
+ORD00120,12/20/2025,CUST0188,Smartphone,Mobile,Lagos,Marketplace,1,211100,0.05,200545,136751.11,63793.89,Cash,Cancelled
+ORD00121,2/6/2025,CUST0278,Laptop,Computers,Ogun,Corporate Sales,4,779700,0.03,3025236,2068011.9,957224.1,Bank Transfer,Completed
+ORD00122,4/30/2025,CUST0210,Tablet,Mobile,Enugu,Marketplace,1,282900,0.05,268755,198882.08,69872.92,Mobile Money,Completed
+ORD00123,5/14/2025,CUST0367,Keyboard,Accessories,Kano,Corporate Sales,3,22800,0,68400,42771.18,25628.82,Bank Transfer,Returned
+ORD00124,2/8/2025,CUST0271,Headphones,Accessories,Kaduna,Corporate Sales,6,51000,0.05,290700,222869.86,67830.14,USSD,Completed
+ORD00125,4/2/2025,CUST0021,Keyboard,Accessories,Ogun,Marketplace,1,28800,0.1,25920,24513.89,1406.11,USSD,Cancelled
+ORD00126,6/11/2025,CUST0163,Keyboard,Accessories,Lagos,Corporate Sales,1,41500,0.03,40255,32945.25,7309.75,USSD,Completed
+ORD00127,11/5/2025,CUST0008,Power Bank,Accessories,Kaduna,Marketplace,6,32300,0,193800,160557.4,33242.6,USSD,Returned
+ORD00128,2/15/2025,CUST0015,Monitor,Computers,Kano,Online,1,117600,0.15,99960,90316.34,9643.66,Card,Cancelled
+ORD00129,4/27/2025,CUST0386,Monitor,Computers,Kaduna,Online,1,180400,0.05,171380,114627.99,56752.01,Mobile Money,Completed
+ORD00130,2/1/2025,CUST0011,Laptop,Computers,Oyo,Marketplace,1,671700,0.05,638115,513182.11,124932.89,Card,Completed
+ORD00131,3/21/2025,CUST0310,Headphones,Accessories,Oyo,Corporate Sales,1,35000,0.2,28000,22896.96,5103.04,Bank Transfer,Completed
+ORD00132,4/26/2025,CUST0154,Tablet,Mobile,Abuja,Online,1,239100,0.03,231927,150147.33,81779.67,Bank Transfer,Cancelled
+ORD00133,11/13/2025,CUST0123,Monitor,Computers,Lagos,Marketplace,1,262500,0.08,241500,222697.65,18802.35,Card,Completed
+ORD00134,1/7/2025,CUST0084,External SSD,Storage,Rivers,Retail Store,2,172900,0.1,311220,265208.51,46011.49,Bank Transfer,Returned
+ORD00135,3/28/2025,CUST0012,Monitor,Computers,Lagos,Marketplace,3,200500,0,601500,381642.43,219857.57,Bank Transfer,Completed
+ORD00136,11/3/2025,CUST0300,External SSD,Storage,Rivers,Corporate Sales,1,90500,0.1,81450,70417.13,11032.87,Mobile Money,Completed
+ORD00137,7/26/2025,CUST0353,Headphones,Accessories,Enugu,Online,1,32700,0.03,31719,23557.6,8161.4,Mobile Money,Returned
+ORD00138,6/1/2025,CUST0050,Headphones,Accessories,Enugu,Retail Store,2,105400,0.08,193936,169536.69,24399.31,USSD,Completed
+ORD00139,8/31/2025,CUST0371,Keyboard,Accessories,Abuja,Online,4,44200,0.15,150280,127510.46,22769.54,Cash,Pending
+ORD00140,3/28/2025,CUST0298,Headphones,Accessories,Lagos,Marketplace,1,104400,0.08,96048,74883.45,21164.55,Mobile Money,Pending
+ORD00141,8/19/2025,CUST0084,Laptop,Computers,Rivers,Online,1,781100,0.03,757667,595432.85,162234.15,Cash,Completed
+ORD00142,6/13/2025,CUST0301,External SSD,Storage,Lagos,Online,2,79800,0.03,154812,128579.11,26232.89,Bank Transfer,Completed
+ORD00143,5/13/2025,CUST0276,Headphones,Accessories,Rivers,Marketplace,2,56400,0.08,103776,73881.92,29894.08,Card,Cancelled
+ORD00144,4/30/2025,CUST0044,Smartphone,Mobile,Kano,Marketplace,3,193600,0.08,534336,426255.75,108080.25,USSD,Completed
+ORD00145,10/12/2025,CUST0001,Laptop,Computers,Lagos,Retail Store,1,730900,0.05,694355,617453.62,76901.38,Mobile Money,Completed
+ORD00146,8/4/2025,CUST0251,Tablet,Mobile,Lagos,Marketplace,1,236700,0,236700,202802.48,33897.52,Bank Transfer,Pending
+ORD00147,12/6/2025,CUST0151,Power Bank,Accessories,Lagos,Online,2,31600,0.05,60040,49299,10741,Bank Transfer,Completed
+ORD00148,12/24/2025,CUST0005,Keyboard,Accessories,Ogun,Online,1,24700,0.08,22724,16239.74,6484.26,Card,Returned
+ORD00149,10/30/2025,CUST0232,External SSD,Storage,Kaduna,Online,1,95500,0.03,92635,78253.71,14381.29,Card,Cancelled
+ORD00150,12/27/2025,CUST0090,Power Bank,Accessories,Abuja,Online,5,37800,0.1,170100,147433.83,22666.17,Card,Completed
+ORD00151,11/20/2025,CUST0098,Headphones,Accessories,Abuja,Online,3,107700,0.05,306945,257584.31,49360.69,Cash,Cancelled
+ORD00152,11/6/2025,CUST0089,Power Bank,Accessories,Abuja,Corporate Sales,1,49700,0.1,44730,35295.02,9434.98,Bank Transfer,Returned
+ORD00153,10/18/2025,CUST0102,Smartwatch,Wearables,Lagos,Retail Store,2,96400,0.05,183160,144786.02,38373.98,Bank Transfer,Completed
+ORD00154,4/27/2025,CUST0221,Headphones,Accessories,Abuja,Retail Store,4,61100,0.05,232180,179634.89,52545.11,Bank Transfer,Pending
+ORD00155,12/30/2025,CUST0379,Smartphone,Mobile,Rivers,Marketplace,1,356400,0.05,338580,284852.76,53727.24,Cash,Returned
+ORD00156,11/20/2025,CUST0277,Power Bank,Accessories,Kano,Online,5,15100,0.08,69460,53696.95,15763.05,Mobile Money,Completed
+ORD00157,5/24/2025,CUST0106,Smartphone,Mobile,Oyo,Corporate Sales,1,285400,0.1,256860,213878.39,42981.61,Card,Pending
+ORD00158,6/8/2025,CUST0071,Headphones,Accessories,Abuja,Marketplace,1,36600,0.08,33672,24285.75,9386.25,Mobile Money,Completed
+ORD00159,6/22/2025,CUST0362,Power Bank,Accessories,Lagos,Online,1,30300,0.1,27270,21502.16,5767.84,Mobile Money,Cancelled
+ORD00160,6/19/2025,CUST0072,Smartwatch,Wearables,Kaduna,Retail Store,2,152200,0,304400,215084.6,89315.4,Cash,Pending
+ORD00161,6/13/2025,CUST0242,Tablet,Mobile,Lagos,Online,4,288400,0.08,1061312,939361.71,121950.29,USSD,Completed
+ORD00162,6/9/2025,CUST0011,Headphones,Accessories,Lagos,Retail Store,1,75900,0.03,73623,51252.16,22370.84,Mobile Money,Completed
+ORD00163,5/5/2025,CUST0167,Headphones,Accessories,Kaduna,Online,1,118800,0.08,109296,85183.94,24112.06,USSD,Cancelled
+ORD00164,8/20/2025,CUST0229,Laptop,Computers,Enugu,Online,2,867300,0.03,1682562,1108514.6,574047.4,Card,Completed
+ORD00165,1/27/2025,CUST0160,Tablet,Mobile,Rivers,Marketplace,2,261900,0.1,471420,408933.08,62486.92,Bank Transfer,Completed
+ORD00166,9/15/2025,CUST0102,Smartwatch,Wearables,Rivers,Corporate Sales,1,88800,0.08,81696,76243.1,5452.9,USSD,Cancelled
+ORD00167,7/27/2025,CUST0106,Smartwatch,Wearables,Lagos,Retail Store,1,174300,0.08,160356,116471.46,43884.54,USSD,Completed
+ORD00168,4/25/2025,CUST0104,Tablet,Mobile,Lagos,Corporate Sales,2,345700,0.03,670658,448551.95,222106.05,USSD,Completed
+ORD00169,6/10/2025,CUST0272,Mouse,Accessories,Kano,Online,2,27300,0,54600,43749.06,10850.94,Mobile Money,Cancelled
+ORD00170,9/6/2025,CUST0331,Laptop,Computers,Enugu,Online,1,718200,0.03,696654,504978.79,191675.21,Bank Transfer,Completed
+ORD00171,9/1/2025,CUST0012,Power Bank,Accessories,Ogun,Online,3,19000,0.05,54150,43090.75,11059.25,Bank Transfer,Pending
+ORD00172,1/14/2025,CUST0073,Tablet,Mobile,Abuja,Online,4,321900,0.1,1158840,1042450.37,116389.63,Cash,Completed
+ORD00173,9/10/2025,CUST0310,Smartphone,Mobile,Abuja,Retail Store,2,534200,0.15,908140,809889.09,98250.91,Card,Cancelled
+ORD00174,5/21/2025,CUST0117,Power Bank,Accessories,Lagos,Retail Store,1,47700,0.15,40545,39020.9,1524.1,USSD,Completed
+ORD00175,1/31/2025,CUST0334,Smartphone,Mobile,Enugu,Online,3,209600,0,628800,479541.61,149258.39,Mobile Money,Completed
+ORD00176,9/23/2025,CUST0345,Monitor,Computers,Lagos,Marketplace,1,226500,0,226500,182872.2,43627.8,Mobile Money,Returned
+ORD00177,7/9/2025,CUST0371,Monitor,Computers,Lagos,Corporate Sales,1,296600,0,296600,192532.67,104067.33,Card,Completed
+ORD00178,5/4/2025,CUST0231,Monitor,Computers,Kaduna,Marketplace,1,138100,0.03,133957,91380.86,42576.14,Mobile Money,Completed
+ORD00179,7/2/2025,CUST0386,Tablet,Mobile,Lagos,Retail Store,3,215200,0.08,593952,519471.18,74480.82,Mobile Money,Completed
+ORD00180,8/1/2025,CUST0181,Monitor,Computers,Kaduna,Marketplace,2,129800,0.03,251812,212932.44,38879.56,USSD,Completed
+ORD00181,10/9/2025,CUST0196,Laptop,Computers,Enugu,Online,2,814400,0.1,1465920,1048197.66,417722.34,Bank Transfer,Completed
+ORD00182,4/15/2025,CUST0192,Tablet,Mobile,Kaduna,Online,2,210700,0.1,379260,351489.88,27770.12,Card,Completed
+ORD00183,10/4/2025,CUST0284,Headphones,Accessories,Oyo,Corporate Sales,4,49200,0,196800,164608.02,32191.98,Cash,Cancelled
+ORD00184,3/28/2025,CUST0101,Monitor,Computers,Lagos,Online,1,218900,0.05,207955,143607.28,64347.72,Cash,Completed
+ORD00185,11/10/2025,CUST0366,Laptop,Computers,Ogun,Marketplace,1,671400,0.15,570690,535107.15,35582.85,Cash,Returned
+ORD00186,1/8/2025,CUST0320,Mouse,Accessories,Kano,Online,1,21100,0.05,20045,17287.83,2757.17,USSD,Completed
+ORD00187,2/18/2025,CUST0292,Tablet,Mobile,Oyo,Corporate Sales,2,296900,0.03,575986,397468.9,178517.1,Card,Completed
+ORD00188,9/15/2025,CUST0374,Smartwatch,Wearables,Kano,Marketplace,6,50700,0.1,273780,209982.35,63797.65,USSD,Completed
+ORD00189,11/11/2025,CUST0334,Laptop,Computers,Kano,Retail Store,5,751500,0.03,3644775,2665270.22,979504.78,USSD,Cancelled
+ORD00190,5/2/2025,CUST0032,External SSD,Storage,Abuja,Marketplace,2,136300,0,272600,233939.79,38660.21,USSD,Completed
+ORD00191,8/26/2025,CUST0135,Smartwatch,Wearables,Lagos,Online,1,130900,0.2,104720,104663.2,56.8,Cash,Completed
+ORD00192,10/10/2025,CUST0050,External SSD,Storage,Lagos,Retail Store,1,50800,0,50800,40347.15,10452.85,USSD,Pending
+ORD00193,1/23/2025,CUST0030,Headphones,Accessories,Enugu,Corporate Sales,3,97000,0.05,276450,187818.2,88631.8,Mobile Money,Returned
+ORD00194,4/14/2025,CUST0224,Smartphone,Mobile,Enugu,Corporate Sales,3,386500,0.08,1066740,964180.12,102559.88,Card,Completed
+ORD00195,3/27/2025,CUST0234,Keyboard,Accessories,Kaduna,Online,2,63900,0.08,117576,90745.97,26830.03,Card,Cancelled
+ORD00196,3/11/2025,CUST0312,Smartphone,Mobile,Kano,Online,1,534500,0.03,518465,350489.36,167975.64,Mobile Money,Completed
+ORD00197,12/25/2025,CUST0202,Keyboard,Accessories,Oyo,Online,2,68200,0.03,132308,98075.59,34232.41,Card,Pending
+ORD00198,12/2/2025,CUST0186,Laptop,Computers,Rivers,Retail Store,2,826500,0.08,1520760,1050588.72,470171.28,Bank Transfer,Cancelled
+ORD00199,6/1/2025,CUST0109,Mouse,Accessories,Kaduna,Marketplace,3,18000,0.05,51300,34478.68,16821.32,Mobile Money,Returned
+ORD00200,5/26/2025,CUST0319,Mouse,Accessories,Lagos,Retail Store,1,27300,0,27300,21745.03,5554.97,Cash,Returned
+ORD00201,8/28/2025,CUST0047,External SSD,Storage,Lagos,Retail Store,2,171000,0.05,324900,264257.44,60642.56,USSD,Completed
+ORD00202,9/16/2025,CUST0107,Keyboard,Accessories,Lagos,Marketplace,1,72000,0.05,68400,61568.3,6831.7,Mobile Money,Cancelled
+ORD00203,3/10/2025,CUST0349,Smartwatch,Wearables,Kano,Retail Store,5,85300,0.03,413705,308409.67,105295.33,Mobile Money,Completed
+ORD00204,5/9/2025,CUST0280,External SSD,Storage,Kaduna,Corporate Sales,2,140300,0,280600,234845.14,45754.86,USSD,Completed
+ORD00205,12/30/2025,CUST0106,Smartphone,Mobile,Abuja,Online,2,458000,0.15,778600,583079.73,195520.27,Cash,Returned
+ORD00206,7/24/2025,CUST0070,Power Bank,Accessories,Unknown,Retail Store,1,22700,0.08,20884,16524.18,4359.82,Cash,Completed
+ORD00207,3/11/2025,CUST0127,Monitor,Computers,Lagos,Corporate Sales,1,208000,0.03,201760,167491.14,34268.86,Cash,Completed
+ORD00208,5/22/2025,CUST0313,Laptop,Computers,Kano,Marketplace,1,914600,0.1,823140,739958.16,83181.84,Mobile Money,Completed
+ORD00209,6/10/2025,CUST0178,Keyboard,Accessories,Kaduna,Retail Store,1,26500,0.03,25705,22453.15,3251.85,Card,Returned
+ORD00210,2/12/2025,CUST0169,Monitor,Computers,Kaduna,Retail Store,6,204500,0.03,1190190,879703.41,310486.59,Bank Transfer,Cancelled
+ORD00211,2/26/2025,CUST0066,Smartphone,Mobile,Lagos,Marketplace,2,493400,0,986800,769116.95,217683.05,Cash,Pending
+ORD00212,4/9/2025,CUST0192,Keyboard,Accessories,Kaduna,Retail Store,3,32400,0,97200,68568.15,28631.85,Mobile Money,Completed
+ORD00213,3/20/2025,CUST0214,Smartwatch,Wearables,Lagos,Online,3,147400,0,442200,287563.06,154636.94,Mobile Money,Completed
+ORD00214,2/13/2025,CUST0097,Smartwatch,Wearables,Abuja,Marketplace,2,146300,0.05,277970,188023.72,89946.28,USSD,Returned
+ORD00215,3/15/2025,CUST0008,Mouse,Accessories,Abuja,Marketplace,3,22100,0.2,53040,44348.33,8691.67,USSD,Pending
+ORD00216,2/11/2025,CUST0316,Monitor,Computers,Oyo,Marketplace,1,257600,0.15,218960,192665.98,26294.02,Cash,Pending
+ORD00217,1/8/2025,CUST0101,Power Bank,Accessories,Kaduna,Marketplace,6,23900,0,143400,95860.57,47539.43,Mobile Money,Completed
+ORD00218,1/16/2025,CUST0129,Mouse,Accessories,Kano,Marketplace,4,43800,0,175200,139728.18,35471.82,Mobile Money,Cancelled
+ORD00219,10/10/2025,CUST0325,Monitor,Computers,Rivers,Retail Store,4,124900,0.05,474620,329204.43,145415.57,Card,Completed
+ORD00220,5/14/2025,CUST0211,Power Bank,Accessories,Kaduna,Marketplace,3,15400,0,46200,38159.47,8040.53,Bank Transfer,Returned
+ORD00221,10/13/2025,CUST0277,Monitor,Computers,Lagos,Online,1,156000,0.1,140400,129660.53,10739.47,Card,Pending
+ORD00222,10/6/2025,CUST0176,Headphones,Accessories,Rivers,Corporate Sales,3,111000,0,333000,255513.09,77486.91,USSD,Completed
+ORD00223,9/5/2025,CUST0156,Mouse,Accessories,Oyo,Online,1,17400,0.08,16008,11232.09,4775.91,USSD,Completed
+ORD00224,10/30/2025,CUST0294,External SSD,Storage,Abuja,Online,1,54800,0.03,53156,45370.72,7785.28,Card,Pending
+ORD00225,9/9/2025,CUST0333,Headphones,Accessories,Enugu,Corporate Sales,4,97100,0.03,376748,316070.23,60677.77,Cash,Completed
+ORD00226,11/24/2025,CUST0190,Smartwatch,Wearables,Abuja,Marketplace,2,60000,0.05,114000,99299.43,14700.57,Cash,Completed
+ORD00227,3/24/2025,CUST0110,Laptop,Computers,Ogun,Corporate Sales,1,776400,0.2,621120,505117.26,116002.74,Card,Completed
+ORD00228,10/2/2025,CUST0398,Laptop,Computers,Lagos,Online,3,938800,0.03,2731908,2306785.71,425122.29,USSD,Completed
+ORD00229,8/15/2025,CUST0334,Smartphone,Mobile,Kaduna,Online,2,184600,0.03,358124,281923.26,76200.74,USSD,Completed
+ORD00230,7/2/2025,CUST0016,Power Bank,Accessories,Lagos,Marketplace,2,40700,0.15,69190,54088.61,15101.39,USSD,Completed
+ORD00231,12/23/2025,CUST0172,Smartphone,Mobile,Lagos,Online,2,472000,0.08,868480,642442.73,226037.27,Mobile Money,Completed
+ORD00232,11/28/2025,CUST0076,Monitor,Computers,Kano,Online,4,264200,0.05,1003960,786456.95,217503.05,Cash,Completed
+ORD00233,6/28/2025,CUST0132,Smartphone,Mobile,Oyo,Online,5,243100,0.05,1154725,983719.4,171005.6,USSD,Cancelled
+ORD00234,12/27/2025,CUST0257,Mouse,Accessories,Lagos,Retail Store,1,43900,0.03,42583,32200.44,10382.56,Card,Completed
+ORD00235,4/3/2025,CUST0109,Tablet,Mobile,Kano,Online,1,228700,0,228700,156987.78,71712.22,Cash,Pending
+ORD00236,5/16/2025,CUST0043,Headphones,Accessories,Enugu,Online,2,81100,0.1,145980,102490.81,43489.19,Mobile Money,Pending
+ORD00237,2/6/2025,CUST0305,Smartwatch,Wearables,Oyo,Online,1,114200,0.15,97070,81685.39,15384.61,Cash,Completed
+ORD00238,11/29/2025,CUST0127,Headphones,Accessories,Lagos,Retail Store,2,108100,0.08,198904,185559.28,13344.72,USSD,Completed
+ORD00239,10/28/2025,CUST0090,Headphones,Accessories,Ogun,Marketplace,3,111200,0.05,316920,231601.62,85318.38,Card,Completed
+ORD00240,5/26/2025,CUST0324,Laptop,Computers,Abuja,Retail Store,3,865300,0,2595900,2152477.33,443422.67,Bank Transfer,Pending
+ORD00241,5/23/2025,CUST0041,Laptop,Computers,Ogun,Corporate Sales,3,775700,0,2327100,1487582.86,839517.14,Card,Completed
+ORD00242,2/8/2025,CUST0028,Tablet,Mobile,Lagos,Corporate Sales,1,256500,0.05,243675,215251.94,28423.06,Mobile Money,Completed
+ORD00243,9/25/2025,CUST0235,Smartwatch,Wearables,Kano,Retail Store,6,156900,0.1,847260,740666.94,106593.06,Bank Transfer,Pending
+ORD00244,10/11/2025,CUST0277,Laptop,Computers,Oyo,Retail Store,1,817600,0.08,752192,634907.28,117284.72,Cash,Pending
+ORD00245,7/14/2025,CUST0156,Smartphone,Mobile,Rivers,Corporate Sales,3,293300,0.05,835905,714136.77,121768.23,Cash,Completed
+ORD00246,6/5/2025,CUST0007,Tablet,Mobile,Lagos,Marketplace,1,126300,0.05,119985,93816.09,26168.91,Card,Returned
+ORD00247,5/6/2025,CUST0395,Smartphone,Mobile,Abuja,Corporate Sales,2,189400,0.05,359860,265821.01,94038.99,Mobile Money,Completed
+ORD00248,11/21/2025,CUST0376,Mouse,Accessories,Ogun,Retail Store,2,29500,0,59000,38949.81,20050.19,Mobile Money,Completed
+ORD00249,9/19/2025,CUST0315,Laptop,Computers,Lagos,Retail Store,5,712700,0.03,3456595,2547561.2,909033.8,Bank Transfer,Pending
+ORD00250,10/1/2025,CUST0201,Mouse,Accessories,Ogun,Online,1,21700,0.05,20615,15767.02,4847.98,USSD,Completed
+ORD00251,6/11/2025,CUST0365,Tablet,Mobile,Kaduna,Marketplace,2,198300,0,396600,298596.47,98003.53,Cash,Completed
+ORD00252,1/21/2025,CUST0300,Tablet,Mobile,Enugu,Retail Store,1,179600,0,179600,126112.88,53487.12,Card,Completed
+ORD00253,9/30/2025,CUST0099,Smartwatch,Wearables,Enugu,Retail Store,1,180000,0.1,162000,120555.75,41444.25,Card,Completed
+ORD00254,5/27/2025,CUST0064,Headphones,Accessories,Rivers,Retail Store,1,94400,0.1,84960,74633.8,10326.2,Mobile Money,Returned
+ORD00255,1/20/2025,CUST0046,Power Bank,Accessories,Lagos,Marketplace,3,17600,0,52800,42800.24,9999.76,Cash,Completed
+ORD00256,8/16/2025,CUST0102,Smartwatch,Wearables,Rivers,Retail Store,3,57600,0.05,164160,119679.1,44480.9,Cash,Completed
+ORD00257,4/2/2025,CUST0175,Power Bank,Accessories,Kaduna,Retail Store,3,27600,0.15,70380,60397.22,9982.78,Mobile Money,Completed
+ORD00258,12/18/2025,CUST0328,Smartphone,Mobile,Lagos,Marketplace,4,220400,0.05,837520,725797.06,111722.94,Cash,Pending
+ORD00259,12/15/2025,CUST0214,Smartwatch,Wearables,Kaduna,Corporate Sales,5,129600,0,648000,475918.7,172081.3,Bank Transfer,Cancelled
+ORD00260,8/10/2025,CUST0303,Monitor,Computers,Ogun,Online,1,262200,0.08,241224,195826.36,45397.64,Bank Transfer,Completed
+ORD00261,2/6/2025,CUST0141,Laptop,Computers,Kaduna,Corporate Sales,1,650700,0.03,631179,502273.72,128905.28,Card,Returned
+ORD00262,9/17/2025,CUST0358,Power Bank,Accessories,Abuja,Retail Store,1,42100,0.03,40837,33408.7,7428.3,USSD,Pending
+ORD00263,5/25/2025,CUST0375,External SSD,Storage,Enugu,Online,5,54800,0.05,260300,189579.44,70720.56,USSD,Completed
+ORD00264,8/3/2025,CUST0120,Laptop,Computers,Abuja,Marketplace,1,770900,0.03,747773,529948.33,217824.67,Mobile Money,Returned
+ORD00265,2/22/2025,CUST0275,Headphones,Accessories,Oyo,Online,2,46500,0.2,74400,71129.97,3270.03,Card,Returned
+ORD00266,6/9/2025,CUST0370,Headphones,Accessories,Lagos,Corporate Sales,2,67700,0.05,128630,86280.43,42349.57,USSD,Pending
+ORD00267,1/12/2025,CUST0119,Mouse,Accessories,Lagos,Marketplace,2,28400,0,56800,45785.52,11014.48,Bank Transfer,Returned
+ORD00268,6/3/2025,CUST0274,Laptop,Computers,Lagos,Corporate Sales,1,874600,0,874600,649540.05,225059.95,Bank Transfer,Completed
+ORD00269,4/17/2025,CUST0147,Tablet,Mobile,Rivers,Marketplace,1,336300,0.15,285855,275231.79,10623.21,USSD,Completed
+ORD00270,6/28/2025,CUST0186,Power Bank,Accessories,Lagos,Retail Store,2,52500,0.03,101850,88695.29,13154.71,USSD,Completed
+ORD00271,4/11/2025,CUST0024,Mouse,Accessories,Kaduna,Marketplace,1,33000,0.03,32010,27394.05,4615.95,Card,Cancelled
+ORD00272,10/31/2025,CUST0359,Smartphone,Mobile,Kano,Retail Store,2,355900,0.2,569440,459220.57,110219.43,Bank Transfer,Cancelled
+ORD00273,4/10/2025,CUST0031,Keyboard,Accessories,Oyo,Online,4,15200,0,60800,45751.8,15048.2,Cash,Cancelled
+ORD00274,8/4/2025,CUST0264,Power Bank,Accessories,Oyo,Corporate Sales,2,21300,0.05,40470,29431.16,11038.84,USSD,Cancelled
+ORD00275,9/9/2025,CUST0235,Monitor,Computers,Abuja,Online,3,173000,0,519000,432665.18,86334.82,Bank Transfer,Pending
+ORD00276,12/3/2025,CUST0356,Smartphone,Mobile,Ogun,Online,1,489100,0.03,474427,342840.97,131586.03,Cash,Returned
+ORD00277,7/7/2025,CUST0346,Tablet,Mobile,Oyo,Online,1,328400,0.08,302128,272780.63,29347.37,USSD,Returned
+ORD00278,6/24/2025,CUST0222,Smartphone,Mobile,Abuja,Online,4,228700,0.05,869060,583946.47,285113.53,Mobile Money,Completed
+ORD00279,2/12/2025,CUST0373,Keyboard,Accessories,Oyo,Marketplace,1,46100,0.03,44717,28596.98,16120.02,Cash,Completed
+ORD00280,2/28/2025,CUST0132,Smartwatch,Wearables,Enugu,Corporate Sales,2,157000,0.03,304580,210286.67,94293.33,Mobile Money,Completed
+ORD00281,4/14/2025,CUST0393,Monitor,Computers,Lagos,Retail Store,1,189400,0.08,174248,143892.88,30355.12,USSD,Completed
+ORD00282,7/18/2025,CUST0362,Monitor,Computers,Enugu,Marketplace,3,207900,0,623700,495311.68,128388.32,Cash,Pending
+ORD00283,11/17/2025,CUST0049,Smartphone,Mobile,Ogun,Online,2,543200,0.15,923440,716297.68,207142.32,USSD,Completed
+ORD00284,11/4/2025,CUST0361,Power Bank,Accessories,Kano,Online,1,42400,0,42400,26367.8,16032.2,Bank Transfer,Cancelled
+ORD00285,10/21/2025,CUST0062,Smartwatch,Wearables,Kaduna,Retail Store,2,77700,0.08,142968,99191.42,43776.58,Bank Transfer,Cancelled
+ORD00286,8/23/2025,CUST0108,Headphones,Accessories,Enugu,Marketplace,1,29200,0.05,27740,19569.97,8170.03,Mobile Money,Completed
+ORD00287,2/17/2025,CUST0184,Power Bank,Accessories,Oyo,Marketplace,6,22400,0,134400,114017.32,20382.68,Card,Completed
+ORD00288,6/3/2025,CUST0390,Smartphone,Mobile,Lagos,Marketplace,2,341700,0,683400,525782.25,157617.75,Cash,Pending
+ORD00289,5/21/2025,CUST0362,External SSD,Storage,Kano,Corporate Sales,2,174600,0.2,279360,279972.65,-612.65,Card,Completed
+ORD00290,5/17/2025,CUST0074,Monitor,Computers,Kaduna,Online,2,124200,0.08,228528,183750.16,44777.84,USSD,Completed
+ORD00291,4/1/2025,CUST0278,Mouse,Accessories,Kano,Online,3,9700,0,29100,21636.55,7463.45,Cash,Completed
+ORD00292,5/9/2025,CUST0160,Monitor,Computers,Rivers,Retail Store,1,114900,0.03,111453,96594.99,14858.01,Cash,Completed
+ORD00293,1/17/2025,CUST0274,Laptop,Computers,Ogun,Retail Store,1,659800,0.05,626810,452709.57,174100.43,Mobile Money,Completed
+ORD00294,12/9/2025,CUST0266,Headphones,Accessories,Enugu,Corporate Sales,4,105500,0.1,379800,360324.42,19475.58,Mobile Money,Completed
+ORD00295,9/13/2025,CUST0139,External SSD,Storage,Rivers,Retail Store,2,65000,0.03,126100,94059.08,32040.92,USSD,Completed
+ORD00296,5/13/2025,CUST0132,Mouse,Accessories,Enugu,Marketplace,2,13300,0.15,22610,21891.9,718.1,Bank Transfer,Completed
+ORD00297,11/20/2025,CUST0378,Smartphone,Mobile,Ogun,Retail Store,1,274500,0.05,260775,172351.5,88423.5,Cash,Returned
+ORD00298,1/4/2025,CUST0323,Mouse,Accessories,Rivers,Retail Store,1,38900,0.08,35788,31317.2,4470.8,Mobile Money,Completed
+ORD00299,9/6/2025,CUST0188,Headphones,Accessories,Rivers,Online,1,28600,0.08,26312,17732.08,8579.92,Bank Transfer,Returned
+ORD00300,11/28/2025,CUST0038,Smartphone,Mobile,Kaduna,Corporate Sales,2,183700,0.15,312290,232364.42,79925.58,Card,Pending
+ORD00301,7/25/2025,CUST0185,Keyboard,Accessories,Abuja,Marketplace,4,51600,0.1,185760,140491.37,45268.63,USSD,Returned
+ORD00302,10/14/2025,CUST0202,Smartphone,Mobile,Lagos,Online,2,462100,0,924200,657444.02,266755.98,Card,Completed
+ORD00303,6/2/2025,CUST0123,External SSD,Storage,Kaduna,Online,1,50700,0.05,48165,35042.54,13122.46,Card,Returned
+ORD00304,4/6/2025,CUST0379,Headphones,Accessories,Kaduna,Online,5,60100,0.1,270450,236592.74,33857.26,Bank Transfer,Returned
+ORD00305,3/11/2025,CUST0262,Power Bank,Accessories,Oyo,Online,1,26800,0,26800,17530.44,9269.56,Card,Returned
+ORD00306,9/28/2025,CUST0100,Keyboard,Accessories,Kaduna,Corporate Sales,2,55300,0.05,105070,76853.3,28216.7,Bank Transfer,Completed
+ORD00307,7/8/2025,CUST0247,Laptop,Computers,Lagos,Corporate Sales,1,901700,0.08,829564,769025.4,60538.6,Cash,Cancelled
+ORD00308,1/13/2025,CUST0240,Smartwatch,Wearables,Kaduna,Retail Store,1,175500,0.05,166725,139071.28,27653.72,USSD,Completed
+ORD00309,1/22/2025,CUST0371,Power Bank,Accessories,Kano,Online,2,46800,0.05,88920,65142.97,23777.03,Cash,Completed
+ORD00310,4/23/2025,CUST0012,Mouse,Accessories,Abuja,Online,1,41500,0.08,38180,26246.28,11933.72,Cash,Completed
+ORD00311,2/28/2025,CUST0033,Monitor,Computers,Abuja,Retail Store,3,160200,0.03,466182,305856.13,160325.87,Cash,Cancelled
+ORD00312,7/1/2025,CUST0391,Tablet,Mobile,Oyo,Online,1,133000,0.15,113050,102944.16,10105.84,Cash,Cancelled
+ORD00313,8/6/2025,CUST0062,Monitor,Computers,Rivers,Online,1,298000,0.15,253300,250181.57,3118.43,Bank Transfer,Pending
+ORD00314,6/26/2025,CUST0204,External SSD,Storage,Lagos,Retail Store,1,120000,0.05,114000,80287.89,33712.11,Bank Transfer,Completed
+ORD00315,10/22/2025,CUST0219,Keyboard,Accessories,Lagos,Marketplace,2,52800,0.08,97152,69120.06,28031.94,Cash,Completed
+ORD00316,10/17/2025,CUST0323,Laptop,Computers,Abuja,Retail Store,2,829700,0.08,1526648,1135322.46,391325.54,Card,Completed
+ORD00317,3/6/2025,CUST0083,Monitor,Computers,Lagos,Online,2,212500,0.03,412250,263705.89,148544.11,Cash,Cancelled
+ORD00318,10/11/2025,CUST0369,External SSD,Storage,Abuja,Marketplace,3,45900,0.05,130815,97719.24,33095.76,Card,Completed
+ORD00319,9/19/2025,CUST0176,External SSD,Storage,Oyo,Retail Store,3,74800,0.05,213180,178949.57,34230.43,Cash,Cancelled
+ORD00320,5/12/2025,CUST0093,Tablet,Mobile,Rivers,Retail Store,1,324700,0.1,292230,268434.92,23795.08,Cash,Completed
+ORD00321,9/2/2025,CUST0151,Monitor,Computers,Lagos,Marketplace,1,223900,0.08,205988,143729.01,62258.99,Card,Completed
+ORD00322,11/14/2025,CUST0314,Laptop,Computers,Rivers,Retail Store,5,673100,0.03,3264535,2429706.46,834828.54,Bank Transfer,Completed
+ORD00323,12/24/2025,CUST0321,Mouse,Accessories,Lagos,Marketplace,5,38500,0.05,182875,128603.03,54271.97,Cash,Cancelled
+ORD00324,10/11/2025,CUST0353,Tablet,Mobile,Enugu,Corporate Sales,2,331800,0.05,630420,454250.69,176169.31,Cash,Pending
+ORD00325,4/24/2025,CUST0252,Headphones,Accessories,Lagos,Marketplace,2,108000,0.1,194400,159810.54,34589.46,Bank Transfer,Completed
+ORD00326,5/15/2025,CUST0061,Headphones,Accessories,Kano,Online,2,99600,0,199200,151721.84,47478.16,USSD,Returned
+ORD00327,12/7/2025,CUST0133,Smartphone,Mobile,Kaduna,Marketplace,1,443800,0.03,430486,373575.95,56910.05,Bank Transfer,Returned
+ORD00328,5/20/2025,CUST0283,Keyboard,Accessories,Rivers,Retail Store,2,64600,0.1,116280,80350.96,35929.04,Mobile Money,Pending
+ORD00329,12/18/2025,CUST0389,Tablet,Mobile,Abuja,Online,3,310600,0.03,903846,782068.34,121777.66,Bank Transfer,Completed
+ORD00330,2/4/2025,CUST0039,External SSD,Storage,Lagos,Marketplace,1,163300,0.03,158401,122933.72,35467.28,Bank Transfer,Returned
+ORD00331,10/12/2025,CUST0239,Mouse,Accessories,Oyo,Online,3,39800,0.05,113430,91523.83,21906.17,USSD,Returned
+ORD00332,4/18/2025,CUST0018,Headphones,Accessories,Abuja,Retail Store,3,65800,0.1,177660,147586.78,30073.22,Card,Cancelled
+ORD00333,6/11/2025,CUST0201,Smartphone,Mobile,Lagos,Online,1,509600,0.03,494312,328836.17,165475.83,Cash,Cancelled
+ORD00334,1/19/2025,CUST0195,Smartphone,Mobile,Oyo,Corporate Sales,2,535100,0.05,1016690,770315,246375,Card,Pending
+ORD00335,7/24/2025,CUST0048,Headphones,Accessories,Rivers,Online,4,64100,0.05,243580,191736.17,51843.83,Mobile Money,Returned
+ORD00336,1/7/2025,CUST0314,Smartphone,Mobile,Kano,Retail Store,1,436100,0.03,423017,364126.9,58890.1,Card,Cancelled
+ORD00337,10/9/2025,CUST0380,Mouse,Accessories,Enugu,Corporate Sales,2,10600,0.05,20140,16341.43,3798.57,Card,Completed
+ORD00338,7/18/2025,CUST0206,Headphones,Accessories,Rivers,Marketplace,1,108000,0,108000,74360.39,33639.61,Card,Pending
+ORD00339,2/17/2025,CUST0194,Headphones,Accessories,Lagos,Marketplace,1,26300,0.08,24196,16403.89,7792.11,USSD,Returned
+ORD00340,11/18/2025,CUST0333,Smartwatch,Wearables,Kaduna,Retail Store,1,175700,0.08,161644,112058.88,49585.12,Mobile Money,Completed
+ORD00341,3/3/2025,CUST0132,Laptop,Computers,Kano,Corporate Sales,1,783900,0.08,721188,600481.62,120706.38,Bank Transfer,Returned
+ORD00342,12/14/2025,CUST0159,Keyboard,Accessories,Kaduna,Corporate Sales,1,15500,0.08,14260,11410.44,2849.56,Card,Completed
+ORD00343,11/10/2025,CUST0209,Keyboard,Accessories,Lagos,Online,3,50000,0.08,138000,121908.07,16091.93,USSD,Pending
+ORD00344,8/3/2025,CUST0387,Tablet,Mobile,Kano,Corporate Sales,1,272400,0.03,264228,179261.79,84966.21,Bank Transfer,Pending
+ORD00345,1/16/2025,CUST0008,Smartwatch,Wearables,Rivers,Online,1,147400,0.03,142978,116603.22,26374.78,Mobile Money,Completed
+ORD00346,8/6/2025,CUST0002,Power Bank,Accessories,Lagos,Retail Store,3,49400,0.08,136344,111728.36,24615.64,Bank Transfer,Cancelled
+ORD00347,8/10/2025,CUST0061,Mouse,Accessories,Abuja,Online,3,18100,0.03,52671,45903.94,6767.06,USSD,Pending
+ORD00348,7/26/2025,CUST0388,Monitor,Computers,Kano,Marketplace,2,135900,0.03,263646,211697.56,51948.44,USSD,Completed
+ORD00349,3/11/2025,CUST0381,Monitor,Computers,Enugu,Online,2,167400,0,334800,228433.49,106366.51,Mobile Money,Completed
+ORD00350,8/20/2025,CUST0255,Laptop,Computers,Ogun,Marketplace,1,850100,0.15,722585,708259.43,14325.57,Bank Transfer,Completed
+ORD00351,5/20/2025,CUST0299,Keyboard,Accessories,Ogun,Marketplace,3,63800,0.2,153120,156641.09,-3521.09,Mobile Money,Completed
+ORD00352,10/18/2025,CUST0187,Laptop,Computers,Enugu,Retail Store,2,789700,0.03,1532018,1099807.4,432210.6,USSD,Pending
+ORD00353,7/2/2025,CUST0207,Smartphone,Mobile,Rivers,Online,3,185300,0.05,528105,446361.37,81743.63,Cash,Pending
+ORD00354,6/20/2025,CUST0074,Power Bank,Accessories,Lagos,Retail Store,2,37200,0.2,59520,59640.17,-120.17,Cash,Returned
+ORD00355,2/20/2025,CUST0149,External SSD,Storage,Ogun,Corporate Sales,1,170400,0.05,161880,114303.06,47576.94,Card,Completed
+ORD00356,2/24/2025,CUST0182,Keyboard,Accessories,Abuja,Marketplace,1,50600,0.05,48070,39566.6,8503.4,Mobile Money,Completed
+ORD00357,12/5/2025,CUST0321,Headphones,Accessories,Oyo,Retail Store,3,90600,0.08,250056,186473.6,63582.4,USSD,Cancelled
+ORD00358,4/22/2025,CUST0375,Headphones,Accessories,Lagos,Retail Store,4,88400,0,353600,220856.71,132743.29,USSD,Cancelled
+ORD00359,8/18/2025,CUST0322,Power Bank,Accessories,Ogun,Retail Store,5,39500,0.15,167875,150155.29,17719.71,USSD,Completed
+ORD00360,4/26/2025,CUST0144,Laptop,Computers,Oyo,Retail Store,2,659500,0,1319000,1009883.47,309116.53,Mobile Money,Completed
+ORD00361,6/28/2025,CUST0212,Power Bank,Accessories,Lagos,Corporate Sales,3,20500,0.03,59655,49976.97,9678.03,Card,Returned
+ORD00362,9/30/2025,CUST0064,Mouse,Accessories,Enugu,Online,1,10300,0,10300,8797.05,1502.95,Cash,Completed
+ORD00363,2/21/2025,CUST0271,Laptop,Computers,Lagos,Marketplace,1,713200,0.05,677540,488153.25,189386.75,Card,Completed
+ORD00364,3/1/2025,CUST0138,Smartphone,Mobile,Lagos,Online,1,475400,0.03,461138,321276,139862,Mobile Money,Pending
+ORD00365,12/10/2025,CUST0383,Laptop,Computers,Lagos,Online,3,713200,0,2139600,1502501.65,637098.35,Cash,Completed
+ORD00366,12/21/2025,CUST0112,Monitor,Computers,Lagos,Marketplace,2,122800,0.1,221040,170168.81,50871.19,Card,Returned
+ORD00367,10/5/2025,CUST0397,External SSD,Storage,Abuja,Retail Store,3,98400,0.03,286344,208799.19,77544.81,USSD,Completed
+ORD00368,2/9/2025,CUST0148,Power Bank,Accessories,Lagos,Retail Store,2,25500,0.1,45900,43730.88,2169.12,Mobile Money,Completed
+ORD00369,1/18/2025,CUST0400,Headphones,Accessories,Abuja,Retail Store,4,70900,0.03,275092,234353.06,40738.94,Card,Cancelled
+ORD00370,7/7/2025,CUST0346,Power Bank,Accessories,Enugu,Retail Store,3,50300,0.05,143355,120221.66,23133.34,USSD,Returned
+ORD00371,2/22/2025,CUST0222,External SSD,Storage,Enugu,Retail Store,1,145100,0,145100,119726.19,25373.81,Bank Transfer,Cancelled
+ORD00372,2/1/2025,CUST0099,Monitor,Computers,Ogun,Marketplace,2,211100,0.03,409534,341371.64,68162.36,USSD,Completed
+ORD00373,10/14/2025,CUST0254,Keyboard,Accessories,Rivers,Retail Store,1,49400,0.2,39520,30927.21,8592.79,USSD,Pending
+ORD00374,9/30/2025,CUST0058,Monitor,Computers,Lagos,Marketplace,1,216100,0.03,209617,146017.34,63599.66,Cash,Completed
+ORD00375,1/2/2025,CUST0246,Mouse,Accessories,Kano,Retail Store,1,29800,0.08,27416,23500.2,3915.8,Mobile Money,Completed
+ORD00376,2/24/2025,CUST0337,Headphones,Accessories,Rivers,Retail Store,1,103600,0,103600,69315.4,34284.6,Card,Completed
+ORD00377,11/4/2025,CUST0137,Headphones,Accessories,Enugu,Online,1,72600,0,72600,54615.41,17984.59,Cash,Completed
+ORD00378,3/13/2025,CUST0155,Headphones,Accessories,Lagos,Online,1,47600,0.08,43792,30786.84,13005.16,Bank Transfer,Cancelled
+ORD00379,8/1/2025,CUST0341,Laptop,Computers,Enugu,Marketplace,2,820500,0,1641000,1236574.71,404425.29,Bank Transfer,Cancelled
+ORD00380,5/19/2025,CUST0344,Laptop,Computers,Lagos,Marketplace,2,898100,0.08,1652504,1214702.06,437801.94,Cash,Returned
+ORD00381,4/29/2025,CUST0293,Smartphone,Mobile,Enugu,Corporate Sales,2,406200,0.03,788028,669048.95,118979.05,Bank Transfer,Completed
+ORD00382,9/4/2025,CUST0188,Smartphone,Mobile,Ogun,Online,1,536400,0.08,493488,423487.31,70000.69,Cash,Cancelled
+ORD00383,7/27/2025,CUST0370,Laptop,Computers,Ogun,Online,1,782800,0.03,759316,642128.67,117187.33,Card,Returned
+ORD00384,10/17/2025,CUST0067,Smartphone,Mobile,Lagos,Retail Store,1,400200,0.2,320160,291030.04,29129.96,Bank Transfer,Completed
+ORD00385,10/10/2025,CUST0113,Keyboard,Accessories,Lagos,Online,2,60200,0.15,102340,98267.82,4072.18,Mobile Money,Completed
+ORD00386,3/28/2025,CUST0176,Headphones,Accessories,Oyo,Online,4,63200,0.15,214880,211897.48,2982.52,Card,Completed
+ORD00387,10/21/2025,CUST0253,Smartphone,Mobile,Kano,Online,2,306600,0.1,551880,397828.13,154051.87,USSD,Returned
+ORD00388,4/22/2025,CUST0364,Headphones,Accessories,Kaduna,Corporate Sales,1,40600,0.05,38570,33965.11,4604.89,Bank Transfer,Pending
+ORD00389,12/11/2025,CUST0180,Mouse,Accessories,Lagos,Marketplace,2,29000,0.15,49300,41521.3,7778.7,Mobile Money,Pending
+ORD00390,7/16/2025,CUST0073,Laptop,Computers,Enugu,Marketplace,1,672700,0,672700,511533.74,161166.26,USSD,Completed
+ORD00391,8/8/2025,CUST0378,Monitor,Computers,Kaduna,Online,1,201800,0,201800,152624.13,49175.87,Bank Transfer,Pending
+ORD00392,10/5/2025,CUST0040,Smartphone,Mobile,Ogun,Retail Store,1,233400,0,233400,174037.22,59362.78,Card,Returned
+ORD00393,7/27/2025,CUST0008,Monitor,Computers,Lagos,Online,3,278500,0,835500,697652.7,137847.3,Bank Transfer,Pending
+ORD00394,8/27/2025,CUST0072,Laptop,Computers,Kaduna,Marketplace,2,790000,0.1,1422000,1063493.71,358506.29,Cash,Pending
+ORD00395,11/1/2025,CUST0217,Headphones,Accessories,Rivers,Marketplace,5,53800,0,269000,227062.86,41937.14,Bank Transfer,Completed
+ORD00396,1/13/2025,CUST0391,Smartphone,Mobile,Kano,Online,2,422000,0.03,818680,711276.31,107403.69,Cash,Returned
+ORD00397,5/2/2025,CUST0044,External SSD,Storage,Enugu,Retail Store,1,134300,0.03,130271,101014.98,29256.02,Card,Returned
+ORD00398,8/27/2025,CUST0324,Smartphone,Mobile,Rivers,Online,1,219200,0.03,212624,171457.69,41166.31,USSD,Pending
+ORD00399,9/28/2025,CUST0171,Smartphone,Mobile,Lagos,Online,3,371800,0,1115400,776593.6,338806.4,Bank Transfer,Returned
+ORD00400,8/18/2025,CUST0146,External SSD,Storage,Lagos,Marketplace,2,168700,0.05,320530,241838.38,78691.62,USSD,Completed
+ORD00401,4/18/2025,CUST0004,Mouse,Accessories,Kaduna,Retail Store,4,13400,0.05,50920,44097.78,6822.22,Bank Transfer,Completed
+ORD00402,11/19/2025,CUST0106,Smartphone,Mobile,Lagos,Marketplace,1,382600,0.15,325210,256972.94,68237.06,USSD,Returned
+ORD00403,1/22/2025,CUST0193,Headphones,Accessories,Abuja,Marketplace,1,94200,0.08,86664,76613.16,10050.84,Cash,Pending
+ORD00404,4/23/2025,CUST0251,External SSD,Storage,Ogun,Online,2,48500,0.08,89240,76157.7,13082.3,Cash,Pending
+ORD00405,8/25/2025,CUST0248,Smartphone,Mobile,Kano,Corporate Sales,2,293700,0.03,569778,386775.96,183002.04,Bank Transfer,Completed
+ORD00406,2/17/2025,CUST0226,Monitor,Computers,Lagos,Online,3,161500,0,484500,318951.18,165548.82,Mobile Money,Pending
+ORD00407,5/1/2025,CUST0298,External SSD,Storage,Ogun,Online,1,86100,0.03,83517,59120.79,24396.21,Card,Completed
+ORD00408,8/27/2025,CUST0304,Headphones,Accessories,Oyo,Online,2,27700,0,55400,44816.9,10583.1,USSD,Returned
+ORD00409,7/10/2025,CUST0367,Laptop,Computers,Rivers,Online,2,668600,0.05,1270340,1070226.29,200113.71,USSD,Completed
+ORD00410,1/8/2025,CUST0325,Headphones,Accessories,Lagos,Online,1,40500,0.03,39285,27631.26,11653.74,Mobile Money,Returned
+ORD00411,5/4/2025,CUST0381,Power Bank,Accessories,Kano,Online,1,15600,0.08,14352,9864.04,4487.96,USSD,Returned
+ORD00412,10/12/2025,CUST0148,Smartwatch,Wearables,Kaduna,Online,2,66800,0.1,120240,107205.8,13034.2,Bank Transfer,Cancelled
+ORD00413,2/3/2025,CUST0141,Laptop,Computers,Lagos,Marketplace,3,701400,0.05,1998990,1475060.6,523929.4,USSD,Cancelled
+ORD00414,4/26/2025,CUST0239,Tablet,Mobile,Kaduna,Online,1,191700,0,191700,148672.02,43027.98,USSD,Completed
+ORD00415,10/27/2025,CUST0290,Headphones,Accessories,Lagos,Retail Store,3,39900,0.03,116109,93498.27,22610.73,USSD,Completed
+ORD00416,4/5/2025,CUST0181,Smartphone,Mobile,Kaduna,Retail Store,3,310200,0.05,884070,719443.56,164626.44,Bank Transfer,Completed
+ORD00417,4/17/2025,CUST0088,Monitor,Computers,Enugu,Retail Store,2,229700,0.08,422648,287422.6,135225.4,USSD,Returned
+ORD00418,11/17/2025,CUST0047,Laptop,Computers,Lagos,Corporate Sales,1,895500,0.15,761175,768402.63,-7227.63,Bank Transfer,Completed
+ORD00419,7/14/2025,CUST0012,Power Bank,Accessories,Lagos,Marketplace,1,16400,0.2,13120,12820.23,299.77,Bank Transfer,Completed
+ORD00420,9/23/2025,CUST0298,Monitor,Computers,Lagos,Retail Store,2,210800,0.03,408952,339160.13,69791.87,Card,Cancelled
+ORD00421,12/29/2025,CUST0283,Smartphone,Mobile,Kaduna,Online,1,202200,0.05,192090,166585.94,25504.06,Bank Transfer,Completed
+ORD00422,8/14/2025,CUST0176,External SSD,Storage,Lagos,Corporate Sales,2,89800,0,179600,114869.23,64730.77,Card,Completed
+ORD00423,10/12/2025,CUST0015,Smartwatch,Wearables,Enugu,Retail Store,1,68600,0.08,63112,58424.74,4687.26,Mobile Money,Returned
+ORD00424,5/8/2025,CUST0314,Headphones,Accessories,Abuja,Online,1,31600,0.05,30020,22177.83,7842.17,USSD,Pending
+ORD00425,6/13/2025,CUST0148,Tablet,Mobile,Ogun,Online,3,240900,0.15,614295,585477.98,28817.02,Mobile Money,Completed
+ORD00426,7/25/2025,CUST0198,Laptop,Computers,Oyo,Marketplace,1,927300,0,927300,673375.56,253924.44,Mobile Money,Returned
+ORD00427,9/18/2025,CUST0109,Laptop,Computers,Enugu,Corporate Sales,5,894000,0.05,4246500,3306696.21,939803.79,Cash,Cancelled
+ORD00428,7/9/2025,CUST0288,Laptop,Computers,Enugu,Marketplace,3,650000,0.03,1891500,1328097.26,563402.74,Cash,Pending
+ORD00429,8/7/2025,CUST0089,Smartwatch,Wearables,Abuja,Retail Store,2,56500,0.03,109610,86525.51,23084.49,USSD,Returned
+ORD00430,1/16/2025,CUST0099,Laptop,Computers,Enugu,Retail Store,6,898900,0.03,5231598,3457363.35,1774234.65,Bank Transfer,Pending
+ORD00431,6/10/2025,CUST0131,Tablet,Mobile,Kaduna,Corporate Sales,2,212600,0.08,391184,295793.55,95390.45,USSD,Completed
+ORD00432,6/22/2025,CUST0171,Smartwatch,Wearables,Lagos,Online,3,79700,0.05,227145,205320.96,21824.04,USSD,Completed
+ORD00433,12/12/2025,CUST0240,Headphones,Accessories,Abuja,Online,1,100700,0.03,97679,75751.8,21927.2,Mobile Money,Completed
+ORD00434,9/24/2025,CUST0154,Keyboard,Accessories,Abuja,Marketplace,4,54100,0.2,173120,158794.2,14325.8,Bank Transfer,Completed
+ORD00435,12/21/2025,CUST0232,Smartphone,Mobile,Rivers,Online,2,327700,0.08,602968,430558.92,172409.08,Cash,Returned
+ORD00436,4/27/2025,CUST0046,Headphones,Accessories,Kaduna,Marketplace,3,43000,0.05,122550,91082.92,31467.08,Mobile Money,Completed
+ORD00437,1/7/2025,CUST0366,Mouse,Accessories,Abuja,Online,6,19200,0.05,109440,97154.4,12285.6,Card,Returned
+ORD00438,1/29/2025,CUST0353,Mouse,Accessories,Kano,Online,2,19800,0.03,38412,32305.07,6106.93,USSD,Completed
+ORD00439,8/5/2025,CUST0358,Laptop,Computers,Abuja,Corporate Sales,5,684200,0.1,3078900,2492201.18,586698.82,USSD,Completed
+ORD00440,6/18/2025,CUST0330,Laptop,Computers,Kano,Retail Store,5,894100,0.08,4112860,3795882.88,316977.12,Mobile Money,Completed
+ORD00441,5/12/2025,CUST0218,Headphones,Accessories,Lagos,Online,1,57100,0.03,55387,37631.1,17755.9,Bank Transfer,Completed
+ORD00442,10/26/2025,CUST0283,Laptop,Computers,Rivers,Online,1,684900,0.03,664353,511752.4,152600.6,USSD,Completed
+ORD00443,2/8/2025,CUST0304,Power Bank,Accessories,Abuja,Retail Store,4,36000,0.03,139680,110513.66,29166.34,Card,Completed
+ORD00444,3/31/2025,CUST0181,Smartphone,Mobile,Lagos,Corporate Sales,3,296600,0.15,756330,628510.75,127819.25,Bank Transfer,Completed
+ORD00445,4/11/2025,CUST0095,External SSD,Storage,Ogun,Online,3,68900,0,206700,148266.22,58433.78,Bank Transfer,Completed
+ORD00446,11/28/2025,CUST0247,Smartphone,Mobile,Lagos,Retail Store,2,470800,0.03,913352,781273.76,132078.24,Mobile Money,Returned
+ORD00447,7/29/2025,CUST0236,Monitor,Computers,Kaduna,Marketplace,1,95100,0,95100,63282.21,31817.79,USSD,Completed
+ORD00448,1/22/2025,CUST0172,Smartphone,Mobile,Ogun,Retail Store,1,343200,0.03,332904,254260.16,78643.84,Card,Pending
+ORD00449,4/29/2025,CUST0265,Headphones,Accessories,Lagos,Marketplace,2,116000,0.05,220400,156116.75,64283.25,Mobile Money,Returned
+ORD00450,5/3/2025,CUST0367,Mouse,Accessories,Lagos,Corporate Sales,4,18500,0.05,70300,52518.83,17781.17,Mobile Money,Returned
+ORD00451,1/8/2025,CUST0122,Smartwatch,Wearables,Lagos,Retail Store,4,97000,0.15,329800,322837.55,6962.45,Mobile Money,Completed
+ORD00452,11/29/2025,CUST0327,Laptop,Computers,Lagos,Online,2,822200,0.1,1479960,1239696.19,240263.81,Card,Cancelled
+ORD00453,11/2/2025,CUST0012,Smartwatch,Wearables,Ogun,Marketplace,1,132200,0.15,112370,108684.22,3685.78,Card,Completed
+ORD00454,5/21/2025,CUST0043,Tablet,Mobile,Rivers,Online,2,347600,0.15,590920,454809.28,136110.72,USSD,Returned
+ORD00455,8/8/2025,CUST0068,Monitor,Computers,Lagos,Online,1,224800,0.05,213560,161789.98,51770.02,Cash,Completed
+ORD00456,1/25/2025,CUST0148,Smartwatch,Wearables,Lagos,Marketplace,1,143400,0.03,139098,97061.98,42036.02,Bank Transfer,Completed
+ORD00457,9/6/2025,CUST0203,Smartwatch,Wearables,Enugu,Online,5,109100,0,545500,374946.26,170553.74,Bank Transfer,Cancelled
+ORD00458,8/2/2025,CUST0151,External SSD,Storage,Lagos,Online,2,143600,0.05,272840,229048.86,43791.14,USSD,Returned
+ORD00459,5/6/2025,CUST0177,Smartphone,Mobile,Ogun,Marketplace,1,450700,0.05,428165,286786.54,141378.46,Cash,Cancelled
+ORD00460,6/22/2025,CUST0046,Headphones,Accessories,Lagos,Corporate Sales,6,74400,0,446400,349133.66,97266.34,Mobile Money,Completed
+ORD00461,12/29/2025,CUST0352,Power Bank,Accessories,Abuja,Retail Store,1,54600,0.03,52962,42621.45,10340.55,Card,Pending
+ORD00462,6/17/2025,CUST0170,Headphones,Accessories,Kano,Online,2,77600,0,155200,123872.12,31327.88,Cash,Cancelled
+ORD00463,10/28/2025,CUST0077,Tablet,Mobile,Kano,Online,1,291300,0,291300,216483.1,74816.9,Mobile Money,Completed
+ORD00464,9/6/2025,CUST0038,Smartwatch,Wearables,Lagos,Online,1,114400,0,114400,84552.74,29847.26,Bank Transfer,Completed
+ORD00465,12/10/2025,CUST0237,Smartphone,Mobile,Lagos,Corporate Sales,1,354500,0.05,336775,266629.24,70145.76,Card,Pending
+ORD00466,7/30/2025,CUST0025,Headphones,Accessories,Kaduna,Marketplace,2,36600,0.03,71004,56398.58,14605.42,Card,Completed
+ORD00467,2/14/2025,CUST0134,Smartphone,Mobile,Rivers,Online,1,279500,0.03,271115,193844.35,77270.65,Card,Completed
+ORD00468,9/1/2025,CUST0381,Laptop,Computers,Enugu,Online,2,701500,0,1403000,965247.52,437752.48,Card,Pending
+ORD00469,9/4/2025,CUST0261,Mouse,Accessories,Rivers,Corporate Sales,1,42500,0,42500,35388.95,7111.05,Bank Transfer,Pending
+ORD00470,7/10/2025,CUST0366,External SSD,Storage,Lagos,Online,3,179600,0.03,522636,447818.54,74817.46,Cash,Completed
+ORD00471,3/14/2025,CUST0308,Power Bank,Accessories,Rivers,Corporate Sales,1,13100,0.03,12707,9243.06,3463.94,USSD,Returned
+ORD00472,7/16/2025,CUST0223,Monitor,Computers,Oyo,Marketplace,1,258800,0.03,251036,183682.6,67353.4,USSD,Returned
+ORD00473,3/11/2025,CUST0195,Smartphone,Mobile,Abuja,Retail Store,3,428500,0.05,1221225,860817.46,360407.54,USSD,Pending
+ORD00474,8/4/2025,CUST0361,Smartphone,Mobile,Abuja,Corporate Sales,1,330000,0,330000,266644.27,63355.73,Cash,Returned
+ORD00475,5/24/2025,CUST0111,Smartphone,Mobile,Lagos,Marketplace,2,423400,0,846800,685156.75,161643.25,Bank Transfer,Completed
+ORD00476,1/10/2025,CUST0034,Smartwatch,Wearables,Lagos,Marketplace,2,110600,0.15,188020,183400.38,4619.62,Bank Transfer,Returned
+ORD00477,4/25/2025,CUST0382,Power Bank,Accessories,Abuja,Marketplace,1,26100,0.08,24012,17630.74,6381.26,Mobile Money,Cancelled
+ORD00478,6/28/2025,CUST0276,Headphones,Accessories,Abuja,Marketplace,2,33000,0.03,64020,55866.21,8153.79,Card,Pending
+ORD00479,9/3/2025,CUST0237,Keyboard,Accessories,Lagos,Corporate Sales,2,59500,0.03,115430,98714.11,16715.89,Cash,Cancelled
+ORD00480,3/4/2025,CUST0165,Laptop,Computers,Rivers,Retail Store,3,708400,0.08,1955184,1642038.67,313145.33,Cash,Pending
+ORD00481,9/10/2025,CUST0317,External SSD,Storage,Abuja,Marketplace,5,170900,0.03,828865,625929.43,202935.57,USSD,Returned
+ORD00482,2/19/2025,CUST0292,Monitor,Computers,Lagos,Corporate Sales,1,154300,0,154300,108619.65,45680.35,Mobile Money,Completed
+ORD00483,9/26/2025,CUST0001,Smartphone,Mobile,Lagos,Online,2,541700,0.2,866720,908716.41,-41996.41,Card,Pending
+ORD00484,2/7/2025,CUST0014,Smartwatch,Wearables,Ogun,Online,4,104500,0.05,397100,310098.27,87001.73,Card,Pending
+ORD00485,10/18/2025,CUST0272,Monitor,Computers,Enugu,Corporate Sales,1,215000,0.05,204250,173809.3,30440.7,Cash,Completed
+ORD00486,3/22/2025,CUST0325,Smartphone,Mobile,Lagos,Online,5,197000,0.08,906200,787140.19,119059.81,Cash,Completed
+ORD00487,12/8/2025,CUST0320,Smartwatch,Wearables,Abuja,Marketplace,4,109600,0,438400,330079.09,108320.91,Mobile Money,Cancelled
+ORD00488,5/12/2025,CUST0260,Keyboard,Accessories,Lagos,Online,3,67600,0.03,196716,160077.15,36638.85,Cash,Completed
+ORD00489,3/28/2025,CUST0370,Keyboard,Accessories,Lagos,Online,1,21600,0.2,17280,14598.46,2681.54,Mobile Money,Completed
+ORD00490,5/26/2025,CUST0182,Headphones,Accessories,Lagos,Corporate Sales,2,95200,0.1,171360,158144.05,13215.95,Bank Transfer,Completed
+ORD00491,7/12/2025,CUST0068,External SSD,Storage,Ogun,Marketplace,6,110200,0.08,608304,449394.61,158909.39,Cash,Pending
+ORD00492,6/28/2025,CUST0198,Keyboard,Accessories,Abuja,Marketplace,1,35700,0.03,34629,24145.38,10483.62,Card,Cancelled
+ORD00493,11/12/2025,CUST0099,Smartphone,Mobile,Abuja,Retail Store,1,266400,0,266400,200687.62,65712.38,Cash,Completed
+ORD00494,9/4/2025,CUST0122,Mouse,Accessories,Abuja,Online,2,35300,0.1,63540,49521.49,14018.51,Card,Returned
+ORD00495,10/18/2025,CUST0114,Mouse,Accessories,Lagos,Marketplace,2,12500,0,25000,15923.21,9076.79,Mobile Money,Cancelled
+ORD00496,3/2/2025,CUST0054,Laptop,Computers,Lagos,Retail Store,1,936600,0.1,842940,618637.79,224302.21,Card,Completed
+ORD00497,11/23/2025,CUST0108,External SSD,Storage,Abuja,Online,3,167700,0.15,427635,335976.58,91658.42,USSD,Cancelled
+ORD00498,5/20/2025,CUST0326,Smartwatch,Wearables,Oyo,Retail Store,3,66600,0,199800,138755.91,61044.09,Card,Cancelled
+ORD00499,1/23/2025,CUST0391,Laptop,Computers,Lagos,Marketplace,3,770400,0.03,2241864,1536094.62,705769.38,Card,Returned
+ORD00500,4/7/2025,CUST0336,Monitor,Computers,Ogun,Retail Store,1,269100,0.08,247572,199372.23,48199.77,Mobile Money,Completed
+ORD00501,3/12/2025,CUST0003,Keyboard,Accessories,Enugu,Corporate Sales,2,52700,0.05,100130,78782.95,21347.05,Cash,Returned
+ORD00502,3/31/2025,CUST0226,Mouse,Accessories,Oyo,Retail Store,2,28800,0.15,48960,44271.38,4688.62,USSD,Completed
+ORD00503,7/27/2025,CUST0041,Headphones,Accessories,Rivers,Corporate Sales,2,116900,0.05,222110,197306.06,24803.94,USSD,Completed
+ORD00504,1/13/2025,CUST0271,Smartphone,Mobile,Lagos,Retail Store,2,354400,0.03,687536,527453.83,160082.17,Bank Transfer,Completed
+ORD00505,12/10/2025,CUST0366,Power Bank,Accessories,Abuja,Online,1,43200,0,43200,28879.88,14320.12,Mobile Money,Completed
+ORD00506,4/27/2025,CUST0306,Laptop,Computers,Ogun,Online,1,795200,0.03,771344,669760.61,101583.39,Cash,Pending
+ORD00507,7/31/2025,CUST0101,Smartwatch,Wearables,Rivers,Online,2,164400,0.05,312360,219279.98,93080.02,Card,Pending
+ORD00508,9/22/2025,CUST0205,Tablet,Mobile,Lagos,Retail Store,3,339000,0.05,966150,845548.89,120601.11,Mobile Money,Returned
+ORD00509,12/4/2025,CUST0181,Keyboard,Accessories,Lagos,Marketplace,2,70200,0.03,136188,119448.41,16739.59,Cash,Completed
+ORD00510,6/3/2025,CUST0355,Tablet,Mobile,Ogun,Marketplace,1,219100,0.08,201572,177714.67,23857.33,USSD,Pending
+ORD00511,7/19/2025,CUST0157,Keyboard,Accessories,Kano,Retail Store,1,41800,0,41800,29803.06,11996.94,USSD,Returned
+ORD00512,10/28/2025,CUST0212,Keyboard,Accessories,Lagos,Marketplace,1,47700,0.03,46269,38144.07,8124.93,Mobile Money,Completed
+ORD00513,9/26/2025,CUST0078,External SSD,Storage,Lagos,Retail Store,2,102700,0.15,174590,153230.83,21359.17,Bank Transfer,Pending
+ORD00514,10/6/2025,CUST0337,Smartphone,Mobile,Enugu,Retail Store,1,180300,0.2,144240,122273.13,21966.87,USSD,Completed
+ORD00515,9/29/2025,CUST0339,Keyboard,Accessories,Abuja,Corporate Sales,3,51000,0.08,140760,130677.07,10082.93,Mobile Money,Completed
+ORD00516,3/12/2025,CUST0048,Laptop,Computers,Rivers,Online,3,748400,0.05,2132940,1604133.71,528806.29,Mobile Money,Completed
+ORD00517,3/10/2025,CUST0023,Laptop,Computers,Kaduna,Online,2,756800,0.03,1468192,1239096.6,229095.4,Cash,Pending
+ORD00518,4/16/2025,CUST0381,Smartphone,Mobile,Kano,Marketplace,3,371700,0.1,1003590,879859.03,123730.97,Bank Transfer,Completed
+ORD00519,8/11/2025,CUST0371,Smartphone,Mobile,Kano,Online,2,214300,0.1,385740,276160.34,109579.66,Bank Transfer,Pending
+ORD00520,1/12/2025,CUST0081,Keyboard,Accessories,Kaduna,Online,4,57700,0.05,219260,149970.56,69289.44,Mobile Money,Completed
+ORD00521,5/4/2025,CUST0309,Headphones,Accessories,Kaduna,Marketplace,1,27400,0.03,26578,18826.89,7751.11,USSD,Pending
+ORD00522,8/24/2025,CUST0306,Tablet,Mobile,Lagos,Marketplace,4,236500,0.08,870320,769313.73,101006.27,Card,Completed
+ORD00523,5/25/2025,CUST0051,Keyboard,Accessories,Kaduna,Retail Store,4,65200,0.03,252976,215037.68,37938.32,Bank Transfer,Pending
+ORD00524,8/8/2025,CUST0313,Smartwatch,Wearables,Kano,Marketplace,1,127900,0.05,121505,92471.17,29033.83,Bank Transfer,Completed
+ORD00525,10/6/2025,CUST0226,Smartphone,Mobile,Abuja,Retail Store,1,486400,0.2,389120,355996.54,33123.46,Mobile Money,Returned
+ORD00526,8/14/2025,CUST0084,Laptop,Computers,Kano,Retail Store,4,781400,0.03,3031832,2254217.19,777614.81,Bank Transfer,Cancelled
+ORD00527,6/26/2025,CUST0139,Tablet,Mobile,Enugu,Retail Store,4,262000,0.03,1016560,751434.86,265125.14,Card,Returned
+ORD00528,10/6/2025,CUST0251,Smartphone,Mobile,Abuja,Online,4,371400,0.08,1366752,1024485.46,342266.54,Bank Transfer,Pending
+ORD00529,12/5/2025,CUST0285,Laptop,Computers,Lagos,Retail Store,2,701600,0,1403200,891496.66,511703.34,Bank Transfer,Completed
+ORD00530,9/15/2025,CUST0127,Keyboard,Accessories,Oyo,Marketplace,3,69400,0.05,197790,172089.85,25700.15,USSD,Returned
+ORD00531,11/26/2025,CUST0308,Smartwatch,Wearables,Oyo,Online,1,148500,0.1,133650,115189.06,18460.94,Bank Transfer,Returned
+ORD00532,8/28/2025,CUST0228,Smartphone,Mobile,Kaduna,Retail Store,3,516300,0.08,1424988,1072198.02,352789.98,Cash,Completed
+ORD00533,8/7/2025,CUST0151,Monitor,Computers,Ogun,Online,1,98500,0.05,93575,64567.74,29007.26,USSD,Returned
+ORD00534,8/8/2025,CUST0009,Laptop,Computers,Rivers,Marketplace,2,660300,0.1,1188540,1099343.15,89196.85,USSD,Completed
+ORD00535,3/19/2025,CUST0075,Smartphone,Mobile,Ogun,Online,3,526100,0.15,1341555,1234843.2,106711.8,Card,Returned
+ORD00536,6/15/2025,CUST0399,Keyboard,Accessories,Lagos,Retail Store,5,60900,0,304500,247107.7,57392.3,Cash,Completed
+ORD00537,4/8/2025,CUST0101,Tablet,Mobile,Kano,Marketplace,2,346100,0.08,636824,591407.53,45416.47,Bank Transfer,Completed
+ORD00538,9/12/2025,CUST0207,External SSD,Storage,Abuja,Marketplace,1,74500,0.08,68540,53230.34,15309.66,USSD,Pending
+ORD00539,12/10/2025,CUST0174,Smartphone,Mobile,Enugu,Online,2,316700,0,633400,537722.94,95677.06,Card,Cancelled
+ORD00540,2/18/2025,CUST0232,Monitor,Computers,Oyo,Online,3,178100,0.03,518271,395976.65,122294.35,Cash,Completed
+ORD00541,1/27/2025,CUST0195,Headphones,Accessories,Oyo,Online,3,111400,0.05,317490,271194.32,46295.68,Card,Completed
+ORD00542,7/5/2025,CUST0343,Headphones,Accessories,Lagos,Online,2,31500,0.03,61110,52331.57,8778.43,USSD,Pending
+ORD00543,7/25/2025,CUST0062,Headphones,Accessories,Rivers,Corporate Sales,4,72800,0.08,267904,223529.64,44374.36,Cash,Pending
+ORD00544,2/24/2025,CUST0266,Smartphone,Mobile,Kano,Online,1,183500,0.03,177995,149906.79,28088.21,Mobile Money,Completed
+ORD00545,4/2/2025,CUST0369,Headphones,Accessories,Abuja,Online,6,92400,0,554400,356593.79,197806.21,Mobile Money,Completed
+ORD00546,6/15/2025,CUST0171,Laptop,Computers,Lagos,Marketplace,1,882300,0.05,838185,675325.86,162859.14,Card,Pending
+ORD00547,9/23/2025,CUST0095,Keyboard,Accessories,Enugu,Marketplace,2,68600,0.05,130340,100770.11,29569.89,Bank Transfer,Completed
+ORD00548,7/1/2025,CUST0025,Monitor,Computers,Ogun,Online,6,284700,0.05,1622790,1244727.68,378062.32,Bank Transfer,Returned
+ORD00549,10/4/2025,CUST0227,Smartphone,Mobile,Lagos,Online,1,283200,0.2,226560,179319.95,47240.05,Mobile Money,Cancelled
+ORD00550,7/17/2025,CUST0371,Laptop,Computers,Lagos,Online,1,672300,0.1,605070,493020.68,112049.32,Card,Completed
+ORD00551,11/11/2025,CUST0276,Monitor,Computers,Kaduna,Online,2,286900,0.05,545110,439787.31,105322.69,Bank Transfer,Returned
+ORD00552,3/22/2025,CUST0039,Monitor,Computers,Abuja,Online,1,247200,0.1,222480,209972.26,12507.74,Card,Pending
+ORD00553,11/21/2025,CUST0146,Laptop,Computers,Lagos,Corporate Sales,1,903500,0.03,876395,582668.53,293726.47,Bank Transfer,Completed
+ORD00554,9/22/2025,CUST0271,Power Bank,Accessories,Lagos,Online,1,47100,0.15,40035,29529.19,10505.81,Cash,Cancelled
+ORD00555,1/10/2025,CUST0047,Mouse,Accessories,Lagos,Online,3,20500,0,61500,49208.83,12291.17,USSD,Cancelled
+ORD00556,3/23/2025,CUST0072,Headphones,Accessories,Rivers,Corporate Sales,2,116900,0.1,210420,152780.83,57639.17,USSD,Completed
+ORD00557,6/28/2025,CUST0035,Smartphone,Mobile,Rivers,Retail Store,2,277100,0.08,509864,360153.11,149710.89,USSD,Returned
+ORD00558,10/6/2025,CUST0304,External SSD,Storage,Kaduna,Online,1,104900,0.05,99655,82353.28,17301.72,USSD,Returned
+ORD00559,6/27/2025,CUST0298,Tablet,Mobile,Abuja,Marketplace,1,201300,0.05,191235,140301.28,50933.72,Bank Transfer,Completed
+ORD00560,9/9/2025,CUST0119,Headphones,Accessories,Lagos,Retail Store,6,79800,0.03,464436,375143.49,89292.51,Mobile Money,Completed
+ORD00561,1/3/2025,CUST0214,Smartphone,Mobile,Oyo,Online,2,326300,0.1,587340,469985.55,117354.45,Mobile Money,Completed
+ORD00562,3/29/2025,CUST0017,Headphones,Accessories,Lagos,Corporate Sales,1,45900,0.1,41310,29444.66,11865.34,Bank Transfer,Completed
+ORD00563,9/16/2025,CUST0324,Smartphone,Mobile,Lagos,Online,1,315700,0.2,252560,268067.16,-15507.16,Cash,Returned
+ORD00564,9/19/2025,CUST0273,Smartphone,Mobile,Lagos,Online,1,339900,0.08,312708,211765.56,100942.44,Card,Completed
+ORD00565,1/22/2025,CUST0367,External SSD,Storage,Lagos,Marketplace,1,150000,0,150000,124184.38,25815.62,USSD,Completed
+ORD00566,9/25/2025,CUST0013,External SSD,Storage,Ogun,Online,4,167800,0,671200,432964.06,238235.94,Mobile Money,Completed
+ORD00567,12/28/2025,CUST0116,Headphones,Accessories,Rivers,Online,2,56700,0.15,96390,85802.2,10587.8,Cash,Pending
+ORD00568,7/18/2025,CUST0039,Headphones,Accessories,Ogun,Marketplace,1,54500,0.05,51775,38012.35,13762.65,Mobile Money,Returned
+ORD00569,9/9/2025,CUST0369,Laptop,Computers,Enugu,Retail Store,3,882800,0.08,2436528,1714446.54,722081.46,USSD,Completed
+ORD00570,8/31/2025,CUST0320,Headphones,Accessories,Rivers,Online,1,75200,0.05,71440,48093.96,23346.04,USSD,Completed
+ORD00571,6/18/2025,CUST0315,Smartphone,Mobile,Ogun,Retail Store,2,218200,0.05,414580,325470.22,89109.78,Mobile Money,Completed
+ORD00572,2/16/2025,CUST0053,Monitor,Computers,Lagos,Retail Store,1,105800,0,105800,72133.91,33666.09,USSD,Completed
+ORD00573,7/1/2025,CUST0125,External SSD,Storage,Lagos,Retail Store,2,106300,0.05,201970,179384.13,22585.87,Cash,Pending
+ORD00574,8/11/2025,CUST0102,External SSD,Storage,Ogun,Online,3,48300,0.08,133308,118923.9,14384.1,Cash,Returned
+ORD00575,10/8/2025,CUST0043,Monitor,Computers,Kano,Online,1,225900,0.08,207828,193324.28,14503.72,Cash,Completed
+ORD00576,7/7/2025,CUST0230,Mouse,Accessories,Ogun,Corporate Sales,2,34000,0,68000,49126.92,18873.08,USSD,Completed
+ORD00577,8/6/2025,CUST0189,Smartwatch,Wearables,Kaduna,Corporate Sales,6,53900,0.03,313698,237598.15,76099.85,USSD,Completed
+ORD00578,2/16/2025,CUST0351,Tablet,Mobile,Ogun,Marketplace,2,148800,0,297600,227200.86,70399.14,Cash,Pending
+ORD00579,8/5/2025,CUST0395,Power Bank,Accessories,Abuja,Retail Store,2,43700,0.05,83030,57066.48,25963.52,Mobile Money,Completed
+ORD00580,9/6/2025,CUST0093,Monitor,Computers,Rivers,Online,3,95200,0.05,271320,218592.78,52727.22,Bank Transfer,Completed
+ORD00581,8/20/2025,CUST0093,Smartwatch,Wearables,Lagos,Online,1,70200,0,70200,44484.38,25715.62,Mobile Money,Completed
+ORD00582,11/1/2025,CUST0220,Smartwatch,Wearables,Oyo,Corporate Sales,6,83300,0.2,399840,362743.53,37096.47,Bank Transfer,Returned
+ORD00583,5/9/2025,CUST0087,Monitor,Computers,Oyo,Online,3,149600,0.03,435336,360035.15,75300.85,Mobile Money,Completed
+ORD00584,1/2/2025,CUST0204,Monitor,Computers,Oyo,Retail Store,3,157700,0,473100,368305.12,104794.88,USSD,Completed
+ORD00585,9/16/2025,CUST0046,Laptop,Computers,Kaduna,Online,1,779600,0.15,662660,522628.51,140031.49,USSD,Pending
+ORD00586,1/16/2025,CUST0059,Power Bank,Accessories,Oyo,Online,1,21100,0.08,19412,15617.14,3794.86,Card,Completed
+ORD00587,3/16/2025,CUST0103,Smartwatch,Wearables,Ogun,Online,1,146900,0.05,139555,105373.31,34181.69,Cash,Returned
+ORD00588,5/12/2025,CUST0276,Power Bank,Accessories,Kano,Marketplace,4,23400,0,93600,72781.02,20818.98,USSD,Pending
+ORD00589,8/5/2025,CUST0080,Tablet,Mobile,Kano,Marketplace,1,163300,0,163300,106884.47,56415.53,Cash,Cancelled
+ORD00590,6/29/2025,CUST0181,Headphones,Accessories,Lagos,Online,4,94700,0.05,359860,242745.61,117114.39,Bank Transfer,Cancelled
+ORD00591,3/31/2025,CUST0085,Smartphone,Mobile,Kano,Retail Store,1,260800,0,260800,168128.47,92671.53,Cash,Completed
+ORD00592,12/19/2025,CUST0099,Headphones,Accessories,Lagos,Online,1,57500,0,57500,42094.85,15405.15,Cash,Completed
+ORD00593,1/29/2025,CUST0391,Smartphone,Mobile,Lagos,Online,4,262700,0.1,945720,764565.39,181154.61,Mobile Money,Completed
+ORD00594,4/10/2025,CUST0146,Laptop,Computers,Lagos,Marketplace,5,784800,0.15,3335400,2658273.57,677126.43,Mobile Money,Completed
+ORD00595,3/23/2025,CUST0242,Keyboard,Accessories,Lagos,Marketplace,3,30400,0,91200,64759.03,26440.97,Cash,Cancelled
+ORD00596,9/12/2025,CUST0020,External SSD,Storage,Enugu,Marketplace,1,162300,0,162300,123202.45,39097.55,Mobile Money,Completed
+ORD00597,3/10/2025,CUST0045,Headphones,Accessories,Ogun,Online,1,89500,0,89500,72030.06,17469.94,Cash,Cancelled
+ORD00598,3/3/2025,CUST0003,Smartphone,Mobile,Oyo,Retail Store,1,469200,0.03,455124,301323.46,153800.54,Mobile Money,Returned
+ORD00599,3/5/2025,CUST0031,External SSD,Storage,Rivers,Marketplace,1,155800,0,155800,98713.34,57086.66,Bank Transfer,Pending
+ORD00600,6/11/2025,CUST0286,Mouse,Accessories,Lagos,Online,3,24500,0.08,67620,48638.72,18981.28,Cash,Pending
+ORD00601,11/1/2025,CUST0298,Laptop,Computers,Enugu,Corporate Sales,4,840500,0.03,3261140,2399361.67,861778.33,Cash,Returned
+ORD00602,6/30/2025,CUST0187,Power Bank,Accessories,Kano,Online,2,18600,0,37200,28811.13,8388.87,Mobile Money,Completed
+ORD00603,10/2/2025,CUST0261,Monitor,Computers,Abuja,Online,5,275200,0,1376000,1090025.18,285974.82,Cash,Returned
+ORD00604,6/16/2025,CUST0188,External SSD,Storage,Oyo,Retail Store,2,130300,0.05,247570,174057.58,73512.42,Cash,Completed
+ORD00605,8/8/2025,CUST0373,Smartphone,Mobile,Enugu,Retail Store,2,480900,0,961800,650958.66,310841.34,Mobile Money,Completed
+ORD00606,5/24/2025,CUST0205,Monitor,Computers,Ogun,Retail Store,2,184100,0,368200,283673.29,84526.71,Card,Completed
+ORD00607,3/13/2025,CUST0330,Smartwatch,Wearables,Lagos,Online,3,168800,0.05,481080,401315.83,79764.17,Bank Transfer,Cancelled
+ORD00608,2/20/2025,CUST0151,Mouse,Accessories,Kano,Online,2,25100,0.15,42670,38799.61,3870.39,Card,Pending
+ORD00609,9/26/2025,CUST0226,Headphones,Accessories,Oyo,Retail Store,1,42300,0,42300,30980.19,11319.81,Cash,Returned
+ORD00610,7/29/2025,CUST0103,Laptop,Computers,Abuja,Marketplace,1,906500,0.05,861175,717563.3,143611.7,Cash,Completed
+ORD00611,1/12/2025,CUST0333,Smartphone,Mobile,Kano,Online,6,357500,0,2145000,1542346.76,602653.24,Cash,Cancelled
+ORD00612,11/12/2025,CUST0351,Keyboard,Accessories,Lagos,Online,1,56100,0.03,54417,38569.22,15847.78,Bank Transfer,Completed
+ORD00613,8/20/2025,CUST0282,External SSD,Storage,Ogun,Corporate Sales,1,91100,0,91100,71355,19745,Card,Completed
+ORD00614,11/17/2025,CUST0283,Laptop,Computers,Ogun,Retail Store,4,839900,0.05,3191620,2191016.81,1000603.19,USSD,Completed
+ORD00615,8/19/2025,CUST0204,Laptop,Computers,Lagos,Retail Store,2,851700,0.03,1652298,1144252.72,508045.28,Mobile Money,Completed
+ORD00616,4/4/2025,CUST0174,External SSD,Storage,Lagos,Marketplace,2,69700,0.03,135218,118710.65,16507.35,Cash,Returned
+ORD00617,2/27/2025,CUST0389,Smartphone,Mobile,Ogun,Marketplace,1,439500,0,439500,335710.34,103789.66,USSD,Returned
+ORD00618,6/18/2025,CUST0323,Mouse,Accessories,Oyo,Online,1,32700,0.08,30084,21923.59,8160.41,Mobile Money,Completed
+ORD00619,10/5/2025,CUST0359,Monitor,Computers,Lagos,Marketplace,6,123000,0.05,701100,470471.77,230628.23,Cash,Completed
+ORD00620,7/31/2025,CUST0016,External SSD,Storage,Lagos,Retail Store,2,112800,0.08,207552,147044.49,60507.51,Mobile Money,Completed
+ORD00621,5/17/2025,CUST0384,Power Bank,Accessories,Oyo,Marketplace,1,16300,0.03,15811,13528.08,2282.92,Bank Transfer,Returned
+ORD00622,11/1/2025,CUST0146,Smartphone,Mobile,Enugu,Retail Store,1,416500,0.08,383180,345562.86,37617.14,USSD,Returned
+ORD00623,10/16/2025,CUST0153,Headphones,Accessories,Lagos,Retail Store,3,40300,0.08,111228,78027.79,33200.21,Cash,Completed
+ORD00624,5/31/2025,CUST0238,Tablet,Mobile,Lagos,Retail Store,2,241700,0.1,435060,339265.58,95794.42,Card,Completed
+ORD00625,2/3/2025,CUST0084,External SSD,Storage,Rivers,Marketplace,5,143000,0.15,607750,547044.92,60705.08,Mobile Money,Completed
+ORD00626,9/29/2025,CUST0227,Tablet,Mobile,Rivers,Retail Store,2,158800,0.03,308072,199591.98,108480.02,USSD,Completed
+ORD00627,10/10/2025,CUST0153,Headphones,Accessories,Lagos,Corporate Sales,1,116700,0.03,113199,79173.02,34025.98,Mobile Money,Cancelled
+ORD00628,8/14/2025,CUST0237,Headphones,Accessories,Enugu,Online,1,98700,0.05,93765,66049.55,27715.45,Bank Transfer,Returned
+ORD00629,9/13/2025,CUST0024,Tablet,Mobile,Ogun,Marketplace,1,328400,0,328400,242466.66,85933.34,Card,Completed
+ORD00630,11/16/2025,CUST0328,External SSD,Storage,Lagos,Corporate Sales,1,118600,0.08,109112,92286.98,16825.02,Cash,Cancelled
+ORD00631,4/10/2025,CUST0087,Laptop,Computers,Lagos,Retail Store,6,651200,0.1,3516480,3160196.2,356283.8,Cash,Pending
+ORD00632,9/1/2025,CUST0388,Smartphone,Mobile,Oyo,Online,1,505700,0.03,490529,388849.74,101679.26,Cash,Completed
+ORD00633,10/1/2025,CUST0050,Smartwatch,Wearables,Lagos,Retail Store,6,108600,0.08,599472,422446.25,177025.75,Card,Completed
+ORD00634,3/16/2025,CUST0295,Smartphone,Mobile,Lagos,Corporate Sales,1,428900,0.08,394588,317937.09,76650.91,Cash,Cancelled
+ORD00635,11/30/2025,CUST0009,Headphones,Accessories,Lagos,Retail Store,1,112700,0.08,103684,93912.82,9771.18,Mobile Money,Completed
+ORD00636,1/6/2025,CUST0214,Tablet,Mobile,Lagos,Marketplace,1,225800,0.03,219026,148641.79,70384.21,USSD,Pending
+ORD00637,5/22/2025,CUST0158,Tablet,Mobile,Kaduna,Marketplace,2,286300,0.05,543970,370148.19,173821.81,Cash,Cancelled
+ORD00638,7/22/2025,CUST0214,Smartphone,Mobile,Lagos,Online,1,214200,0,214200,184204.25,29995.75,USSD,Completed
+ORD00639,8/22/2025,CUST0163,Smartphone,Mobile,Kaduna,Marketplace,3,206800,0.03,601788,521638.28,80149.72,Cash,Completed
+ORD00640,4/10/2025,CUST0261,Tablet,Mobile,Lagos,Online,2,301500,0.15,512550,474080.63,38469.37,Bank Transfer,Completed
+ORD00641,2/22/2025,CUST0242,Mouse,Accessories,Ogun,Online,1,21400,0.1,19260,15216,4044,USSD,Completed
+ORD00642,3/24/2025,CUST0240,Smartwatch,Wearables,Abuja,Retail Store,2,168000,0,336000,238858.64,97141.36,Mobile Money,Returned
+ORD00643,10/31/2025,CUST0173,Laptop,Computers,Kaduna,Corporate Sales,3,813200,0.08,2244432,1867786.76,376645.24,USSD,Completed
+ORD00644,5/27/2025,CUST0255,Headphones,Accessories,Ogun,Corporate Sales,1,41500,0,41500,29717.29,11782.71,Card,Completed
+ORD00645,7/23/2025,CUST0310,Headphones,Accessories,Enugu,Online,1,74400,0.05,70680,62252.47,8427.53,USSD,Pending
+ORD00646,8/24/2025,CUST0183,External SSD,Storage,Kaduna,Retail Store,2,135600,0.05,257640,222527.64,35112.36,Card,Returned
+ORD00647,10/16/2025,CUST0040,Mouse,Accessories,Lagos,Online,3,28000,0.05,79800,53338.88,26461.12,Card,Completed
+ORD00648,3/25/2025,CUST0242,Headphones,Accessories,Enugu,Online,1,38600,0.15,32810,26893.89,5916.11,Bank Transfer,Cancelled
+ORD00649,5/16/2025,CUST0310,Laptop,Computers,Kano,Online,1,861000,0.05,817950,567629.71,250320.29,Bank Transfer,Returned
+ORD00650,1/9/2025,CUST0289,Mouse,Accessories,Ogun,Corporate Sales,2,21400,0.08,39376,29303.68,10072.32,Mobile Money,Completed
+ORD00651,11/9/2025,CUST0239,Monitor,Computers,Lagos,Online,2,96200,0.05,182780,144488.54,38291.46,Card,Completed
+ORD00652,4/28/2025,CUST0164,Headphones,Accessories,Kano,Online,1,69300,0,69300,54894.16,14405.84,Card,Cancelled
+ORD00653,8/23/2025,CUST0343,Headphones,Accessories,Kano,Online,1,52200,0.08,48024,40519.37,7504.63,Mobile Money,Completed
+ORD00654,2/24/2025,CUST0231,Monitor,Computers,Ogun,Marketplace,6,146300,0,877800,546366.83,331433.17,Card,Completed
+ORD00655,5/10/2025,CUST0141,Power Bank,Accessories,Oyo,Online,1,25400,0.1,22860,21271.09,1588.91,USSD,Completed
+ORD00656,1/23/2025,CUST0224,Monitor,Computers,Ogun,Online,1,195700,0.15,166345,150240.52,16104.48,Mobile Money,Returned
+ORD00657,6/5/2025,CUST0299,Keyboard,Accessories,Lagos,Online,6,64700,0.15,329970,296634.62,33335.38,Cash,Cancelled
+ORD00658,4/1/2025,CUST0289,Keyboard,Accessories,Oyo,Marketplace,2,31800,0,63600,45746.19,17853.81,Cash,Returned
+ORD00659,1/16/2025,CUST0145,Power Bank,Accessories,Oyo,Retail Store,2,30900,0.1,55620,46964.06,8655.94,Mobile Money,Pending
+ORD00660,3/14/2025,CUST0176,External SSD,Storage,Abuja,Marketplace,1,51500,0.1,46350,36825.23,9524.77,Bank Transfer,Returned
+ORD00661,7/1/2025,CUST0249,Headphones,Accessories,Lagos,Marketplace,2,118900,0,237800,162404.52,75395.48,Card,Cancelled
+ORD00662,4/2/2025,CUST0070,Smartwatch,Wearables,Rivers,Retail Store,5,142400,0.15,605200,529476.05,75723.95,Card,Completed
+ORD00663,6/28/2025,CUST0334,Laptop,Computers,Rivers,Retail Store,1,808900,0,808900,641847.11,167052.89,Cash,Cancelled
+ORD00664,4/23/2025,CUST0318,Headphones,Accessories,Kano,Retail Store,2,31000,0.1,55800,53273.12,2526.88,Card,Pending
+ORD00665,9/30/2025,CUST0315,Headphones,Accessories,Lagos,Marketplace,1,28900,0.03,28033,22676.73,5356.27,Bank Transfer,Pending
+ORD00666,9/24/2025,CUST0358,Smartwatch,Wearables,Kaduna,Retail Store,5,54500,0.08,250700,211979.92,38720.08,Bank Transfer,Completed
+ORD00667,3/23/2025,CUST0181,Smartwatch,Wearables,Oyo,Online,2,60800,0,121600,92683.33,28916.67,Bank Transfer,Completed
+ORD00668,11/7/2025,CUST0129,Tablet,Mobile,Abuja,Retail Store,3,217600,0.05,620160,451569.36,168590.64,USSD,Returned
+ORD00669,10/7/2025,CUST0011,Laptop,Computers,Lagos,Corporate Sales,3,716500,0,2149500,1373993.11,775506.89,USSD,Completed
+ORD00670,12/19/2025,CUST0396,Smartwatch,Wearables,Lagos,Online,1,82700,0.15,70295,55375.45,14919.55,Mobile Money,Cancelled
+ORD00671,11/27/2025,CUST0029,Mouse,Accessories,Kaduna,Online,6,34900,0,209400,141169,68231,Mobile Money,Pending
+ORD00672,10/24/2025,CUST0203,External SSD,Storage,Ogun,Online,4,48400,0.03,187792,159136.82,28655.18,Card,Returned
+ORD00673,11/22/2025,CUST0113,Power Bank,Accessories,Rivers,Online,1,33500,0.08,30820,25782.23,5037.77,Card,Completed
+ORD00674,11/29/2025,CUST0357,Monitor,Computers,Rivers,Online,1,231100,0.08,212612,184895.08,27716.92,Bank Transfer,Completed
+ORD00675,11/5/2025,CUST0145,Keyboard,Accessories,Abuja,Online,1,37000,0.08,34040,31421.96,2618.04,Mobile Money,Completed
+ORD00676,6/16/2025,CUST0161,Tablet,Mobile,Lagos,Marketplace,2,280300,0.03,543782,404114.06,139667.94,Mobile Money,Cancelled
+ORD00677,10/2/2025,CUST0353,Keyboard,Accessories,Ogun,Marketplace,1,70200,0.03,68094,53109.19,14984.81,Bank Transfer,Completed
+ORD00678,11/30/2025,CUST0152,Headphones,Accessories,Oyo,Retail Store,3,57300,0.03,166743,116887.36,49855.64,Card,Cancelled
+ORD00679,10/23/2025,CUST0177,Headphones,Accessories,Rivers,Marketplace,1,111400,0.08,102488,93181.45,9306.55,Cash,Completed
+ORD00680,2/12/2025,CUST0375,Smartwatch,Wearables,Enugu,Corporate Sales,1,60800,0.05,57760,51362.43,6397.57,Mobile Money,Pending
+ORD00681,12/12/2025,CUST0051,Laptop,Computers,Abuja,Retail Store,3,680600,0,2041800,1447850.63,593949.37,Cash,Completed
+ORD00682,2/8/2025,CUST0139,Keyboard,Accessories,Enugu,Retail Store,1,73400,0,73400,51597.09,21802.91,Mobile Money,Completed
+ORD00683,9/23/2025,CUST0188,External SSD,Storage,Oyo,Online,2,54400,0.05,103360,74137.34,29222.66,Cash,Returned
+ORD00684,10/30/2025,CUST0057,Monitor,Computers,Enugu,Online,2,109000,0.03,211460,173059.89,38400.11,Bank Transfer,Completed
+ORD00685,4/4/2025,CUST0298,Tablet,Mobile,Kaduna,Retail Store,1,161000,0.03,156170,109526.06,46643.94,Card,Completed
+ORD00686,10/5/2025,CUST0082,Tablet,Mobile,Kaduna,Online,4,291700,0.08,1073456,816386.82,257069.18,USSD,Pending
+ORD00687,1/26/2025,CUST0194,Laptop,Computers,Rivers,Corporate Sales,2,899200,0.05,1708480,1340811.36,367668.64,Card,Completed
+ORD00688,10/12/2025,CUST0387,Power Bank,Accessories,Lagos,Marketplace,3,25300,0,75900,53846.32,22053.68,USSD,Returned
+ORD00689,9/10/2025,CUST0122,Smartphone,Mobile,Abuja,Online,2,285000,0.08,524400,402493.24,121906.76,USSD,Completed
+ORD00690,12/22/2025,CUST0380,Tablet,Mobile,Ogun,Online,3,225600,0.15,575280,508154.99,67125.01,Card,Cancelled
+ORD00691,8/27/2025,CUST0007,Smartphone,Mobile,Kano,Retail Store,1,228300,0,228300,180193.89,48106.11,Cash,Pending
+ORD00692,11/24/2025,CUST0381,Power Bank,Accessories,Ogun,Marketplace,1,44100,0.05,41895,35667.2,6227.8,USSD,Completed
+ORD00693,3/30/2025,CUST0253,Smartphone,Mobile,Lagos,Marketplace,1,525400,0,525400,396760.78,128639.22,Card,Completed
+ORD00694,3/26/2025,CUST0393,Laptop,Computers,Lagos,Marketplace,4,821100,0.05,3120180,2820299.24,299880.76,Card,Pending
+ORD00695,10/8/2025,CUST0105,Smartphone,Mobile,Lagos,Marketplace,1,386400,0,386400,239700.46,146699.54,Card,Completed
+ORD00696,3/3/2025,CUST0349,Laptop,Computers,Rivers,Retail Store,2,829500,0,1659000,1415799.56,243200.44,Mobile Money,Returned
+ORD00697,7/23/2025,CUST0307,Smartphone,Mobile,Abuja,Corporate Sales,2,286300,0.1,515340,361864.59,153475.41,Mobile Money,Returned
+ORD00698,7/7/2025,CUST0317,External SSD,Storage,Abuja,Corporate Sales,1,52400,0.05,49780,38815.41,10964.59,Bank Transfer,Completed
+ORD00699,11/29/2025,CUST0001,Power Bank,Accessories,Oyo,Online,1,36300,0.03,35211,23594.62,11616.38,USSD,Returned
+ORD00700,10/11/2025,CUST0298,External SSD,Storage,Abuja,Retail Store,1,70400,0,70400,53444.39,16955.61,Card,Returned
+ORD00701,1/20/2025,CUST0048,External SSD,Storage,Kano,Online,2,156300,0,312600,201296.66,111303.34,USSD,Completed
+ORD00702,2/12/2025,CUST0074,External SSD,Storage,Ogun,Online,3,161000,0.05,458850,359775.91,99074.09,Bank Transfer,Cancelled
+ORD00703,1/15/2025,CUST0053,Smartphone,Mobile,Abuja,Marketplace,2,259000,0.03,502460,436969.6,65490.4,Mobile Money,Completed
+ORD00704,12/4/2025,CUST0313,Headphones,Accessories,Oyo,Corporate Sales,2,35100,0.03,68094,53390.26,14703.74,Card,Cancelled
+ORD00705,3/31/2025,CUST0111,Smartphone,Mobile,Ogun,Marketplace,2,334000,0.05,634600,425660.61,208939.39,Mobile Money,Completed
+ORD00706,5/8/2025,CUST0199,Laptop,Computers,Lagos,Marketplace,2,748100,0.03,1451314,1254265.67,197048.33,Cash,Returned
+ORD00707,5/24/2025,CUST0073,Laptop,Computers,Ogun,Retail Store,1,809700,0.03,785409,536925.26,248483.74,Mobile Money,Returned
+ORD00708,4/6/2025,CUST0168,Monitor,Computers,Oyo,Online,4,161400,0.05,613320,430151.34,183168.66,Card,Completed
+ORD00709,2/14/2025,CUST0163,Laptop,Computers,Kano,Retail Store,4,810700,0,3242800,2739513.27,503286.73,Cash,Pending
+ORD00710,6/19/2025,CUST0186,External SSD,Storage,Abuja,Retail Store,2,96800,0.15,164560,157514.87,7045.13,Mobile Money,Completed
+ORD00711,8/16/2025,CUST0142,Power Bank,Accessories,Enugu,Retail Store,3,39000,0.08,107640,82543.82,25096.18,Mobile Money,Completed
+ORD00712,5/16/2025,CUST0004,External SSD,Storage,Ogun,Retail Store,1,72100,0.03,69937,47691.39,22245.61,USSD,Completed
+ORD00713,3/17/2025,CUST0329,Smartphone,Mobile,Oyo,Corporate Sales,2,389400,0,778800,558188.78,220611.22,Bank Transfer,Pending
+ORD00714,1/28/2025,CUST0245,Smartwatch,Wearables,Abuja,Corporate Sales,1,66500,0.05,63175,42017.62,21157.38,Mobile Money,Completed
+ORD00715,6/1/2025,CUST0158,Smartwatch,Wearables,Lagos,Corporate Sales,1,117600,0,117600,81107.35,36492.65,Bank Transfer,Completed
+ORD00716,2/28/2025,CUST0177,Headphones,Accessories,Oyo,Marketplace,1,67400,0.1,60660,47608.53,13051.47,Cash,Cancelled
+ORD00717,7/25/2025,CUST0094,Headphones,Accessories,Abuja,Corporate Sales,2,115600,0.03,224264,150361.25,73902.75,USSD,Completed
+ORD00718,8/11/2025,CUST0190,Monitor,Computers,Enugu,Corporate Sales,1,102700,0.05,97565,74421.69,23143.31,Card,Completed
+ORD00719,12/9/2025,CUST0133,Smartphone,Mobile,Kano,Retail Store,5,378500,0.1,1703250,1556029.17,147220.83,Mobile Money,Completed
+ORD00720,12/27/2025,CUST0338,Mouse,Accessories,Ogun,Online,3,20900,0,62700,52361.24,10338.76,Card,Completed
+ORD00721,9/28/2025,CUST0111,Monitor,Computers,Lagos,Online,1,172300,0.08,158516,122836.8,35679.2,USSD,Pending
+ORD00722,1/9/2025,CUST0013,Smartphone,Mobile,Lagos,Online,1,478200,0,478200,354357.31,123842.69,USSD,Completed
+ORD00723,4/19/2025,CUST0207,Smartwatch,Wearables,Lagos,Marketplace,5,155300,0.1,698850,593954.74,104895.26,Card,Completed
+ORD00724,5/20/2025,CUST0190,Laptop,Computers,Lagos,Retail Store,1,892600,0.05,847970,650715.63,197254.37,Mobile Money,Returned
+ORD00725,7/9/2025,CUST0089,Monitor,Computers,Oyo,Marketplace,1,254600,0.08,234232,167054.93,67177.07,Card,Completed
+ORD00726,4/28/2025,CUST0094,Headphones,Accessories,Lagos,Marketplace,2,108400,0.15,184280,159588.92,24691.08,Card,Completed
+ORD00727,6/1/2025,CUST0111,Power Bank,Accessories,Rivers,Online,2,52600,0.08,96784,84879.97,11904.03,Bank Transfer,Completed
+ORD00728,12/28/2025,CUST0093,Smartphone,Mobile,Lagos,Retail Store,1,247700,0.05,235315,190620.35,44694.65,Card,Completed
+ORD00729,7/13/2025,CUST0380,Smartwatch,Wearables,Lagos,Retail Store,1,46200,0.03,44814,33745.19,11068.81,Cash,Completed
+ORD00730,3/6/2025,CUST0017,Smartphone,Mobile,Lagos,Online,6,194100,0.05,1106370,933358.21,173011.79,Mobile Money,Cancelled
+ORD00731,11/26/2025,CUST0054,Mouse,Accessories,Lagos,Online,1,32200,0.2,25760,22448.88,3311.12,Bank Transfer,Completed
+ORD00732,8/30/2025,CUST0299,Smartphone,Mobile,Lagos,Retail Store,1,506100,0.08,465612,425320.57,40291.43,USSD,Completed
+ORD00733,6/17/2025,CUST0300,Tablet,Mobile,Kaduna,Retail Store,3,122500,0,367500,296018.07,71481.93,Bank Transfer,Cancelled
+ORD00734,8/30/2025,CUST0090,Keyboard,Accessories,Rivers,Retail Store,2,19200,0,38400,30741.52,7658.48,Bank Transfer,Completed
+ORD00735,10/4/2025,CUST0320,Power Bank,Accessories,Rivers,Online,2,38900,0,77800,65895.54,11904.46,Card,Completed
+ORD00736,3/24/2025,CUST0225,Monitor,Computers,Lagos,Online,2,277200,0,554400,384469.2,169930.8,Bank Transfer,Returned
+ORD00737,12/20/2025,CUST0026,Mouse,Accessories,Enugu,Retail Store,2,27200,0.03,52768,41313.13,11454.87,Cash,Completed
+ORD00738,9/10/2025,CUST0013,Monitor,Computers,Enugu,Online,1,221100,0.08,203412,151723.86,51688.14,Mobile Money,Completed
+ORD00739,12/22/2025,CUST0273,Tablet,Mobile,Ogun,Online,6,143200,0.08,790464,626755.37,163708.63,Cash,Pending
+ORD00740,7/17/2025,CUST0282,Headphones,Accessories,Ogun,Online,2,70400,0,140800,92193.56,48606.44,Bank Transfer,Cancelled
+ORD00741,9/28/2025,CUST0008,Keyboard,Accessories,Lagos,Corporate Sales,4,63600,0.03,246768,171438.7,75329.3,Bank Transfer,Returned
+ORD00742,7/18/2025,CUST0211,Smartwatch,Wearables,Abuja,Marketplace,5,60200,0,301000,204879.81,96120.19,Bank Transfer,Completed
+ORD00743,11/21/2025,CUST0313,Power Bank,Accessories,Lagos,Online,4,15100,0.1,54360,38948.52,15411.48,Card,Returned
+ORD00744,3/14/2025,CUST0234,Smartphone,Mobile,Lagos,Marketplace,1,228700,0.15,194395,195148.07,-753.07,Bank Transfer,Completed
+ORD00745,3/1/2025,CUST0249,Laptop,Computers,Oyo,Marketplace,1,782700,0.05,743565,548870.7,194694.3,Bank Transfer,Completed
+ORD00746,6/4/2025,CUST0165,Headphones,Accessories,Lagos,Corporate Sales,4,102800,0,411200,307439.4,103760.6,Bank Transfer,Completed
+ORD00747,3/15/2025,CUST0187,Mouse,Accessories,Rivers,Online,5,39600,0.03,192060,165715.85,26344.15,Bank Transfer,Pending
+ORD00748,2/25/2025,CUST0287,Headphones,Accessories,Lagos,Online,1,49300,0.08,45356,30570.75,14785.25,Bank Transfer,Completed
+ORD00749,2/17/2025,CUST0202,Headphones,Accessories,Enugu,Online,1,58700,0.2,46960,45432.57,1527.43,USSD,Pending
+ORD00750,12/23/2025,CUST0383,Keyboard,Accessories,Enugu,Marketplace,2,51400,0,102800,67202.39,35597.61,Card,Returned
+ORD00751,9/14/2025,CUST0160,Smartwatch,Wearables,Rivers,Marketplace,6,91000,0.05,518700,346939.68,171760.32,Cash,Completed
+ORD00752,3/2/2025,CUST0273,Tablet,Mobile,Oyo,Online,3,342200,0.05,975270,708664.08,266605.92,Bank Transfer,Completed
+ORD00753,12/2/2025,CUST0139,Keyboard,Accessories,Abuja,Online,1,43800,0,43800,31800.72,11999.28,Mobile Money,Cancelled
+ORD00754,3/30/2025,CUST0061,Monitor,Computers,Lagos,Marketplace,1,115200,0.1,103680,77854.04,25825.96,Bank Transfer,Pending
+ORD00755,8/25/2025,CUST0227,Keyboard,Accessories,Rivers,Online,2,26300,0,52600,43489.15,9110.85,Bank Transfer,Returned
+ORD00756,11/6/2025,CUST0119,External SSD,Storage,Kano,Retail Store,6,71300,0,427800,317504.45,110295.55,Cash,Completed
+ORD00757,2/4/2025,CUST0132,Monitor,Computers,Lagos,Marketplace,3,231900,0.05,660915,539155.14,121759.86,Card,Completed
+ORD00758,6/5/2025,CUST0356,Monitor,Computers,Abuja,Online,3,127000,0.08,350520,257635.16,92884.84,Mobile Money,Pending
+ORD00759,3/13/2025,CUST0126,Power Bank,Accessories,Rivers,Online,1,34100,0.08,31372,25390.83,5981.17,Cash,Cancelled
+ORD00760,12/4/2025,CUST0061,Headphones,Accessories,Rivers,Corporate Sales,1,80900,0.05,76855,53551.66,23303.34,Cash,Returned
+ORD00761,6/25/2025,CUST0126,Laptop,Computers,Rivers,Retail Store,1,942800,0.05,895660,731582.01,164077.99,Mobile Money,Completed
+ORD00762,12/3/2025,CUST0095,Mouse,Accessories,Lagos,Retail Store,1,12800,0.08,11776,8861.88,2914.12,Mobile Money,Completed
+ORD00763,3/31/2025,CUST0311,Smartphone,Mobile,Abuja,Retail Store,6,427800,0,2566800,1959258.95,607541.05,Cash,Pending
+ORD00764,11/16/2025,CUST0232,Monitor,Computers,Kano,Online,1,271400,0,271400,175835.54,95564.46,USSD,Pending
+ORD00765,7/3/2025,CUST0023,Smartphone,Mobile,Abuja,Retail Store,2,385100,0.08,708584,487710.91,220873.09,Mobile Money,Completed
+ORD00766,4/10/2025,CUST0189,Smartphone,Mobile,Ogun,Corporate Sales,4,188500,0,754000,508654.53,245345.47,Card,Cancelled
+ORD00767,10/4/2025,CUST0229,Keyboard,Accessories,Lagos,Retail Store,3,72300,0.1,195210,174072.14,21137.86,Card,Completed
+ORD00768,9/1/2025,CUST0061,Smartphone,Mobile,Abuja,Marketplace,4,403500,0.2,1291200,1236102.99,55097.01,Card,Completed
+ORD00769,11/3/2025,CUST0358,Laptop,Computers,Oyo,Online,2,920400,0.1,1656720,1509940.11,146779.89,Mobile Money,Cancelled
+ORD00770,3/15/2025,CUST0041,Tablet,Mobile,Enugu,Retail Store,2,124600,0.08,229264,205572.02,23691.98,Bank Transfer,Completed
+ORD00771,9/5/2025,CUST0069,Smartphone,Mobile,Ogun,Marketplace,2,342600,0.03,664644,536428.3,128215.7,Mobile Money,Pending
+ORD00772,4/23/2025,CUST0125,Smartphone,Mobile,Oyo,Retail Store,1,280500,0.05,266475,207813.69,58661.31,Bank Transfer,Pending
+ORD00773,2/23/2025,CUST0161,Laptop,Computers,Ogun,Marketplace,2,688900,0.15,1171130,991464.14,179665.86,Mobile Money,Pending
+ORD00774,1/12/2025,CUST0321,Laptop,Computers,Kaduna,Online,2,683900,0.1,1231020,941673.73,289346.27,Cash,Completed
+ORD00775,8/30/2025,CUST0141,Headphones,Accessories,Kano,Online,3,78200,0.03,227562,179948.58,47613.42,Mobile Money,Completed
+ORD00776,3/13/2025,CUST0298,Mouse,Accessories,Enugu,Online,2,13500,0.05,25650,16977.36,8672.64,Card,Completed
+ORD00777,3/30/2025,CUST0196,Keyboard,Accessories,Enugu,Corporate Sales,3,40100,0.2,96240,87837.37,8402.63,Cash,Completed
+ORD00778,6/22/2025,CUST0004,Headphones,Accessories,Rivers,Marketplace,2,87900,0.05,167010,127965.48,39044.52,Cash,Pending
+ORD00779,2/1/2025,CUST0057,Laptop,Computers,Enugu,Online,2,866200,0.15,1472540,1456548.26,15991.74,Cash,Completed
+ORD00780,12/14/2025,CUST0125,Smartwatch,Wearables,Kano,Corporate Sales,3,65000,0,195000,128790.44,66209.56,Card,Completed
+ORD00781,1/8/2025,CUST0208,Headphones,Accessories,Kaduna,Retail Store,1,25100,0.05,23845,19628.98,4216.02,Card,Completed
+ORD00782,12/5/2025,CUST0136,Smartphone,Mobile,Lagos,Marketplace,3,490800,0.15,1251540,954429.91,297110.09,Mobile Money,Returned
+ORD00783,8/19/2025,CUST0272,Monitor,Computers,Kaduna,Marketplace,2,127100,0.15,216070,177137.61,38932.39,Card,Returned
+ORD00784,11/4/2025,CUST0029,Monitor,Computers,Abuja,Corporate Sales,4,152100,0.1,547560,446255.95,101304.05,Cash,Completed
+ORD00785,8/2/2025,CUST0050,Smartphone,Mobile,Abuja,Online,1,430300,0.08,395876,302651.09,93224.91,Bank Transfer,Completed
+ORD00786,7/16/2025,CUST0142,Laptop,Computers,Enugu,Marketplace,1,823100,0.05,781945,685418.81,96526.19,Bank Transfer,Pending
+ORD00787,7/2/2025,CUST0128,Laptop,Computers,Lagos,Corporate Sales,4,817100,0.2,2614720,2062696.59,552023.41,Card,Returned
+ORD00788,5/3/2025,CUST0342,Laptop,Computers,Rivers,Marketplace,2,795100,0.08,1462984,993577.08,469406.92,Card,Completed
+ORD00789,8/4/2025,CUST0069,Smartphone,Mobile,Abuja,Online,3,220800,0,662400,545807.66,116592.34,Card,Completed
+ORD00790,2/16/2025,CUST0110,Monitor,Computers,Ogun,Marketplace,4,235500,0.03,913740,758070.12,155669.88,USSD,Completed
+ORD00791,3/8/2025,CUST0228,External SSD,Storage,Oyo,Retail Store,1,115600,0.03,112132,97460.21,14671.79,Mobile Money,Cancelled
+ORD00792,11/26/2025,CUST0220,Keyboard,Accessories,Enugu,Online,1,59800,0.03,58006,49100.7,8905.3,USSD,Completed
+ORD00793,3/25/2025,CUST0077,External SSD,Storage,Ogun,Corporate Sales,1,136500,0.08,125580,95898.77,29681.23,Cash,Returned
+ORD00794,7/30/2025,CUST0095,Tablet,Mobile,Enugu,Online,1,131300,0.05,124735,105419.18,19315.82,USSD,Cancelled
+ORD00795,12/31/2025,CUST0189,Headphones,Accessories,Ogun,Retail Store,5,31900,0.03,154715,134195.94,20519.06,Cash,Completed
+ORD00796,3/16/2025,CUST0209,Laptop,Computers,Ogun,Retail Store,4,874500,0,3498000,2249459.58,1248540.42,USSD,Completed
+ORD00797,2/28/2025,CUST0028,Laptop,Computers,Rivers,Online,1,893000,0.05,848350,749680.6,98669.4,USSD,Pending
+ORD00798,7/8/2025,CUST0066,Smartphone,Mobile,Ogun,Online,6,478200,0.03,2783124,2085166.47,697957.53,USSD,Completed
+ORD00799,12/11/2025,CUST0018,Mouse,Accessories,Enugu,Online,2,40900,0.05,77710,63863.24,13846.76,Mobile Money,Returned
+ORD00800,9/26/2025,CUST0303,External SSD,Storage,Abuja,Retail Store,6,162000,0.05,923400,786448.53,136951.47,Card,Pending
+ORD00801,6/12/2025,CUST0173,Tablet,Mobile,Rivers,Retail Store,1,196900,0.03,190993,160038.96,30954.04,USSD,Completed
+ORD00802,9/10/2025,CUST0021,Monitor,Computers,Rivers,Retail Store,1,150200,0.03,145694,123852.41,21841.59,USSD,Completed
+ORD00803,11/9/2025,CUST0364,Headphones,Accessories,Lagos,Online,3,87000,0,261000,220504.5,40495.5,Mobile Money,Completed
+ORD00804,1/18/2025,CUST0044,Monitor,Computers,Enugu,Online,1,156900,0.2,125520,106602.27,18917.73,Card,Completed
+ORD00805,12/19/2025,CUST0235,Laptop,Computers,Rivers,Online,1,779500,0.05,740525,530713.61,209811.39,Card,Completed
+ORD00806,11/13/2025,CUST0300,Headphones,Accessories,Rivers,Online,2,94100,0.1,169380,159326.87,10053.13,USSD,Completed
+ORD00807,3/27/2025,CUST0062,Mouse,Accessories,Enugu,Retail Store,2,9300,0.08,17112,12458.14,4653.86,Card,Cancelled
+ORD00808,9/13/2025,CUST0307,Smartphone,Mobile,Enugu,Online,1,450100,0.08,414092,370067.57,44024.43,Mobile Money,Completed
+ORD00809,6/14/2025,CUST0194,Laptop,Computers,Rivers,Retail Store,1,843700,0.1,759330,626828.68,132501.32,Card,Completed
+ORD00810,5/14/2025,CUST0220,Smartphone,Mobile,Ogun,Online,1,200500,0,200500,154493.67,46006.33,Bank Transfer,Completed
+ORD00811,1/3/2025,CUST0194,Tablet,Mobile,Enugu,Online,4,121900,0,487600,412335.6,75264.4,USSD,Cancelled
+ORD00812,4/2/2025,CUST0031,Monitor,Computers,Kano,Corporate Sales,1,99400,0.05,94430,74739.79,19690.21,Cash,Completed
+ORD00813,6/22/2025,CUST0035,Tablet,Mobile,Enugu,Corporate Sales,1,212000,0.05,201400,172227.57,29172.43,Card,Completed
+ORD00814,11/29/2025,CUST0127,Smartphone,Mobile,Lagos,Marketplace,2,507400,0.03,984356,694720.65,289635.35,Card,Returned
+ORD00815,9/14/2025,CUST0135,Headphones,Accessories,Lagos,Online,4,71800,0.03,278584,215112.37,63471.63,Mobile Money,Completed
+ORD00816,2/20/2025,CUST0081,Laptop,Computers,Lagos,Marketplace,1,684100,0.08,629372,541052.83,88319.17,Cash,Pending
+ORD00817,3/20/2025,CUST0390,Keyboard,Accessories,Kano,Online,3,25100,0.08,69276,57469.98,11806.02,Mobile Money,Pending
+ORD00818,8/24/2025,CUST0173,External SSD,Storage,Oyo,Corporate Sales,1,165000,0.05,156750,127953.76,28796.24,Cash,Pending
+ORD00819,12/24/2025,CUST0255,Tablet,Mobile,Ogun,Marketplace,1,159400,0.08,146648,128848.38,17799.62,Cash,Completed
+ORD00820,10/27/2025,CUST0133,Keyboard,Accessories,Lagos,Corporate Sales,1,50200,0.2,40160,41941.88,-1781.88,Mobile Money,Completed
+ORD00821,5/2/2025,CUST0299,External SSD,Storage,Ogun,Online,1,76600,0.03,74302,47839.97,26462.03,Card,Pending
+ORD00822,1/8/2025,CUST0032,Laptop,Computers,Kano,Marketplace,3,731200,0.05,2083920,1756870.35,327049.65,Mobile Money,Completed
+ORD00823,9/24/2025,CUST0002,Tablet,Mobile,Rivers,Marketplace,1,271700,0.08,249964,228008.45,21955.55,Cash,Completed
+ORD00824,8/9/2025,CUST0273,Headphones,Accessories,Ogun,Retail Store,1,111300,0.08,102396,87364.7,15031.3,USSD,Completed
+ORD00825,5/21/2025,CUST0228,Smartphone,Mobile,Lagos,Corporate Sales,1,436600,0.1,392940,317653.13,75286.87,Bank Transfer,Cancelled
+ORD00826,5/28/2025,CUST0029,Monitor,Computers,Kano,Corporate Sales,4,185800,0.05,706040,610935.74,95104.26,Bank Transfer,Pending
+ORD00827,8/31/2025,CUST0249,Laptop,Computers,Lagos,Marketplace,3,883000,0,2649000,2030770.57,618229.43,Cash,Completed
+ORD00828,9/7/2025,CUST0114,Smartphone,Mobile,Enugu,Online,2,480400,0,960800,701062.44,259737.56,Card,Cancelled
+ORD00829,3/24/2025,CUST0025,Mouse,Accessories,Oyo,Marketplace,2,18000,0.08,33120,26113.32,7006.68,Mobile Money,Completed
+ORD00830,10/6/2025,CUST0324,Headphones,Accessories,Lagos,Marketplace,1,56900,0.05,54055,42813.77,11241.23,Cash,Pending
+ORD00831,9/7/2025,CUST0343,External SSD,Storage,Kano,Retail Store,2,47000,0.03,91180,68412.22,22767.78,Bank Transfer,Completed
+ORD00832,9/28/2025,CUST0042,Monitor,Computers,Kano,Online,1,265000,0.05,251750,201518.39,50231.61,Card,Completed
+ORD00833,4/5/2025,CUST0326,Smartphone,Mobile,Lagos,Marketplace,2,219000,0.08,402960,371487.74,31472.26,Mobile Money,Completed
+ORD00834,5/5/2025,CUST0188,Smartwatch,Wearables,Kano,Retail Store,2,176800,0.15,300560,226279,74281,Cash,Completed
+ORD00835,4/25/2025,CUST0313,External SSD,Storage,Kano,Corporate Sales,1,97500,0.1,87750,74592.51,13157.49,Mobile Money,Completed
+ORD00836,1/19/2025,CUST0066,Headphones,Accessories,Kaduna,Online,6,54000,0.08,298080,232624.55,65455.45,Card,Completed
+ORD00837,5/3/2025,CUST0218,External SSD,Storage,Enugu,Online,6,136700,0,820200,575086.18,245113.82,Bank Transfer,Completed
+ORD00838,11/20/2025,CUST0253,Smartwatch,Wearables,Ogun,Retail Store,2,120800,0.1,217440,157535.36,59904.64,Bank Transfer,Completed
+ORD00839,7/10/2025,CUST0379,Headphones,Accessories,Ogun,Online,1,63300,0.05,60135,50012.28,10122.72,Card,Completed
+ORD00840,6/29/2025,CUST0099,Smartwatch,Wearables,Oyo,Retail Store,1,156200,0.15,132770,126649.69,6120.31,Cash,Cancelled
+ORD00841,6/24/2025,CUST0222,Mouse,Accessories,Abuja,Online,1,43600,0.05,41420,32064.57,9355.43,Cash,Cancelled
+ORD00842,11/7/2025,CUST0119,Headphones,Accessories,Oyo,Online,3,43500,0.1,117450,96143.79,21306.21,Card,Completed
+ORD00843,4/3/2025,CUST0373,Smartphone,Mobile,Abuja,Marketplace,4,200900,0.03,779492,498581.48,280910.52,Card,Pending
+ORD00844,7/29/2025,CUST0218,Tablet,Mobile,Abuja,Online,1,196000,0,196000,154222.04,41777.96,Mobile Money,Pending
+ORD00845,6/14/2025,CUST0013,Monitor,Computers,Abuja,Corporate Sales,2,209100,0,418200,352716.38,65483.62,Card,Completed
+ORD00846,6/14/2025,CUST0252,Laptop,Computers,Kaduna,Online,1,741600,0,741600,595194.98,146405.02,Bank Transfer,Completed
+ORD00847,9/20/2025,CUST0365,Tablet,Mobile,Enugu,Online,3,187900,0.1,507330,375547.98,131782.02,Cash,Completed
+ORD00848,5/29/2025,CUST0071,Tablet,Mobile,Kaduna,Retail Store,2,148900,0.05,282910,199144.36,83765.64,Mobile Money,Completed
+ORD00849,7/3/2025,CUST0280,Power Bank,Accessories,Kaduna,Retail Store,1,16400,0,16400,11459.28,4940.72,Mobile Money,Completed
+ORD00850,8/10/2025,CUST0274,Smartphone,Mobile,Lagos,Online,5,398600,0.1,1793700,1676411.66,117288.34,Bank Transfer,Completed
+ORD00851,2/27/2025,CUST0140,External SSD,Storage,Lagos,Marketplace,3,127900,0,383700,254788.27,128911.73,Bank Transfer,Returned
+ORD00852,7/22/2025,CUST0029,Monitor,Computers,Rivers,Retail Store,3,190800,0,572400,466916.45,105483.55,Bank Transfer,Completed
+ORD00853,5/15/2025,CUST0144,Laptop,Computers,Kaduna,Marketplace,2,692300,0,1384600,933473.97,451126.03,Cash,Completed
+ORD00854,1/20/2025,CUST0050,Laptop,Computers,Kaduna,Online,2,921000,0.15,1565700,1339720.72,225979.28,Mobile Money,Pending
+ORD00855,10/28/2025,CUST0359,Mouse,Accessories,Kano,Retail Store,5,38700,0.08,178020,129618.87,48401.13,Mobile Money,Completed
+ORD00856,12/9/2025,CUST0170,Smartwatch,Wearables,Ogun,Corporate Sales,6,148200,0.08,818064,720671.51,97392.49,Bank Transfer,Completed
+ORD00857,3/4/2025,CUST0347,External SSD,Storage,Lagos,Online,1,170500,0,170500,112743.07,57756.93,Card,Cancelled
+ORD00858,2/9/2025,CUST0359,Keyboard,Accessories,Lagos,Online,2,27700,0.08,50968,41775.44,9192.56,Mobile Money,Cancelled
+ORD00859,1/17/2025,CUST0370,Laptop,Computers,Rivers,Retail Store,1,819900,0.03,795303,541787.92,253515.08,USSD,Pending
+ORD00860,4/18/2025,CUST0072,Smartphone,Mobile,Kano,Corporate Sales,6,353100,0.08,1949112,1725978.98,223133.02,Cash,Completed
+ORD00861,6/30/2025,CUST0157,Power Bank,Accessories,Lagos,Online,1,35600,0.03,34532,24480.81,10051.19,Card,Completed
+ORD00862,12/3/2025,CUST0398,Laptop,Computers,Kano,Online,3,837900,0.08,2312604,2142393.74,170210.26,Mobile Money,Completed
+ORD00863,5/19/2025,CUST0283,Monitor,Computers,Kano,Online,2,217600,0.05,413440,300506.84,112933.16,Cash,Completed
+ORD00864,1/22/2025,CUST0172,Tablet,Mobile,Oyo,Online,1,255000,0.1,229500,192517.56,36982.44,USSD,Completed
+ORD00865,4/22/2025,CUST0251,External SSD,Storage,Rivers,Online,6,148500,0.08,819720,589970.33,229749.67,Mobile Money,Returned
+ORD00866,6/6/2025,CUST0134,Tablet,Mobile,Lagos,Online,4,192900,0.1,694440,544385.4,150054.6,USSD,Cancelled
+ORD00867,3/31/2025,CUST0308,Smartwatch,Wearables,Enugu,Online,6,91500,0.08,505080,440685.65,64394.35,Cash,Completed
+ORD00868,5/3/2025,CUST0186,Smartphone,Mobile,Abuja,Online,1,391600,0.03,379852,243875.26,135976.74,Mobile Money,Pending
+ORD00869,2/1/2025,CUST0028,Tablet,Mobile,Lagos,Retail Store,1,150000,0.05,142500,95305.57,47194.43,Cash,Completed
+ORD00870,7/8/2025,CUST0044,Headphones,Accessories,Oyo,Retail Store,1,50700,0.08,46644,36498.53,10145.47,Card,Completed
+ORD00871,2/25/2025,CUST0015,Monitor,Computers,Oyo,Retail Store,3,114200,0.05,325470,290112.43,35357.57,Card,Pending
+ORD00872,11/5/2025,CUST0231,External SSD,Storage,Abuja,Retail Store,1,166700,0.1,150030,143186.13,6843.87,Cash,Cancelled
+ORD00873,4/3/2025,CUST0218,Laptop,Computers,Rivers,Marketplace,1,656800,0,656800,550316.83,106483.17,Mobile Money,Cancelled
+ORD00874,12/23/2025,CUST0327,Headphones,Accessories,Kaduna,Online,1,35500,0.03,34435,22313.16,12121.84,Bank Transfer,Completed
+ORD00875,9/14/2025,CUST0244,Laptop,Computers,Abuja,Retail Store,4,889800,0.15,3025320,2947709.81,77610.19,Card,Returned
+ORD00876,9/3/2025,CUST0221,Laptop,Computers,Oyo,Marketplace,2,910700,0.05,1730330,1534488.03,195841.97,Card,Pending
+ORD00877,11/23/2025,CUST0170,Tablet,Mobile,Lagos,Online,5,342700,0.15,1456475,1248286.88,208188.12,Mobile Money,Completed
+ORD00878,4/29/2025,CUST0037,Headphones,Accessories,Unknown,Retail Store,1,50000,0,50000,36869.61,13130.39,Card,Completed
+ORD00879,2/12/2025,CUST0293,Mouse,Accessories,Rivers,Online,2,33200,0.15,56440,41455.36,14984.64,Mobile Money,Cancelled
+ORD00880,10/13/2025,CUST0088,Power Bank,Accessories,Oyo,Retail Store,4,32200,0.05,122360,100696.63,21663.37,USSD,Returned
+ORD00881,2/18/2025,CUST0277,Tablet,Mobile,Lagos,Marketplace,1,209300,0.15,177905,134338.94,43566.06,Bank Transfer,Returned
+ORD00882,2/26/2025,CUST0120,Smartphone,Mobile,Kaduna,Online,2,275100,0.03,533694,468604.55,65089.45,Mobile Money,Completed
+ORD00883,9/12/2025,CUST0002,Headphones,Accessories,Abuja,Marketplace,1,54900,0.15,46665,39887.99,6777.01,Cash,Pending
+ORD00884,11/25/2025,CUST0100,Smartphone,Mobile,Lagos,Retail Store,1,307500,0.03,298275,247359.48,50915.52,Bank Transfer,Completed
+ORD00885,12/10/2025,CUST0159,Mouse,Accessories,Oyo,Online,1,27900,0,27900,22231.65,5668.35,Cash,Pending
+ORD00886,10/9/2025,CUST0279,Laptop,Computers,Enugu,Marketplace,1,760000,0,760000,561869.09,198130.91,Card,Cancelled
+ORD00887,11/5/2025,CUST0129,Monitor,Computers,Rivers,Marketplace,2,142500,0.1,256500,205300.2,51199.8,USSD,Completed
+ORD00888,9/16/2025,CUST0371,Laptop,Computers,Oyo,Marketplace,1,654500,0.2,523600,434064.34,89535.66,Mobile Money,Completed
+ORD00889,6/15/2025,CUST0128,Power Bank,Accessories,Ogun,Marketplace,2,24200,0.08,44528,32580.87,11947.13,Cash,Completed
+ORD00890,4/11/2025,CUST0132,Headphones,Accessories,Lagos,Retail Store,2,82600,0.1,148680,119274.5,29405.5,Bank Transfer,Pending
+ORD00891,7/5/2025,CUST0108,External SSD,Storage,Kano,Online,1,124500,0.08,114540,100136.85,14403.15,Card,Pending
+ORD00892,10/2/2025,CUST0187,Headphones,Accessories,Enugu,Marketplace,1,110200,0.15,93670,81154.77,12515.23,Bank Transfer,Completed
+ORD00893,9/23/2025,CUST0175,Keyboard,Accessories,Kano,Online,1,25600,0.1,23040,21691.42,1348.58,Bank Transfer,Completed
+ORD00894,11/2/2025,CUST0028,Keyboard,Accessories,Kano,Corporate Sales,1,47000,0,47000,38256.01,8743.99,Mobile Money,Returned
+ORD00895,3/15/2025,CUST0342,Smartphone,Mobile,Rivers,Marketplace,2,338400,0.03,656496,421576.54,234919.46,USSD,Completed
+ORD00896,8/2/2025,CUST0108,Headphones,Accessories,Kano,Corporate Sales,1,68700,0.05,65265,55527.32,9737.68,Cash,Pending
+ORD00897,2/2/2025,CUST0044,Mouse,Accessories,Oyo,Marketplace,2,18700,0.05,35530,31168.74,4361.26,Card,Completed
+ORD00898,1/12/2025,CUST0307,Tablet,Mobile,Abuja,Online,1,293300,0.03,284501,242786.27,41714.73,Bank Transfer,Completed
+ORD00899,11/25/2025,CUST0071,Headphones,Accessories,Kano,Retail Store,3,39500,0.05,112575,101267.97,11307.03,Cash,Pending
+ORD00900,4/25/2025,CUST0320,Smartwatch,Wearables,Oyo,Corporate Sales,1,125900,0.05,119605,79687.63,39917.37,Mobile Money,Completed
+ORD00901,10/11/2025,CUST0054,External SSD,Storage,Enugu,Online,3,140600,0,421800,340203.19,81596.81,Card,Cancelled
+ORD00902,8/23/2025,CUST0150,Headphones,Accessories,Lagos,Online,2,26900,0.05,51110,44959.23,6150.77,Mobile Money,Cancelled
+ORD00903,7/11/2025,CUST0006,Smartwatch,Wearables,Lagos,Marketplace,4,167500,0.05,636500,421357.96,215142.04,Card,Cancelled
+ORD00904,12/31/2025,CUST0029,Keyboard,Accessories,Rivers,Retail Store,1,35300,0.1,31770,24502.67,7267.33,Mobile Money,Completed
+ORD00905,12/24/2025,CUST0250,Keyboard,Accessories,Oyo,Retail Store,2,20300,0.15,34510,25735.09,8774.91,Bank Transfer,Completed
+ORD00906,12/30/2025,CUST0103,Headphones,Accessories,Ogun,Corporate Sales,2,37000,0.08,68080,50466.77,17613.23,USSD,Cancelled
+ORD00907,3/12/2025,CUST0155,Smartphone,Mobile,Lagos,Retail Store,1,373100,0.08,343252,285526.89,57725.11,Card,Completed
+ORD00908,1/24/2025,CUST0214,Laptop,Computers,Abuja,Marketplace,1,877800,0.05,833910,594125.85,239784.15,Bank Transfer,Completed
+ORD00909,7/3/2025,CUST0027,Tablet,Mobile,Lagos,Corporate Sales,4,242900,0.05,923020,616746.03,306273.97,Mobile Money,Returned
+ORD00910,5/21/2025,CUST0356,Tablet,Mobile,Lagos,Marketplace,3,187300,0.1,505710,395888.09,109821.91,USSD,Completed
+ORD00911,6/26/2025,CUST0342,Smartphone,Mobile,Kano,Online,6,369400,0.08,2039088,1406775.04,632312.96,USSD,Cancelled
+ORD00912,9/8/2025,CUST0250,Laptop,Computers,Enugu,Marketplace,1,714300,0.05,678585,549501.76,129083.24,USSD,Cancelled
+ORD00913,11/29/2025,CUST0332,Keyboard,Accessories,Oyo,Online,1,65000,0.05,61750,51092.81,10657.19,Cash,Completed
+ORD00914,4/23/2025,CUST0109,Laptop,Computers,Kano,Online,1,678500,0.03,658145,455566.62,202578.38,USSD,Completed
+ORD00915,4/5/2025,CUST0056,Laptop,Computers,Kano,Online,2,668300,0.03,1296502,887945.27,408556.73,Card,Returned
+ORD00916,5/21/2025,CUST0126,Tablet,Mobile,Kaduna,Corporate Sales,1,253100,0.15,215135,179098.64,36036.36,Cash,Completed
+ORD00917,11/7/2025,CUST0360,Power Bank,Accessories,Lagos,Marketplace,1,41600,0,41600,30066.38,11533.62,Card,Completed
+ORD00918,11/11/2025,CUST0293,External SSD,Storage,Oyo,Retail Store,3,126500,0,379500,313810.44,65689.56,Cash,Completed
+ORD00919,5/21/2025,CUST0356,Laptop,Computers,Kaduna,Online,4,827700,0.03,3211476,2138741.86,1072734.14,Bank Transfer,Cancelled
+ORD00920,8/16/2025,CUST0188,Mouse,Accessories,Lagos,Online,2,10300,0.03,19982,16508.63,3473.37,Mobile Money,Returned
+ORD00921,11/14/2025,CUST0349,Smartphone,Mobile,Lagos,Corporate Sales,6,485400,0.05,2766780,2000037.4,766742.6,Mobile Money,Pending
+ORD00922,9/9/2025,CUST0015,Tablet,Mobile,Rivers,Retail Store,4,268300,0.05,1019540,885134.06,134405.94,Bank Transfer,Pending
+ORD00923,12/29/2025,CUST0343,Smartwatch,Wearables,Lagos,Retail Store,2,134300,0.08,247112,203362.83,43749.17,Card,Cancelled
+ORD00924,5/15/2025,CUST0392,Laptop,Computers,Abuja,Corporate Sales,2,778900,0.03,1511066,1235185.99,275880.01,Card,Completed
+ORD00925,11/2/2025,CUST0373,Smartwatch,Wearables,Rivers,Online,3,46500,0.03,135315,118048.57,17266.43,Cash,Pending
+ORD00926,6/17/2025,CUST0397,Smartwatch,Wearables,Rivers,Online,1,129400,0.15,109990,104786.25,5203.75,Bank Transfer,Returned
+ORD00927,1/20/2025,CUST0315,Smartphone,Mobile,Lagos,Corporate Sales,4,435200,0.05,1653760,1301616.8,352143.2,Card,Completed
+ORD00928,12/16/2025,CUST0110,Monitor,Computers,Abuja,Corporate Sales,1,282000,0.08,259440,216586.17,42853.83,Cash,Completed
+ORD00929,9/5/2025,CUST0166,Laptop,Computers,Abuja,Online,1,810100,0.1,729090,600958.76,128131.24,Bank Transfer,Completed
+ORD00930,9/3/2025,CUST0081,Keyboard,Accessories,Oyo,Corporate Sales,4,36800,0.05,139840,116684.56,23155.44,Card,Cancelled
+ORD00931,1/26/2025,CUST0350,Tablet,Mobile,Kano,Marketplace,1,344500,0.05,327275,216072.07,111202.93,Bank Transfer,Returned
+ORD00932,12/18/2025,CUST0358,Laptop,Computers,Oyo,Online,6,901900,0.03,5249058,3819736.16,1429321.84,Cash,Returned
+ORD00933,11/22/2025,CUST0194,External SSD,Storage,Lagos,Marketplace,3,154600,0.08,426696,307371.8,119324.2,Cash,Completed
+ORD00934,6/1/2025,CUST0290,Power Bank,Accessories,Kaduna,Corporate Sales,2,23400,0,46800,36430.46,10369.54,Card,Completed
+ORD00935,4/28/2025,CUST0005,Keyboard,Accessories,Kaduna,Online,3,59800,0.08,165048,130220.7,34827.3,USSD,Completed
+ORD00936,2/26/2025,CUST0251,Laptop,Computers,Enugu,Retail Store,4,830400,0,3321600,2418993.16,902606.84,Bank Transfer,Cancelled
+ORD00937,12/31/2025,CUST0065,Mouse,Accessories,Kano,Retail Store,3,20000,0,60000,41394.63,18605.37,USSD,Returned
+ORD00938,12/10/2025,CUST0062,Keyboard,Accessories,Abuja,Corporate Sales,1,63200,0,63200,48647.15,14552.85,USSD,Returned
+ORD00939,7/24/2025,CUST0267,Power Bank,Accessories,Kano,Retail Store,2,32100,0.15,54570,45858.59,8711.41,USSD,Completed
+ORD00940,4/7/2025,CUST0171,Smartphone,Mobile,Oyo,Online,2,456100,0.03,884834,735584.98,149249.02,Mobile Money,Completed
+ORD00941,6/1/2025,CUST0102,Monitor,Computers,Kano,Online,1,175000,0.2,140000,129981.64,10018.36,Card,Pending
+ORD00942,12/19/2025,CUST0068,Headphones,Accessories,Lagos,Online,2,76700,0.05,145730,100070.27,45659.73,Bank Transfer,Returned
+ORD00943,10/2/2025,CUST0206,Monitor,Computers,Abuja,Marketplace,1,228500,0.15,194225,176654.11,17570.89,Mobile Money,Completed
+ORD00944,1/24/2025,CUST0028,Power Bank,Accessories,Kaduna,Retail Store,1,19400,0.03,18818,13289.35,5528.65,USSD,Completed
+ORD00945,3/14/2025,CUST0361,Smartwatch,Wearables,Lagos,Corporate Sales,5,124700,0,623500,393722.75,229777.25,Bank Transfer,Completed
+ORD00946,2/16/2025,CUST0260,Keyboard,Accessories,Lagos,Marketplace,1,58700,0.15,49895,47864.57,2030.43,USSD,Completed
+ORD00947,3/15/2025,CUST0351,Mouse,Accessories,Enugu,Online,3,11500,0.15,29325,27008.37,2316.63,Cash,Completed
+ORD00948,11/21/2025,CUST0010,Laptop,Computers,Ogun,Online,2,800300,0.1,1440540,1216335.12,224204.88,Cash,Completed
+ORD00949,4/19/2025,CUST0190,Laptop,Computers,Rivers,Retail Store,2,748800,0.15,1272960,1232783.94,40176.06,Mobile Money,Completed
+ORD00950,10/24/2025,CUST0362,Power Bank,Accessories,Lagos,Corporate Sales,1,51900,0.15,44115,36960.47,7154.53,Cash,Completed
+ORD00951,8/24/2025,CUST0240,Mouse,Accessories,Lagos,Marketplace,2,13700,0.03,26578,17819.73,8758.27,USSD,Pending
+ORD00952,12/13/2025,CUST0232,Smartphone,Mobile,Abuja,Corporate Sales,1,345800,0.03,335426,258745.73,76680.27,USSD,Pending
+ORD00953,8/3/2025,CUST0221,Keyboard,Accessories,Kano,Corporate Sales,1,34600,0,34600,27886.42,6713.58,Card,Completed
+ORD00954,3/10/2025,CUST0391,Tablet,Mobile,Oyo,Retail Store,1,184400,0.03,178868,128036.97,50831.03,Mobile Money,Completed
+ORD00955,2/7/2025,CUST0357,External SSD,Storage,Kaduna,Online,1,132000,0.2,105600,110138.69,-4538.69,Bank Transfer,Completed
+ORD00956,8/25/2025,CUST0397,Keyboard,Accessories,Rivers,Retail Store,3,51700,0.03,150447,104407.16,46039.84,Mobile Money,Returned
+ORD00957,2/5/2025,CUST0159,Monitor,Computers,Lagos,Online,1,222300,0.05,211185,142546.95,68638.05,Mobile Money,Cancelled
+ORD00958,5/8/2025,CUST0293,Smartphone,Mobile,Abuja,Corporate Sales,3,273400,0,820200,577687.71,242512.29,Card,Completed
+ORD00959,1/27/2025,CUST0308,Smartwatch,Wearables,Lagos,Marketplace,3,58500,0.03,170235,136126.26,34108.74,Bank Transfer,Pending
+ORD00960,5/22/2025,CUST0207,Headphones,Accessories,Oyo,Corporate Sales,5,42300,0.08,194580,141689.33,52890.67,Cash,Completed
+ORD00961,3/11/2025,CUST0110,Keyboard,Accessories,Abuja,Corporate Sales,1,38200,0.05,36290,32632.1,3657.9,Cash,Completed
+ORD00962,2/26/2025,CUST0181,Headphones,Accessories,Abuja,Retail Store,1,61400,0.05,58330,51033.5,7296.5,Cash,Completed
+ORD00963,7/6/2025,CUST0364,Smartphone,Mobile,Lagos,Corporate Sales,1,484200,0.08,445464,359843.77,85620.23,Bank Transfer,Completed
+ORD00964,3/7/2025,CUST0398,Laptop,Computers,Lagos,Retail Store,3,814000,0,2442000,1554711.21,887288.79,USSD,Returned
+ORD00965,2/12/2025,CUST0110,Smartphone,Mobile,Ogun,Online,4,198500,0,794000,539288.95,254711.05,Card,Completed
+ORD00966,7/19/2025,CUST0336,Tablet,Mobile,Lagos,Retail Store,1,253000,0.05,240350,210087.04,30262.96,Mobile Money,Pending
+ORD00967,5/6/2025,CUST0369,Smartwatch,Wearables,Lagos,Retail Store,1,142200,0.05,135090,97937.1,37152.9,Cash,Completed
+ORD00968,12/16/2025,CUST0126,Smartphone,Mobile,Abuja,Online,1,491400,0.03,476658,306153.41,170504.59,USSD,Completed
+ORD00969,9/26/2025,CUST0003,Keyboard,Accessories,Kaduna,Online,1,18200,0.03,17654,15200.22,2453.78,Mobile Money,Returned
+ORD00970,11/12/2025,CUST0059,External SSD,Storage,Oyo,Retail Store,2,119100,0.03,231054,201940.98,29113.02,USSD,Completed
+ORD00971,12/8/2025,CUST0293,Smartphone,Mobile,Oyo,Online,1,522100,0.08,480332,448942.89,31389.11,Bank Transfer,Returned
+ORD00972,6/3/2025,CUST0242,Smartphone,Mobile,Abuja,Online,2,320600,0,641200,546903.59,94296.41,USSD,Cancelled
+ORD00973,1/21/2025,CUST0219,Smartphone,Mobile,Oyo,Online,4,249900,0.03,969612,710962.3,258649.7,Bank Transfer,Completed
+ORD00974,4/25/2025,CUST0301,Laptop,Computers,Ogun,Retail Store,2,870700,0.1,1567260,1478645.44,88614.56,Mobile Money,Cancelled
+ORD00975,3/6/2025,CUST0265,Smartphone,Mobile,Abuja,Corporate Sales,2,296800,0.08,546112,424498.49,121613.51,Cash,Completed
+ORD00976,7/18/2025,CUST0016,Monitor,Computers,Kano,Corporate Sales,4,258900,0.05,983820,643471.63,340348.37,USSD,Returned
+ORD00977,4/17/2025,CUST0295,Tablet,Mobile,Kano,Retail Store,2,161200,0.05,306280,238213.7,68066.3,Cash,Completed
+ORD00978,3/19/2025,CUST0065,External SSD,Storage,Abuja,Online,2,177400,0.15,301580,235256.12,66323.88,Cash,Pending
+ORD00979,1/29/2025,CUST0304,Smartphone,Mobile,Lagos,Online,3,292700,0,878100,595626.14,282473.86,USSD,Completed
+ORD00980,3/18/2025,CUST0204,Headphones,Accessories,Ogun,Online,4,116800,0.03,453184,330408.31,122775.69,Card,Completed
+ORD00981,10/16/2025,CUST0371,Keyboard,Accessories,Rivers,Corporate Sales,1,72800,0.03,70616,49079.34,21536.66,Card,Returned
+ORD00982,9/11/2025,CUST0210,Laptop,Computers,Lagos,Retail Store,1,670800,0.03,650676,542523.24,108152.76,Bank Transfer,Completed
+ORD00983,3/7/2025,CUST0005,Mouse,Accessories,Enugu,Online,3,11600,0.03,33756,24164.95,9591.05,Bank Transfer,Pending
+ORD00984,12/16/2025,CUST0091,Mouse,Accessories,Abuja,Retail Store,4,40600,0.05,154280,110385.86,43894.14,Bank Transfer,Completed
+ORD00985,6/21/2025,CUST0272,Headphones,Accessories,Abuja,Corporate Sales,1,103300,0,103300,65570.85,37729.15,Card,Cancelled
+ORD00986,8/1/2025,CUST0018,Laptop,Computers,Kano,Online,1,716300,0.05,680485,468949.9,211535.1,Cash,Cancelled
+ORD00987,10/1/2025,CUST0337,Headphones,Accessories,Oyo,Online,2,97900,0.05,186010,131953.26,54056.74,Bank Transfer,Pending
+ORD00988,4/28/2025,CUST0290,Tablet,Mobile,Kano,Online,1,175600,0,175600,141428.15,34171.85,Bank Transfer,Completed
+ORD00989,10/11/2025,CUST0375,Headphones,Accessories,Lagos,Marketplace,3,44500,0.08,122820,90660.51,32159.49,Card,Pending
+ORD00990,4/25/2025,CUST0176,Monitor,Computers,Ogun,Retail Store,3,287100,0,861300,625404.98,235895.02,Cash,Completed
+ORD00991,4/11/2025,CUST0322,Smartwatch,Wearables,Lagos,Corporate Sales,1,162700,0.03,157819,107052.98,50766.02,Bank Transfer,Completed
+ORD00992,12/10/2025,CUST0017,Mouse,Accessories,Oyo,Online,2,42000,0.1,75600,68040.57,7559.43,Bank Transfer,Pending
+ORD00993,12/19/2025,CUST0392,Headphones,Accessories,Ogun,Retail Store,6,104100,0.03,605862,466994.29,138867.71,Mobile Money,Completed
+ORD00994,3/14/2025,CUST0330,Tablet,Mobile,Enugu,Online,5,327500,0.15,1391875,1121535.35,270339.65,Card,Cancelled
+ORD00995,3/24/2025,CUST0333,Laptop,Computers,Oyo,Retail Store,2,773600,0.03,1500784,1173793.47,326990.53,USSD,Completed
+ORD00996,12/3/2025,CUST0132,External SSD,Storage,Abuja,Marketplace,2,54300,0.03,105342,80580.64,24761.36,Mobile Money,Completed
+ORD00997,8/29/2025,CUST0035,Headphones,Accessories,Kano,Retail Store,1,52100,0.03,50537,42749.98,7787.02,Bank Transfer,Cancelled
+ORD00998,12/26/2025,CUST0391,Headphones,Accessories,Lagos,Corporate Sales,1,77400,0.08,71208,57870.22,13337.78,Cash,Completed
+ORD00999,3/2/2025,CUST0018,Tablet,Mobile,Lagos,Corporate Sales,1,159700,0.05,151715,112522.04,39192.96,Bank Transfer,Pending
+ORD01000,10/27/2025,CUST0014,Headphones,Accessories,Lagos,Retail Store,3,26700,0,80100,61756.08,18343.92,Mobile Money,Cancelled
+ORD01001,12/22/2025,CUST0268,Smartphone,Mobile,Lagos,Marketplace,2,304600,0.05,578740,396839.17,181900.83,Mobile Money,Cancelled
+ORD01002,9/12/2025,CUST0072,Headphones,Accessories,Kano,Retail Store,2,94000,0.05,178600,134398.49,44201.51,Card,Pending
+ORD01003,7/18/2025,CUST0332,Smartphone,Mobile,Abuja,Online,3,434500,0.03,1264395,819443.93,444951.07,Cash,Completed
+ORD01004,9/29/2025,CUST0009,Keyboard,Accessories,Rivers,Marketplace,1,28300,0.03,27451,24281.44,3169.56,Card,Completed
+ORD01005,6/30/2025,CUST0355,Monitor,Computers,Kano,Marketplace,1,243800,0.1,219420,153771.89,65648.11,Bank Transfer,Completed
+ORD01006,5/4/2025,CUST0245,Smartphone,Mobile,Kano,Online,2,432100,0.05,820990,589060.05,231929.95,Mobile Money,Completed
+ORD01007,1/27/2025,CUST0288,Laptop,Computers,Lagos,Online,1,779500,0,779500,606550.78,172949.22,USSD,Pending
+ORD01008,9/6/2025,CUST0261,Smartwatch,Wearables,Kano,Marketplace,2,50100,0.08,92184,83020.54,9163.46,Card,Cancelled
+ORD01009,5/15/2025,CUST0234,External SSD,Storage,Rivers,Online,1,108000,0.05,102600,74860.76,27739.24,Card,Completed
+ORD01010,3/12/2025,CUST0204,Monitor,Computers,Lagos,Retail Store,1,96700,0.03,93799,80326.09,13472.91,Bank Transfer,Completed
+ORD01011,6/6/2025,CUST0116,Monitor,Computers,Enugu,Retail Store,4,241500,0.05,917700,829473.31,88226.69,Card,Completed
+ORD01012,4/10/2025,CUST0238,Monitor,Computers,Lagos,Marketplace,4,176000,0,704000,604682.46,99317.54,Card,Cancelled
+ORD01013,3/4/2025,CUST0076,Laptop,Computers,Kaduna,Marketplace,3,948900,0.03,2761299,2327471.58,433827.42,Card,Returned
+ORD01014,3/12/2025,CUST0046,Smartwatch,Wearables,Enugu,Retail Store,2,113000,0.2,180800,143143.09,37656.91,Bank Transfer,Returned
+ORD01015,9/1/2025,CUST0382,Tablet,Mobile,Kaduna,Corporate Sales,4,155600,0.05,591280,525297.1,65982.9,Mobile Money,Returned
+ORD01016,10/15/2025,CUST0194,Power Bank,Accessories,Lagos,Retail Store,1,19500,0.05,18525,13322.54,5202.46,USSD,Completed
+ORD01017,8/2/2025,CUST0325,Keyboard,Accessories,Lagos,Corporate Sales,2,59100,0.1,106380,89245.81,17134.19,Mobile Money,Completed
+ORD01018,10/1/2025,CUST0284,Smartphone,Mobile,Kaduna,Marketplace,2,246700,0,493400,329632.75,163767.25,Mobile Money,Completed
+ORD01019,11/3/2025,CUST0076,Smartwatch,Wearables,Rivers,Marketplace,4,74700,0.08,274896,214966.88,59929.12,Cash,Completed
+ORD01020,6/15/2025,CUST0158,Power Bank,Accessories,Kano,Marketplace,2,39100,0.03,75854,48828.17,27025.83,USSD,Completed
+ORD01021,12/19/2025,CUST0253,Tablet,Mobile,Oyo,Online,1,328800,0.05,312360,205471.89,106888.11,USSD,Completed
+ORD01022,5/8/2025,CUST0210,External SSD,Storage,Lagos,Online,4,157800,0.1,568080,406953.58,161126.42,Bank Transfer,Cancelled
+ORD01023,10/15/2025,CUST0280,Monitor,Computers,Oyo,Online,3,107400,0.08,296424,215145.88,81278.12,Mobile Money,Completed
+ORD01024,2/16/2025,CUST0282,Smartphone,Mobile,Lagos,Online,2,369200,0.05,701480,577023.62,124456.38,USSD,Completed
+ORD01025,5/14/2025,CUST0330,Keyboard,Accessories,Rivers,Retail Store,2,60400,0.03,117176,91945.8,25230.2,USSD,Pending
+ORD01026,2/28/2025,CUST0386,Keyboard,Accessories,Ogun,Corporate Sales,3,21600,0,64800,41212.2,23587.8,USSD,Completed
+ORD01027,12/6/2025,CUST0348,Headphones,Accessories,Kano,Marketplace,5,103900,0.05,493525,366214.96,127310.04,Cash,Returned
+ORD01028,2/11/2025,CUST0367,Tablet,Mobile,Enugu,Online,3,127700,0.05,363945,267416.02,96528.98,Card,Cancelled
+ORD01029,2/5/2025,CUST0370,Power Bank,Accessories,Lagos,Retail Store,1,52700,0,52700,37399.81,15300.19,Cash,Completed
+ORD01030,3/16/2025,CUST0022,Power Bank,Accessories,Kaduna,Marketplace,2,13400,0.08,24656,21501.02,3154.98,Cash,Completed
+ORD01031,4/4/2025,CUST0394,Headphones,Accessories,Lagos,Online,1,26300,0.03,25511,16942.3,8568.7,USSD,Returned
+ORD01032,8/29/2025,CUST0320,Keyboard,Accessories,Oyo,Marketplace,5,24100,0.15,102425,93620.82,8804.18,Bank Transfer,Completed
+ORD01033,3/22/2025,CUST0108,Smartphone,Mobile,Lagos,Online,3,295100,0.1,796770,659207.14,137562.86,Cash,Completed
+ORD01034,3/18/2025,CUST0179,Laptop,Computers,Ogun,Retail Store,1,760300,0.08,699476,634286.52,65189.48,USSD,Completed
+ORD01035,5/26/2025,CUST0252,Tablet,Mobile,Lagos,Retail Store,3,163200,0.15,416160,366642.63,49517.37,Cash,Returned
+ORD01036,5/27/2025,CUST0165,Headphones,Accessories,Lagos,Online,4,48100,0.08,177008,160839.81,16168.19,USSD,Cancelled
+ORD01037,9/15/2025,CUST0234,Laptop,Computers,Lagos,Online,2,806900,0.05,1533110,1100962.82,432147.18,Card,Completed
+ORD01038,12/30/2025,CUST0283,Laptop,Computers,Enugu,Retail Store,2,682400,0.03,1323856,960173.97,363682.03,Bank Transfer,Returned
+ORD01039,11/9/2025,CUST0190,Keyboard,Accessories,Oyo,Online,1,29500,0.2,23600,22662.31,937.69,USSD,Returned
+ORD01040,12/9/2025,CUST0015,Smartwatch,Wearables,Kano,Online,1,88100,0.03,85457,55377.86,30079.14,Card,Completed
+ORD01041,10/22/2025,CUST0312,Keyboard,Accessories,Lagos,Marketplace,5,70000,0,350000,300191.43,49808.57,Bank Transfer,Cancelled
+ORD01042,12/22/2025,CUST0041,Laptop,Computers,Lagos,Online,2,843800,0,1687600,1089876.95,597723.05,USSD,Cancelled
+ORD01043,6/21/2025,CUST0397,Smartwatch,Wearables,Oyo,Corporate Sales,1,119700,0.05,113715,100776.56,12938.44,USSD,Completed
+ORD01044,10/21/2025,CUST0052,Smartwatch,Wearables,Kano,Retail Store,1,160800,0.15,136680,108966.85,27713.15,USSD,Cancelled
+ORD01045,5/20/2025,CUST0083,Smartphone,Mobile,Abuja,Marketplace,4,513500,0.05,1951300,1577197.98,374102.02,Card,Completed
+ORD01046,7/17/2025,CUST0094,Headphones,Accessories,Lagos,Online,4,67300,0.05,255740,168273.19,87466.81,Bank Transfer,Returned
+ORD01047,12/30/2025,CUST0273,Headphones,Accessories,Abuja,Corporate Sales,3,84500,0.08,233220,185795.26,47424.74,USSD,Completed
+ORD01048,3/6/2025,CUST0228,Mouse,Accessories,Oyo,Online,1,40400,0,40400,31160.37,9239.63,Mobile Money,Completed
+ORD01049,10/26/2025,CUST0099,Keyboard,Accessories,Lagos,Marketplace,2,74100,0.03,143754,117370.38,26383.62,Mobile Money,Completed
+ORD01050,2/18/2025,CUST0303,Smartphone,Mobile,Lagos,Retail Store,1,471800,0,471800,363779.12,108020.88,Mobile Money,Cancelled
+ORD01051,1/23/2025,CUST0106,Mouse,Accessories,Kaduna,Marketplace,1,31000,0.05,29450,19898.86,9551.14,Mobile Money,Cancelled
+ORD01052,10/3/2025,CUST0180,Monitor,Computers,Abuja,Retail Store,2,189300,0.05,359670,272507.28,87162.72,Cash,Completed
+ORD01053,10/10/2025,CUST0391,Mouse,Accessories,Rivers,Online,3,29500,0.03,85845,72529.29,13315.71,USSD,Completed
+ORD01054,1/13/2025,CUST0297,Tablet,Mobile,Lagos,Corporate Sales,6,181300,0,1087800,879984.73,207815.27,Card,Pending
+ORD01055,8/26/2025,CUST0203,Mouse,Accessories,Lagos,Online,2,42100,0.03,81674,70280.53,11393.47,Mobile Money,Returned
+ORD01056,4/11/2025,CUST0105,Smartwatch,Wearables,Lagos,Online,5,141300,0,706500,599852.87,106647.13,USSD,Completed
+ORD01057,4/26/2025,CUST0305,Headphones,Accessories,Enugu,Online,1,118000,0.15,100300,86760.3,13539.7,USSD,Completed
+ORD01058,11/24/2025,CUST0325,External SSD,Storage,Lagos,Marketplace,3,106500,0.08,293940,274112.98,19827.02,Cash,Returned
+ORD01059,2/5/2025,CUST0028,Laptop,Computers,Lagos,Online,2,745000,0.05,1415500,1273629.17,141870.83,Cash,Returned
+ORD01060,12/17/2025,CUST0013,Laptop,Computers,Abuja,Marketplace,1,949400,0.08,873448,795529.19,77918.81,Card,Completed
+ORD01061,4/18/2025,CUST0245,External SSD,Storage,Oyo,Online,3,52200,0.05,148770,115052.53,33717.47,Mobile Money,Completed
+ORD01062,7/12/2025,CUST0377,Smartphone,Mobile,Kano,Marketplace,3,336300,0.2,807120,639955.49,167164.51,USSD,Completed
+ORD01063,1/14/2025,CUST0134,Tablet,Mobile,Kaduna,Online,1,196700,0,196700,165247.43,31452.57,Bank Transfer,Cancelled
+ORD01064,3/19/2025,CUST0346,External SSD,Storage,Lagos,Retail Store,3,106500,0.2,255600,265067.92,-9467.92,USSD,Completed
+ORD01065,4/12/2025,CUST0374,Monitor,Computers,Abuja,Online,3,112400,0.05,320340,214919.02,105420.98,USSD,Returned
+ORD01066,2/7/2025,CUST0394,Power Bank,Accessories,Enugu,Online,5,50200,0.1,225900,155748.97,70151.03,USSD,Pending
+ORD01067,2/16/2025,CUST0099,Tablet,Mobile,Lagos,Retail Store,2,328000,0.05,623200,563768.56,59431.44,Bank Transfer,Completed
+ORD01068,1/21/2025,CUST0015,Keyboard,Accessories,Lagos,Online,3,62300,0.03,181293,154547.64,26745.36,Mobile Money,Pending
+ORD01069,3/13/2025,CUST0226,Power Bank,Accessories,Kaduna,Retail Store,4,50400,0.05,191520,156267.5,35252.5,Card,Cancelled
+ORD01070,1/23/2025,CUST0124,Smartphone,Mobile,Rivers,Retail Store,1,238800,0.2,191040,156831.24,34208.76,Card,Returned
+ORD01071,2/14/2025,CUST0386,Smartwatch,Wearables,Abuja,Online,1,173300,0.03,168101,115495.86,52605.14,USSD,Completed
+ORD01072,9/11/2025,CUST0038,Smartwatch,Wearables,Abuja,Corporate Sales,2,82100,0.08,151064,109893.35,41170.65,Bank Transfer,Completed
+ORD01073,6/11/2025,CUST0214,Mouse,Accessories,Abuja,Online,1,13700,0.08,12604,10045.73,2558.27,Bank Transfer,Completed
+ORD01074,11/8/2025,CUST0136,Smartphone,Mobile,Lagos,Online,5,484400,0.05,2300900,1701395.31,599504.69,Card,Cancelled
+ORD01075,12/11/2025,CUST0266,Headphones,Accessories,Enugu,Retail Store,3,119400,0.15,304470,293864.66,10605.34,Mobile Money,Cancelled
+ORD01076,3/14/2025,CUST0328,Tablet,Mobile,Ogun,Online,2,124700,0.05,236930,186067.39,50862.61,Card,Returned
+ORD01077,11/3/2025,CUST0310,Laptop,Computers,Kano,Online,2,780800,0.1,1405440,1224036.38,181403.62,USSD,Completed
+ORD01078,6/20/2025,CUST0069,Headphones,Accessories,Lagos,Marketplace,1,58800,0.08,54096,47314.98,6781.02,Bank Transfer,Completed
+ORD01079,5/24/2025,CUST0357,Mouse,Accessories,Oyo,Online,1,27700,0,27700,22470.52,5229.48,Bank Transfer,Completed
+ORD01080,2/26/2025,CUST0367,Smartwatch,Wearables,Kaduna,Retail Store,1,85200,0,85200,53362.75,31837.25,Card,Cancelled
+ORD01081,3/4/2025,CUST0073,Smartwatch,Wearables,Kaduna,Online,1,141300,0,141300,106463.02,34836.98,Mobile Money,Completed
+ORD01082,2/7/2025,CUST0196,Smartwatch,Wearables,Kano,Retail Store,3,144900,0.05,412965,340342.59,72622.41,Bank Transfer,Completed
+ORD01083,10/21/2025,CUST0360,Smartwatch,Wearables,Ogun,Online,4,54600,0,218400,174635.94,43764.06,USSD,Pending
+ORD01084,7/22/2025,CUST0244,Tablet,Mobile,Lagos,Online,2,140800,0.05,267520,181658.21,85861.79,Bank Transfer,Completed
+ORD01085,11/14/2025,CUST0087,Monitor,Computers,Rivers,Corporate Sales,2,220900,0,441800,314418.47,127381.53,USSD,Returned
+ORD01086,8/15/2025,CUST0351,Laptop,Computers,Lagos,Online,1,907500,0.2,726000,588319.93,137680.07,Mobile Money,Completed
+ORD01087,5/22/2025,CUST0251,Keyboard,Accessories,Abuja,Online,2,66000,0.15,112200,100540.67,11659.33,Mobile Money,Cancelled
+ORD01088,3/12/2025,CUST0008,Headphones,Accessories,Kano,Retail Store,4,87000,0.03,337560,231104.99,106455.01,Mobile Money,Pending
+ORD01089,9/19/2025,CUST0068,Tablet,Mobile,Oyo,Retail Store,4,137300,0.1,494280,358894.75,135385.25,Card,Completed
+ORD01090,2/5/2025,CUST0328,Power Bank,Accessories,Lagos,Online,2,42100,0.05,79990,54044.27,25945.73,Card,Pending
+ORD01091,9/27/2025,CUST0311,Tablet,Mobile,Rivers,Corporate Sales,1,332400,0.2,265920,208016.21,57903.79,Cash,Completed
+ORD01092,11/16/2025,CUST0018,Tablet,Mobile,Lagos,Online,2,209600,0.15,356320,347865.23,8454.77,Bank Transfer,Completed
+ORD01093,7/29/2025,CUST0312,External SSD,Storage,Rivers,Corporate Sales,4,133200,0.05,506160,356975.18,149184.82,Mobile Money,Pending
+ORD01094,2/16/2025,CUST0043,Monitor,Computers,Rivers,Marketplace,3,268000,0.15,683400,636883.17,46516.83,Card,Completed
+ORD01095,11/21/2025,CUST0167,Smartphone,Mobile,Enugu,Marketplace,4,207400,0.1,746640,711980.61,34659.39,USSD,Pending
+ORD01096,12/12/2025,CUST0378,Monitor,Computers,Lagos,Marketplace,2,128000,0.03,248320,203610.33,44709.67,Bank Transfer,Pending
+ORD01097,8/28/2025,CUST0073,Headphones,Accessories,Lagos,Online,1,86900,0,86900,62501.4,24398.6,USSD,Returned
+ORD01098,5/15/2025,CUST0281,Laptop,Computers,Lagos,Online,4,881500,0.05,3349700,2345382.35,1004317.65,Card,Completed
+ORD01099,11/12/2025,CUST0316,Laptop,Computers,Lagos,Marketplace,1,766300,0.1,689670,531855.08,157814.92,Mobile Money,Pending
+ORD01100,2/5/2025,CUST0178,Laptop,Computers,Lagos,Online,3,659700,0,1979100,1290214.2,688885.8,Mobile Money,Completed
+ORD01101,12/13/2025,CUST0230,Monitor,Computers,Lagos,Marketplace,2,203000,0,406000,305801,100199,Card,Completed
+ORD01102,10/3/2025,CUST0074,Smartwatch,Wearables,Lagos,Marketplace,5,94400,0.03,457840,303386.95,154453.05,Mobile Money,Completed
+ORD01103,12/20/2025,CUST0380,Keyboard,Accessories,Lagos,Marketplace,6,46500,0.05,265050,174655.01,90394.99,Card,Completed
+ORD01104,12/6/2025,CUST0353,Headphones,Accessories,Lagos,Retail Store,1,99400,0.05,94430,71025.93,23404.07,Mobile Money,Completed
+ORD01105,2/11/2025,CUST0202,Laptop,Computers,Rivers,Corporate Sales,1,899600,0.05,854620,614209.36,240410.64,Card,Completed
+ORD01106,12/26/2025,CUST0213,Monitor,Computers,Abuja,Corporate Sales,3,128400,0.03,373644,304452.41,69191.59,Mobile Money,Completed
+ORD01107,2/28/2025,CUST0224,Mouse,Accessories,Kano,Corporate Sales,2,31300,0.03,60722,46060.35,14661.65,Mobile Money,Returned
+ORD01108,11/29/2025,CUST0300,Smartphone,Mobile,Lagos,Marketplace,1,259200,0.03,251424,207292.67,44131.33,Mobile Money,Completed
+ORD01109,2/28/2025,CUST0021,Tablet,Mobile,Enugu,Retail Store,2,203000,0.05,385700,274351.97,111348.03,Card,Pending
+ORD01110,7/1/2025,CUST0103,Tablet,Mobile,Lagos,Corporate Sales,2,282700,0,565400,441662.17,123737.83,Bank Transfer,Pending
+ORD01111,1/12/2025,CUST0243,Mouse,Accessories,Abuja,Corporate Sales,5,10500,0.2,42000,33665.96,8334.04,Bank Transfer,Completed
+ORD01112,7/22/2025,CUST0096,Monitor,Computers,Enugu,Corporate Sales,1,249100,0.1,224190,196626.77,27563.23,USSD,Completed
+ORD01113,12/24/2025,CUST0025,Headphones,Accessories,Lagos,Marketplace,5,30200,0,151000,118896,32104,Card,Cancelled
+ORD01114,1/16/2025,CUST0398,Smartwatch,Wearables,Lagos,Retail Store,1,75900,0.03,73623,51710.88,21912.12,Mobile Money,Returned
+ORD01115,8/10/2025,CUST0214,Headphones,Accessories,Enugu,Retail Store,2,106200,0.1,191160,146551.42,44608.58,Bank Transfer,Completed
+ORD01116,8/20/2025,CUST0261,External SSD,Storage,Abuja,Retail Store,2,52200,0.03,101268,80409.51,20858.49,Card,Cancelled
+ORD01117,1/17/2025,CUST0202,Smartphone,Mobile,Lagos,Marketplace,2,481200,0.15,818040,675111.03,142928.97,Cash,Completed
+ORD01118,5/15/2025,CUST0332,Keyboard,Accessories,Kaduna,Corporate Sales,1,46500,0,46500,35773.38,10726.62,Cash,Completed
+ORD01119,10/21/2025,CUST0148,Mouse,Accessories,Rivers,Corporate Sales,6,23000,0,138000,99995.03,38004.97,Cash,Completed
+ORD01120,9/3/2025,CUST0344,Smartphone,Mobile,Oyo,Online,1,450700,0,450700,354142.18,96557.82,Card,Completed
+ORD01121,6/29/2025,CUST0116,Smartphone,Mobile,Kano,Online,1,227300,0.05,215935,173044.01,42890.99,Card,Completed
+ORD01122,7/7/2025,CUST0281,Monitor,Computers,Enugu,Marketplace,1,285200,0,285200,206503.47,78696.53,USSD,Completed
+ORD01123,6/7/2025,CUST0030,Laptop,Computers,Abuja,Online,2,798600,0.03,1549284,1265032.64,284251.36,Mobile Money,Completed
+ORD01124,2/24/2025,CUST0195,Smartphone,Mobile,Lagos,Corporate Sales,2,488800,0.05,928720,810926.72,117793.28,Mobile Money,Returned
+ORD01125,11/5/2025,CUST0366,Laptop,Computers,Abuja,Marketplace,4,827400,0.05,3144120,2054305.3,1089814.7,Cash,Completed
+ORD01126,1/31/2025,CUST0348,External SSD,Storage,Lagos,Retail Store,1,156500,0.15,133025,133902.07,-877.07,USSD,Completed
+ORD01127,8/16/2025,CUST0194,Laptop,Computers,Abuja,Retail Store,5,933700,0,4668500,3351318.48,1317181.52,USSD,Completed
+ORD01128,7/2/2025,CUST0028,Tablet,Mobile,Lagos,Retail Store,1,325000,0,325000,246498.94,78501.06,Cash,Completed
+ORD01129,11/30/2025,CUST0326,Smartphone,Mobile,Kaduna,Retail Store,1,521400,0.15,443190,433866.87,9323.13,USSD,Pending
+ORD01130,3/10/2025,CUST0326,Headphones,Accessories,Oyo,Retail Store,4,90500,0,362000,274080.1,87919.9,Card,Returned
+ORD01131,3/24/2025,CUST0295,Headphones,Accessories,Rivers,Retail Store,1,107700,0.15,91545,84832.89,6712.11,USSD,Completed
+ORD01132,3/8/2025,CUST0062,Smartwatch,Wearables,Oyo,Online,1,87500,0.15,74375,67721.3,6653.7,USSD,Completed
+ORD01133,1/29/2025,CUST0352,Monitor,Computers,Enugu,Online,1,291700,0.1,262530,245546.84,16983.16,Bank Transfer,Returned
+ORD01134,7/12/2025,CUST0079,Laptop,Computers,Kano,Marketplace,2,922100,0.05,1751990,1394126.65,357863.35,Cash,Completed
+ORD01135,8/8/2025,CUST0398,Smartphone,Mobile,Rivers,Online,1,180900,0.08,166428,146837.48,19590.52,USSD,Completed
+ORD01136,6/11/2025,CUST0295,Keyboard,Accessories,Oyo,Online,3,49500,0.15,126225,117459.72,8765.28,Card,Cancelled
+ORD01137,7/29/2025,CUST0383,Headphones,Accessories,Rivers,Retail Store,1,40800,0,40800,31706.05,9093.95,Card,Returned
+ORD01138,5/5/2025,CUST0278,Smartphone,Mobile,Lagos,Corporate Sales,1,317700,0.03,308169,217710.8,90458.2,Bank Transfer,Completed
+ORD01139,3/24/2025,CUST0218,Laptop,Computers,Kano,Marketplace,1,740200,0.05,703190,522411.2,180778.8,Bank Transfer,Completed
+ORD01140,7/26/2025,CUST0174,Smartwatch,Wearables,Kano,Retail Store,1,145300,0,145300,95523.21,49776.79,USSD,Pending
+ORD01141,12/27/2025,CUST0204,Power Bank,Accessories,Lagos,Online,2,36100,0.08,66424,61274.19,5149.81,Cash,Returned
+ORD01142,7/25/2025,CUST0400,Tablet,Mobile,Enugu,Corporate Sales,3,281000,0.08,775560,722821.91,52738.09,Card,Returned
+ORD01143,12/19/2025,CUST0336,Keyboard,Accessories,Kano,Marketplace,3,21200,0.05,60420,43893.52,16526.48,Cash,Pending
+ORD01144,4/19/2025,CUST0376,Headphones,Accessories,Kaduna,Online,3,41400,0.03,120474,104890.74,15583.26,Cash,Pending
+ORD01145,7/5/2025,CUST0078,Monitor,Computers,Enugu,Corporate Sales,3,93800,0.1,253260,201424.43,51835.57,Cash,Completed
+ORD01146,3/31/2025,CUST0312,External SSD,Storage,Abuja,Marketplace,1,171900,0.05,163305,117138.92,46166.08,USSD,Completed
+ORD01147,1/22/2025,CUST0287,Smartphone,Mobile,Enugu,Online,2,211200,0,422400,278104.4,144295.6,USSD,Completed
+ORD01148,8/30/2025,CUST0301,Tablet,Mobile,Ogun,Online,4,215600,0.03,836528,729876.47,106651.53,USSD,Completed
+ORD01149,4/22/2025,CUST0271,Keyboard,Accessories,Oyo,Online,2,34700,0,69400,46504.87,22895.13,USSD,Completed
+ORD01150,7/20/2025,CUST0239,Smartwatch,Wearables,Abuja,Online,1,125100,0.03,121347,85779.59,35567.41,USSD,Pending
+ORD01151,2/27/2025,CUST0086,Smartwatch,Wearables,Oyo,Corporate Sales,1,96600,0.03,93702,72306.07,21395.93,USSD,Returned
+ORD01152,7/22/2025,CUST0261,Smartphone,Mobile,Kano,Marketplace,1,410000,0.03,397700,336388.16,61311.84,USSD,Completed
+ORD01153,4/1/2025,CUST0349,Tablet,Mobile,Lagos,Retail Store,3,259500,0.15,661725,653716.97,8008.03,Mobile Money,Completed
+ORD01154,9/30/2025,CUST0176,Keyboard,Accessories,Oyo,Retail Store,1,54700,0.1,49230,37179.5,12050.5,Cash,Completed
+ORD01155,6/22/2025,CUST0200,Headphones,Accessories,Ogun,Online,2,34700,0.08,63848,47544.28,16303.72,Bank Transfer,Completed
+ORD01156,9/24/2025,CUST0214,Monitor,Computers,Kano,Online,2,113200,0,226400,168091.09,58308.91,Cash,Cancelled
+ORD01157,2/12/2025,CUST0117,Power Bank,Accessories,Abuja,Online,2,19400,0,38800,31257.01,7542.99,Card,Completed
+ORD01158,1/1/2025,CUST0217,Keyboard,Accessories,Abuja,Marketplace,4,68800,0.03,266944,233531.5,33412.5,Mobile Money,Cancelled
+ORD01159,11/7/2025,CUST0044,Smartphone,Mobile,Oyo,Online,2,292000,0.05,554800,463939.15,90860.85,Mobile Money,Completed
+ORD01160,10/18/2025,CUST0207,Keyboard,Accessories,Lagos,Corporate Sales,1,54900,0.1,49410,39786.37,9623.63,Bank Transfer,Cancelled
+ORD01161,2/27/2025,CUST0338,Smartphone,Mobile,Lagos,Retail Store,4,436900,0.05,1660220,1176746.2,483473.8,Cash,Cancelled
+ORD01162,9/12/2025,CUST0137,Power Bank,Accessories,Lagos,Corporate Sales,1,32400,0.1,29160,22063.38,7096.62,Card,Completed
+ORD01163,5/28/2025,CUST0089,Headphones,Accessories,Ogun,Online,2,43800,0,87600,54797.8,32802.2,Mobile Money,Returned
+ORD01164,5/26/2025,CUST0035,Laptop,Computers,Rivers,Retail Store,2,802700,0.15,1364590,1359389.32,5200.68,Mobile Money,Completed
+ORD01165,8/21/2025,CUST0098,External SSD,Storage,Abuja,Retail Store,2,126400,0.03,245216,159569.25,85646.75,Cash,Completed
+ORD01166,11/13/2025,CUST0353,Mouse,Accessories,Lagos,Retail Store,4,9000,0,36000,29979.91,6020.09,Bank Transfer,Completed
+ORD01167,1/16/2025,CUST0012,Smartwatch,Wearables,Kaduna,Retail Store,5,145300,0.1,653850,539356.98,114493.02,Cash,Completed
+ORD01168,9/17/2025,CUST0192,Headphones,Accessories,Abuja,Corporate Sales,2,105000,0.08,193200,139537.51,53662.49,USSD,Completed
+ORD01169,8/22/2025,CUST0082,Laptop,Computers,Lagos,Online,6,884600,0.03,5148372,3338073.71,1810298.29,Cash,Returned
+ORD01170,5/16/2025,CUST0050,External SSD,Storage,Rivers,Online,2,56800,0.03,110192,74223.31,35968.69,Mobile Money,Completed
+ORD01171,3/23/2025,CUST0044,Smartphone,Mobile,Abuja,Online,1,280900,0.15,238765,221889.29,16875.71,Bank Transfer,Completed
+ORD01172,9/11/2025,CUST0159,Laptop,Computers,Ogun,Online,1,867400,0.03,841378,662306.61,179071.39,Mobile Money,Completed
+ORD01173,5/11/2025,CUST0343,Tablet,Mobile,Abuja,Retail Store,2,347800,0.05,660820,452427.42,208392.58,Card,Returned
+ORD01174,9/18/2025,CUST0231,Headphones,Accessories,Rivers,Retail Store,2,108700,0.1,195660,165585.06,30074.94,USSD,Completed
+ORD01175,10/7/2025,CUST0263,Laptop,Computers,Rivers,Retail Store,1,775000,0,775000,557860.48,217139.52,USSD,Pending
+ORD01176,10/12/2025,CUST0119,Smartphone,Mobile,Rivers,Retail Store,1,462100,0.05,438995,363556.88,75438.12,Cash,Completed
+ORD01177,4/23/2025,CUST0217,Tablet,Mobile,Oyo,Marketplace,1,223300,0.1,200970,145445.69,55524.31,Bank Transfer,Completed
+ORD01178,7/28/2025,CUST0318,Power Bank,Accessories,Rivers,Corporate Sales,1,16300,0.03,15811,13860.64,1950.36,Card,Completed
+ORD01179,9/1/2025,CUST0232,Headphones,Accessories,Oyo,Online,1,103500,0.03,100395,77146,23249,USSD,Cancelled
+ORD01180,2/1/2025,CUST0137,Headphones,Accessories,Lagos,Marketplace,1,78300,0.05,74385,54545.47,19839.53,Mobile Money,Returned
+ORD01181,8/8/2025,CUST0253,Smartphone,Mobile,Enugu,Retail Store,4,418700,0.03,1624556,1371979.08,252576.92,Bank Transfer,Completed
+ORD01182,10/19/2025,CUST0220,Headphones,Accessories,Lagos,Online,3,118900,0.05,338865,231012.95,107852.05,USSD,Completed
+ORD01183,6/6/2025,CUST0151,Monitor,Computers,Ogun,Marketplace,2,142400,0.15,242080,225988.69,16091.31,Cash,Completed
+ORD01184,1/21/2025,CUST0385,Tablet,Mobile,Ogun,Online,2,342000,0,684000,499364.58,184635.42,USSD,Returned
+ORD01185,10/6/2025,CUST0171,Smartwatch,Wearables,Lagos,Marketplace,4,158500,0,634000,444749.45,189250.55,Cash,Pending
+ORD01186,4/23/2025,CUST0228,Keyboard,Accessories,Oyo,Retail Store,1,52700,0,52700,41645.53,11054.47,Bank Transfer,Completed
+ORD01187,11/1/2025,CUST0209,Smartwatch,Wearables,Ogun,Online,1,147100,0.1,132390,110813.69,21576.31,Mobile Money,Completed
+ORD01188,1/24/2025,CUST0216,Tablet,Mobile,Abuja,Retail Store,1,171600,0.08,157872,128910.88,28961.12,Bank Transfer,Completed
+ORD01189,9/19/2025,CUST0282,Headphones,Accessories,Ogun,Online,2,67800,0.05,128820,114827.73,13992.27,Card,Pending
+ORD01190,12/6/2025,CUST0072,Headphones,Accessories,Abuja,Online,2,97300,0.03,188762,136421.89,52340.11,Card,Completed
+ORD01191,9/28/2025,CUST0047,Laptop,Computers,Kaduna,Online,1,675400,0,675400,474461.54,200938.46,Card,Completed
+ORD01192,2/21/2025,CUST0374,Smartphone,Mobile,Enugu,Online,1,469200,0.08,431664,394213.49,37450.51,Bank Transfer,Returned
+ORD01193,10/19/2025,CUST0091,Tablet,Mobile,Oyo,Retail Store,2,290200,0.03,562988,406527.46,156460.54,Mobile Money,Cancelled
+ORD01194,8/29/2025,CUST0030,Tablet,Mobile,Lagos,Corporate Sales,4,187700,0.1,675720,558291.24,117428.76,Card,Completed
+ORD01195,10/14/2025,CUST0259,Laptop,Computers,Lagos,Marketplace,4,861000,0.05,3271800,2910389.13,361410.87,USSD,Completed
+ORD01196,3/28/2025,CUST0040,Smartphone,Mobile,Enugu,Online,1,538800,0.1,484920,375612.99,109307.01,Bank Transfer,Returned
+ORD01197,1/16/2025,CUST0018,Smartwatch,Wearables,Abuja,Online,1,106900,0.05,101555,77823.93,23731.07,Cash,Cancelled
+ORD01198,12/3/2025,CUST0385,Tablet,Mobile,Ogun,Marketplace,2,207700,0.05,394630,305571.55,89058.45,Cash,Cancelled
+ORD01199,11/9/2025,CUST0330,Smartphone,Mobile,Abuja,Retail Store,1,217100,0.03,210587,135463.65,75123.35,Bank Transfer,Pending
+ORD01200,11/12/2025,CUST0236,Power Bank,Accessories,Rivers,Marketplace,1,38200,0.2,152800,135466.07,17333.93,Bank Transfer,Completed
+ORD01201,5/11/2025,CUST0270,Smartphone,Mobile,Abuja,Online,1,196100,0.08,180412,166345.14,14066.86,Card,Completed
+ORD01202,12/20/2025,CUST0040,Power Bank,Accessories,Lagos,Online,1,13600,0.03,13192,10445.51,2746.49,Bank Transfer,Returned
+ORD01203,1/25/2025,CUST0393,Headphones,Accessories,Abuja,Corporate Sales,5,50800,0.05,241300,161064.21,80235.79,Card,Pending
+ORD01204,1/31/2025,CUST0019,Smartwatch,Wearables,Ogun,Marketplace,5,149200,0.03,723620,522472.79,201147.21,Mobile Money,Completed
+ORD01205,5/12/2025,CUST0312,Headphones,Accessories,Abuja,Retail Store,2,118500,0.08,218040,165867.99,52172.01,USSD,Completed
+ORD01206,2/24/2025,CUST0117,Laptop,Computers,Lagos,Online,1,856900,0,856900,614106.7,242793.3,Bank Transfer,Completed
+ORD01207,10/10/2025,CUST0287,Power Bank,Accessories,Rivers,Online,2,33200,0.05,63080,47709.62,15370.38,Cash,Completed
+ORD01208,11/29/2025,CUST0116,Headphones,Accessories,Oyo,Corporate Sales,3,63700,0.15,162435,155413.9,7021.1,Cash,Completed
+ORD01209,3/27/2025,CUST0015,Headphones,Accessories,Lagos,Online,6,54200,0.1,292680,214474.97,78205.03,Card,Completed
+ORD01210,12/2/2025,CUST0146,Laptop,Computers,Abuja,Online,3,778800,0.05,2219580,1973344.72,246235.28,Bank Transfer,Completed
+ORD01211,6/2/2025,CUST0080,Smartwatch,Wearables,Oyo,Corporate Sales,3,55000,0.1,148500,127621.22,20878.78,Cash,Returned
+ORD01212,8/27/2025,CUST0138,External SSD,Storage,Lagos,Online,3,114400,0.2,274560,225241.61,49318.39,Mobile Money,Completed
+ORD01213,4/18/2025,CUST0229,Tablet,Mobile,Enugu,Marketplace,1,170400,0.2,136320,134455.37,1864.63,USSD,Cancelled
+ORD01214,7/14/2025,CUST0353,Monitor,Computers,Enugu,Online,1,261800,0.2,209440,173807.58,35632.42,Bank Transfer,Completed
+ORD01215,8/4/2025,CUST0093,Smartphone,Mobile,Ogun,Online,1,326200,0.03,316414,231481.77,84932.23,Cash,Completed
+ORD01216,9/12/2025,CUST0172,Laptop,Computers,Lagos,Online,1,659100,0.2,527280,557471.56,-30191.56,Bank Transfer,Pending
+ORD01217,6/15/2025,CUST0036,Smartwatch,Wearables,Ogun,Online,3,74900,0.03,217959,189042.7,28916.3,Mobile Money,Pending
+ORD01218,1/30/2025,CUST0106,Smartphone,Mobile,Ogun,Marketplace,1,269600,0.1,242640,180029.24,62610.76,Bank Transfer,Returned
+ORD01219,5/25/2025,CUST0102,Smartwatch,Wearables,Kano,Retail Store,1,150100,0,150100,93504.76,56595.24,Cash,Completed
+ORD01220,10/15/2025,CUST0301,Laptop,Computers,Kaduna,Retail Store,5,941000,0.15,3999250,3329261.95,669988.05,Mobile Money,Cancelled
+ORD01221,2/1/2025,CUST0141,Tablet,Mobile,Rivers,Marketplace,3,302200,0.15,770610,565318.81,205291.19,Cash,Completed
+ORD01222,12/23/2025,CUST0058,Mouse,Accessories,Oyo,Marketplace,3,34900,0.08,96324,76332.41,19991.59,USSD,Completed
+ORD01223,6/21/2025,CUST0260,Mouse,Accessories,Lagos,Online,2,23800,0.1,42840,35116.73,7723.27,Cash,Completed
+ORD01224,12/7/2025,CUST0088,Laptop,Computers,Lagos,Online,1,723200,0.05,687040,517456.65,169583.35,Card,Completed
+ORD01225,1/24/2025,CUST0266,Smartphone,Mobile,Rivers,Online,2,350400,0.05,665760,572056.31,93703.69,Bank Transfer,Returned
+ORD01226,10/29/2025,CUST0204,External SSD,Storage,Enugu,Corporate Sales,3,179400,0.03,522054,346845.01,175208.99,Mobile Money,Cancelled
+ORD01227,10/17/2025,CUST0254,Power Bank,Accessories,Enugu,Online,4,54500,0.2,174400,147961.98,26438.02,Card,Cancelled
+ORD01228,11/7/2025,CUST0274,External SSD,Storage,Oyo,Retail Store,4,85000,0,340000,212515.62,127484.38,Mobile Money,Cancelled
+ORD01229,10/9/2025,CUST0332,Tablet,Mobile,Lagos,Online,2,297500,0.08,547400,496048.95,51351.05,Mobile Money,Cancelled
+ORD01230,4/27/2025,CUST0304,External SSD,Storage,Lagos,Online,1,156500,0.03,151805,117656.29,34148.71,Cash,Pending
+ORD01231,3/7/2025,CUST0347,Mouse,Accessories,Lagos,Online,2,39300,0.15,66810,58371.59,8438.41,Card,Completed
+ORD01232,2/22/2025,CUST0330,Power Bank,Accessories,Lagos,Corporate Sales,2,46100,0.05,87590,70854.08,16735.92,Card,Completed
+ORD01233,3/26/2025,CUST0253,Mouse,Accessories,Lagos,Online,1,24000,0,24000,18884.81,5115.19,Cash,Cancelled
+ORD01234,1/4/2025,CUST0231,Headphones,Accessories,Lagos,Online,1,81000,0,81000,65280.59,15719.41,Bank Transfer,Pending
+ORD01235,1/22/2025,CUST0156,Headphones,Accessories,Oyo,Online,6,28000,0.2,134400,126310.38,8089.62,Mobile Money,Completed
+ORD01236,3/10/2025,CUST0095,Keyboard,Accessories,Ogun,Marketplace,5,46700,0.05,221825,193514.28,28310.72,Bank Transfer,Completed
+ORD01237,5/10/2025,CUST0398,Power Bank,Accessories,Abuja,Corporate Sales,1,23300,0.03,22601,19534.47,3066.53,Mobile Money,Pending
+ORD01238,12/8/2025,CUST0195,Tablet,Mobile,Lagos,Marketplace,2,237300,0,474600,337164.05,137435.95,Card,Completed
+ORD01239,4/6/2025,CUST0215,Smartwatch,Wearables,Lagos,Retail Store,2,163400,0.03,316996,269368.84,47627.16,Mobile Money,Returned
+ORD01240,9/16/2025,CUST0249,Mouse,Accessories,Lagos,Online,3,24800,0,74400,53199.41,21200.59,Bank Transfer,Completed
+ORD01241,12/19/2025,CUST0282,Monitor,Computers,Lagos,Retail Store,3,249000,0.05,709650,608503.91,101146.09,Mobile Money,Completed
+ORD01242,7/29/2025,CUST0376,Smartwatch,Wearables,Enugu,Online,5,132300,0.05,628425,462742.13,165682.87,Bank Transfer,Pending
+ORD01243,3/29/2025,CUST0318,Headphones,Accessories,Rivers,Online,5,39200,0.03,190120,162695.48,27424.52,Bank Transfer,Completed
+ORD01244,6/10/2025,CUST0149,Monitor,Computers,Kano,Online,1,100900,0,100900,69554.35,31345.65,Mobile Money,Completed
+ORD01245,7/16/2025,CUST0025,Monitor,Computers,Abuja,Marketplace,1,252200,0.08,232024,208557.49,23466.51,Bank Transfer,Returned
+ORD01246,3/20/2025,CUST0292,Tablet,Mobile,Enugu,Retail Store,1,147300,0,147300,106571.4,40728.6,Bank Transfer,Completed
+ORD01247,6/27/2025,CUST0301,External SSD,Storage,Abuja,Corporate Sales,5,149400,0.08,687240,623700.15,63539.85,Bank Transfer,Cancelled
+ORD01248,4/13/2025,CUST0344,Mouse,Accessories,Rivers,Online,1,40500,0.1,36450,26609.45,9840.55,Cash,Pending
+ORD01249,3/7/2025,CUST0264,Smartwatch,Wearables,Enugu,Marketplace,3,72900,0.05,207765,152272.61,55492.39,Cash,Cancelled
+ORD01250,5/20/2025,CUST0082,Laptop,Computers,Kaduna,Online,2,891400,0,1782800,1356650.13,426149.87,Cash,Pending
+ORD01251,8/20/2025,CUST0021,Smartphone,Mobile,Ogun,Online,3,534300,0.08,1474668,1259317.74,215350.26,Cash,Completed
+ORD01252,10/16/2025,CUST0391,Tablet,Mobile,Rivers,Online,3,239500,0.1,646650,546128.79,100521.21,Mobile Money,Completed
+ORD01253,2/7/2025,CUST0359,Monitor,Computers,Enugu,Online,3,270800,0.05,771780,574326.44,197453.56,Card,Completed
+ORD01254,3/26/2025,CUST0214,Smartphone,Mobile,Rivers,Retail Store,1,337100,0.05,320245,274500.85,45744.15,Card,Completed
+ORD01255,11/23/2025,CUST0185,Keyboard,Accessories,Lagos,Marketplace,2,57200,0.05,108680,82837.98,25842.02,Card,Pending
+ORD01256,8/6/2025,CUST0235,Tablet,Mobile,Abuja,Marketplace,3,223400,0,670200,462626.02,207573.98,Mobile Money,Pending
+ORD01257,11/3/2025,CUST0116,Keyboard,Accessories,Oyo,Online,1,19100,0.15,16235,14506.86,1728.14,Bank Transfer,Completed
+ORD01258,1/1/2025,CUST0038,Smartwatch,Wearables,Lagos,Online,2,161400,0,322800,200521.23,122278.77,Bank Transfer,Completed
+ORD01259,7/28/2025,CUST0345,Headphones,Accessories,Lagos,Retail Store,2,99600,0.03,193224,127441.13,65782.87,Card,Completed
+ORD01260,10/21/2025,CUST0017,Laptop,Computers,Kaduna,Online,2,713600,0.2,1141760,1149230.46,-7470.46,USSD,Cancelled
+ORD01261,8/20/2025,CUST0313,Monitor,Computers,Oyo,Online,4,118000,0.05,448400,301962.21,146437.79,Mobile Money,Pending
+ORD01262,8/5/2025,CUST0396,Laptop,Computers,Oyo,Online,1,858100,0.05,815195,729054.31,86140.69,Cash,Returned
+ORD01263,11/1/2025,CUST0278,Keyboard,Accessories,Ogun,Online,1,41800,0,41800,33854.3,7945.7,Mobile Money,Returned
+ORD01264,3/16/2025,CUST0376,Keyboard,Accessories,Abuja,Retail Store,1,34800,0.08,32016,26599.49,5416.51,Cash,Completed
+ORD01265,6/7/2025,CUST0246,Monitor,Computers,Abuja,Marketplace,1,297000,0.05,282150,239750.34,42399.66,Bank Transfer,Completed
+ORD01266,8/7/2025,CUST0274,Monitor,Computers,Kano,Marketplace,1,276700,0.2,221360,218169.33,3190.67,Mobile Money,Completed
+ORD01267,3/25/2025,CUST0192,Smartwatch,Wearables,Ogun,Online,2,91500,0.15,155550,125493.67,30056.33,Mobile Money,Completed
+ORD01268,3/20/2025,CUST0389,Monitor,Computers,Kano,Online,1,232700,0.03,225719,182485.74,43233.26,Mobile Money,Returned
+ORD01269,8/12/2025,CUST0072,External SSD,Storage,Kaduna,Marketplace,6,103300,0,619800,471647.98,148152.02,Bank Transfer,Cancelled
+ORD01270,4/25/2025,CUST0348,Smartphone,Mobile,Enugu,Retail Store,6,406800,0.15,2074680,2073643.5,1036.5,Bank Transfer,Returned
+ORD01271,9/12/2025,CUST0059,Smartphone,Mobile,Lagos,Corporate Sales,1,540100,0.1,486090,457404.17,28685.83,Cash,Completed
+ORD01272,2/26/2025,CUST0042,Laptop,Computers,Ogun,Retail Store,5,665500,0.15,2828375,2243393.36,584981.64,Bank Transfer,Completed
+ORD01273,5/7/2025,CUST0265,Headphones,Accessories,Rivers,Online,2,100100,0.1,180180,144866.2,35313.8,Card,Completed
+ORD01274,12/2/2025,CUST0190,Headphones,Accessories,Enugu,Corporate Sales,5,97700,0.1,439650,414419.6,25230.4,Mobile Money,Returned
+ORD01275,2/18/2025,CUST0092,Tablet,Mobile,Kaduna,Retail Store,2,252100,0.05,478990,367796.4,111193.6,USSD,Completed
+ORD01276,7/8/2025,CUST0012,Monitor,Computers,Rivers,Online,2,287600,0.1,517680,470856.09,46823.91,Bank Transfer,Pending
+ORD01277,8/31/2025,CUST0042,Smartwatch,Wearables,Lagos,Marketplace,1,131100,0.05,124545,87253.45,37291.55,Mobile Money,Completed
+ORD01278,11/3/2025,CUST0299,Monitor,Computers,Enugu,Corporate Sales,1,274800,0.2,219840,179792.95,40047.05,Bank Transfer,Pending
+ORD01279,10/21/2025,CUST0010,Smartwatch,Wearables,Kano,Retail Store,5,139600,0.08,642160,477168.11,164991.89,Bank Transfer,Cancelled
+ORD01280,8/28/2025,CUST0399,Monitor,Computers,Abuja,Marketplace,1,297100,0.15,252535,224294.99,28240.01,Mobile Money,Completed
+ORD01281,8/8/2025,CUST0257,Laptop,Computers,Enugu,Online,1,803300,0.05,763135,527959.56,235175.44,Bank Transfer,Completed
+ORD01282,1/20/2025,CUST0164,Power Bank,Accessories,Lagos,Retail Store,1,45600,0.1,41040,31560.96,9479.04,Bank Transfer,Cancelled
+ORD01283,4/28/2025,CUST0198,Smartphone,Mobile,Rivers,Online,3,243700,0.2,584880,589756.42,-4876.42,USSD,Completed
+ORD01284,5/27/2025,CUST0246,Monitor,Computers,Abuja,Online,2,238200,0.03,462108,333134.44,128973.56,Bank Transfer,Returned
+ORD01285,2/24/2025,CUST0066,Power Bank,Accessories,Lagos,Online,1,21400,0.08,19688,14354.41,5333.59,Mobile Money,Completed
+ORD01286,11/2/2025,CUST0340,Mouse,Accessories,Oyo,Marketplace,1,15700,0,15700,10013.48,5686.52,USSD,Completed
+ORD01287,12/16/2025,CUST0166,Mouse,Accessories,Lagos,Marketplace,1,8600,0.08,7912,6107.57,1804.43,Cash,Cancelled
+ORD01288,12/2/2025,CUST0050,Smartphone,Mobile,Enugu,Corporate Sales,1,289900,0.2,231920,234213.07,-2293.07,Card,Cancelled
+ORD01289,6/21/2025,CUST0287,Tablet,Mobile,Ogun,Online,4,226800,0.03,879984,761794.17,118189.83,Card,Completed
+ORD01290,6/22/2025,CUST0245,External SSD,Storage,Rivers,Marketplace,2,90000,0.03,174600,128716.71,45883.29,USSD,Completed
+ORD01291,10/9/2025,CUST0293,Power Bank,Accessories,Kaduna,Online,2,40600,0.05,77140,56117.71,21022.29,Mobile Money,Returned
+ORD01292,1/26/2025,CUST0054,Power Bank,Accessories,Oyo,Retail Store,1,32900,0.03,31913,25628.55,6284.45,Mobile Money,Completed
+ORD01293,6/5/2025,CUST0398,Tablet,Mobile,Kaduna,Corporate Sales,1,293900,0.03,285083,229668.45,55414.55,Mobile Money,Completed
+ORD01294,10/15/2025,CUST0095,Smartwatch,Wearables,Lagos,Online,6,62600,0.1,338040,242762.94,95277.06,Mobile Money,Completed
+ORD01295,8/12/2025,CUST0180,Smartwatch,Wearables,Ogun,Online,1,57900,0,57900,41196.69,16703.31,Mobile Money,Cancelled
+ORD01296,6/3/2025,CUST0082,Keyboard,Accessories,Lagos,Corporate Sales,3,71900,0.15,183345,166798.17,16546.83,USSD,Completed
+ORD01297,11/3/2025,CUST0145,Smartphone,Mobile,Rivers,Marketplace,2,356100,0.03,690834,581840.4,108993.6,USSD,Completed
+ORD01298,9/3/2025,CUST0021,Smartphone,Mobile,Lagos,Corporate Sales,1,192900,0.03,187113,161697.75,25415.25,USSD,Cancelled
+ORD01299,3/14/2025,CUST0150,Power Bank,Accessories,Ogun,Retail Store,1,52400,0.03,50828,35510.3,15317.7,Cash,Completed
+ORD01300,8/11/2025,CUST0281,Laptop,Computers,Enugu,Retail Store,2,669300,0.08,1231512,899109.95,332402.05,Card,Completed
+ORD01301,10/4/2025,CUST0320,Headphones,Accessories,Ogun,Retail Store,3,89400,0.2,214560,188516.49,26043.51,Card,Returned
+ORD01302,8/11/2025,CUST0266,Smartphone,Mobile,Lagos,Retail Store,1,348400,0.03,337948,277548.08,60399.92,Cash,Cancelled
+ORD01303,2/12/2025,CUST0029,Power Bank,Accessories,Abuja,Online,2,30700,0.15,52190,39652.1,12537.9,Mobile Money,Completed
+ORD01304,7/17/2025,CUST0248,Laptop,Computers,Kaduna,Corporate Sales,1,824900,0.03,800153,660553.46,139599.54,Bank Transfer,Cancelled
+ORD01305,3/9/2025,CUST0278,Keyboard,Accessories,Oyo,Online,1,59900,0,59900,44631.79,15268.21,USSD,Completed
+ORD01306,3/14/2025,CUST0399,Smartwatch,Wearables,Lagos,Marketplace,2,144100,0.1,259380,228634.06,30745.94,Bank Transfer,Completed
+ORD01307,1/18/2025,CUST0043,Smartphone,Mobile,Lagos,Marketplace,1,360600,0.08,331752,286024.72,45727.28,Cash,Completed
+ORD01308,12/28/2025,CUST0246,Tablet,Mobile,Lagos,Online,1,156400,0.08,143888,117628.96,26259.04,Card,Completed
+ORD01309,8/28/2025,CUST0361,Keyboard,Accessories,Oyo,Marketplace,2,18500,0,37000,30965.26,6034.74,Cash,Completed
+ORD01310,4/15/2025,CUST0275,Mouse,Accessories,Ogun,Retail Store,1,29100,0,29100,20327.16,8772.84,Mobile Money,Completed
+ORD01311,5/25/2025,CUST0366,Laptop,Computers,Lagos,Online,1,651700,0.05,619115,523367.25,95747.75,USSD,Completed
+ORD01312,8/16/2025,CUST0145,Laptop,Computers,Oyo,Corporate Sales,3,893600,0.1,2412720,2129725.3,282994.7,Mobile Money,Completed
+ORD01313,5/4/2025,CUST0344,Tablet,Mobile,Ogun,Online,2,154700,0.03,300118,237367.97,62750.03,Card,Returned
+ORD01314,12/29/2025,CUST0246,Tablet,Mobile,Kaduna,Retail Store,2,285100,0,570200,404999.01,165200.99,Mobile Money,Completed
+ORD01315,1/17/2025,CUST0051,Laptop,Computers,Oyo,Retail Store,1,838300,0,838300,598120.97,240179.03,Bank Transfer,Completed
+ORD01316,5/9/2025,CUST0397,Smartwatch,Wearables,Kano,Corporate Sales,1,176900,0.05,168055,130534.03,37520.97,Cash,Completed
+ORD01317,8/3/2025,CUST0251,Smartwatch,Wearables,Lagos,Online,3,52800,0,158400,129270.3,29129.7,Cash,Cancelled
+ORD01318,7/14/2025,CUST0292,Keyboard,Accessories,Lagos,Marketplace,1,51700,0.03,50149,38347.83,11801.17,USSD,Completed
+ORD01319,10/27/2025,CUST0041,Smartphone,Mobile,Ogun,Online,2,333200,0,666400,459779.6,206620.4,Bank Transfer,Completed
+ORD01320,4/5/2025,CUST0256,Tablet,Mobile,Abuja,Corporate Sales,1,145500,0,145500,103245.81,42254.19,Cash,Cancelled
+ORD01321,3/14/2025,CUST0196,Headphones,Accessories,Lagos,Retail Store,1,43300,0.1,38970,32786.48,6183.52,Card,Pending
+ORD01322,1/7/2025,CUST0092,External SSD,Storage,Lagos,Online,1,164300,0.05,156085,110740.5,45344.5,Cash,Cancelled
+ORD01323,4/25/2025,CUST0040,Headphones,Accessories,Enugu,Retail Store,1,45700,0.15,38845,34038.35,4806.65,Mobile Money,Completed
+ORD01324,6/10/2025,CUST0346,Smartwatch,Wearables,Ogun,Retail Store,2,156900,0,313800,236491.51,77308.49,Mobile Money,Completed
+ORD01325,8/5/2025,CUST0028,Power Bank,Accessories,Ogun,Online,1,38900,0.03,37733,28800.74,8932.26,Bank Transfer,Completed
+ORD01326,11/7/2025,CUST0230,Tablet,Mobile,Kano,Retail Store,3,339300,0.08,936468,757557.36,178910.64,USSD,Completed
+ORD01327,7/25/2025,CUST0202,Power Bank,Accessories,Enugu,Marketplace,1,29000,0.03,28130,19348.34,8781.66,Mobile Money,Completed
+ORD01328,3/17/2025,CUST0137,Smartwatch,Wearables,Ogun,Online,3,154800,0.15,394740,349535.02,45204.98,Bank Transfer,Completed
+ORD01329,5/13/2025,CUST0334,Mouse,Accessories,Ogun,Online,2,21900,0.15,37230,34317.36,2912.64,USSD,Completed
+ORD01330,6/23/2025,CUST0064,Headphones,Accessories,Kaduna,Retail Store,1,26100,0.03,25317,19721.16,5595.84,Cash,Completed
+ORD01331,8/8/2025,CUST0185,Keyboard,Accessories,Oyo,Online,1,48500,0,48500,33390.87,15109.13,USSD,Returned
+ORD01332,7/24/2025,CUST0228,Laptop,Computers,Lagos,Online,3,898800,0.05,2561580,1794259.76,767320.24,USSD,Completed
+ORD01333,4/12/2025,CUST0361,Headphones,Accessories,Kano,Marketplace,1,36500,0.08,33580,27620.74,5959.26,Mobile Money,Completed
+ORD01334,4/21/2025,CUST0177,Monitor,Computers,Kano,Marketplace,2,118600,0.05,225340,202341.38,22998.62,USSD,Pending
+ORD01335,10/13/2025,CUST0287,External SSD,Storage,Lagos,Retail Store,1,140700,0,140700,92920.8,47779.2,Cash,Cancelled
+ORD01336,6/12/2025,CUST0202,Tablet,Mobile,Rivers,Marketplace,5,328900,0,1644500,1202774.88,441725.12,Cash,Completed
+ORD01337,5/17/2025,CUST0359,Tablet,Mobile,Oyo,Marketplace,3,336300,0.1,908010,714250.35,193759.65,USSD,Completed
+ORD01338,6/25/2025,CUST0392,Smartphone,Mobile,Kaduna,Online,4,267600,0.1,963360,822311.95,141048.05,Cash,Completed
+ORD01339,3/27/2025,CUST0063,Headphones,Accessories,Lagos,Retail Store,1,28400,0.08,26128,24152.77,1975.23,Bank Transfer,Completed
+ORD01340,3/5/2025,CUST0378,External SSD,Storage,Lagos,Online,2,136200,0,272400,171504.32,100895.68,Bank Transfer,Pending
+ORD01341,4/22/2025,CUST0308,Tablet,Mobile,Kaduna,Retail Store,1,216700,0,216700,169404.5,47295.5,USSD,Returned
+ORD01342,5/9/2025,CUST0271,Smartwatch,Wearables,Enugu,Online,1,176700,0,176700,148221.27,28478.73,Mobile Money,Completed
+ORD01343,12/30/2025,CUST0367,External SSD,Storage,Abuja,Online,1,121300,0,121300,86012.15,35287.85,Mobile Money,Completed
+ORD01344,5/26/2025,CUST0271,Headphones,Accessories,Rivers,Retail Store,1,40800,0.08,37536,34839.99,2696.01,USSD,Pending
+ORD01345,10/14/2025,CUST0303,Smartphone,Mobile,Enugu,Corporate Sales,4,375900,0.15,1278060,968519.38,309540.62,USSD,Returned
+ORD01346,9/8/2025,CUST0398,Smartphone,Mobile,Abuja,Marketplace,2,242800,0.08,446752,327549.78,119202.22,Card,Returned
+ORD01347,11/8/2025,CUST0002,Smartphone,Mobile,Lagos,Online,1,311800,0,311800,261169.35,50630.65,Mobile Money,Completed
+ORD01348,11/13/2025,CUST0170,Tablet,Mobile,Enugu,Online,3,218600,0.08,603336,465616.76,137719.24,Cash,Returned
+ORD01349,3/6/2025,CUST0138,External SSD,Storage,Rivers,Online,1,49300,0.03,47821,31604.49,16216.51,USSD,Completed
+ORD01350,11/25/2025,CUST0047,External SSD,Storage,Lagos,Online,2,72800,0,145600,92592.85,53007.15,Bank Transfer,Returned
+ORD01351,6/11/2025,CUST0130,Smartwatch,Wearables,Lagos,Corporate Sales,1,140000,0.08,128800,92931.2,35868.8,USSD,Cancelled
+ORD01352,5/14/2025,CUST0199,Tablet,Mobile,Ogun,Corporate Sales,1,306000,0.05,290700,224422.65,66277.35,USSD,Cancelled
+ORD01353,11/20/2025,CUST0172,Smartwatch,Wearables,Lagos,Online,1,66500,0.08,61180,55986.14,5193.86,Bank Transfer,Cancelled
+ORD01354,4/22/2025,CUST0184,Laptop,Computers,Kaduna,Online,1,703900,0.15,598315,460114.18,138200.82,Card,Pending
+ORD01355,5/26/2025,CUST0119,Mouse,Accessories,Kano,Retail Store,4,27900,0,111600,84949.4,26650.6,Card,Cancelled
+ORD01356,7/25/2025,CUST0038,Smartphone,Mobile,Abuja,Retail Store,2,323400,0.05,614460,550210.08,64249.92,Bank Transfer,Pending
+ORD01357,8/23/2025,CUST0203,Headphones,Accessories,Abuja,Online,1,105700,0.15,89845,89758.1,86.9,USSD,Pending
+ORD01358,10/20/2025,CUST0209,Smartwatch,Wearables,Lagos,Retail Store,6,159700,0.05,910290,673469.88,236820.12,Card,Returned
+ORD01359,9/26/2025,CUST0340,Headphones,Accessories,Oyo,Online,2,112100,0.1,201780,146983.82,54796.18,Card,Completed
+ORD01360,9/28/2025,CUST0272,Laptop,Computers,Kano,Marketplace,1,795900,0,795900,673136.31,122763.69,Bank Transfer,Completed
+ORD01361,5/31/2025,CUST0084,Power Bank,Accessories,Lagos,Retail Store,1,30900,0.03,29973,24468.54,5504.46,Bank Transfer,Cancelled
+ORD01362,11/2/2025,CUST0076,Laptop,Computers,Ogun,Online,5,852600,0.03,4135110,3352731.68,782378.32,Cash,Cancelled
+ORD01363,4/22/2025,CUST0272,Smartphone,Mobile,Rivers,Retail Store,3,439800,0.08,1213848,924449.24,289398.76,USSD,Returned
+ORD01364,8/18/2025,CUST0372,Tablet,Mobile,Lagos,Retail Store,1,187500,0.03,181875,120517.37,61357.63,Cash,Completed
+ORD01365,5/20/2025,CUST0302,Keyboard,Accessories,Enugu,Online,5,49900,0,249500,198920.52,50579.48,Card,Returned
+ORD01366,9/26/2025,CUST0382,Monitor,Computers,Enugu,Corporate Sales,1,239600,0.05,227620,188282.7,39337.3,Mobile Money,Completed
+ORD01367,10/7/2025,CUST0079,Monitor,Computers,Abuja,Online,2,139400,0.15,236980,231675.8,5304.2,Bank Transfer,Completed
+ORD01368,11/7/2025,CUST0375,Laptop,Computers,Enugu,Online,1,814800,0.03,790356,548184.59,242171.41,Bank Transfer,Completed
+ORD01369,1/4/2025,CUST0222,Monitor,Computers,Ogun,Marketplace,4,232400,0.03,901712,634887.7,266824.3,USSD,Pending
+ORD01370,4/30/2025,CUST0243,Tablet,Mobile,Lagos,Retail Store,1,225700,0.05,214415,167023,47392,Mobile Money,Completed
+ORD01371,8/16/2025,CUST0298,Smartwatch,Wearables,Lagos,Retail Store,1,137000,0.05,130150,99649.85,30500.15,Card,Completed
+ORD01372,7/12/2025,CUST0122,Tablet,Mobile,Ogun,Marketplace,1,341000,0.03,330770,253149.61,77620.39,Card,Completed
+ORD01373,6/21/2025,CUST0360,Tablet,Mobile,Kano,Retail Store,1,177000,0,177000,144143.35,32856.65,Card,Completed
+ORD01374,6/8/2025,CUST0271,Headphones,Accessories,Kaduna,Online,1,110600,0.1,99540,85672.74,13867.26,Bank Transfer,Completed
+ORD01375,3/9/2025,CUST0128,Tablet,Mobile,Oyo,Online,1,179200,0.03,173824,127117.5,46706.5,Bank Transfer,Pending
+ORD01376,7/5/2025,CUST0015,Smartwatch,Wearables,Kaduna,Online,3,117500,0.05,334875,291060.42,43814.58,Mobile Money,Completed
+ORD01377,1/17/2025,CUST0141,Keyboard,Accessories,Rivers,Online,1,20000,0.08,18400,14470.55,3929.45,Cash,Pending
+ORD01378,3/17/2025,CUST0019,Keyboard,Accessories,Rivers,Corporate Sales,1,37000,0.05,35150,31269.69,3880.31,Card,Completed
+ORD01379,4/8/2025,CUST0303,Headphones,Accessories,Kaduna,Marketplace,2,51600,0.08,94944,75359.78,19584.22,Cash,Completed
+ORD01380,10/20/2025,CUST0258,External SSD,Storage,Kaduna,Retail Store,3,131000,0.08,361560,263049.53,98510.47,Mobile Money,Completed
+ORD01381,2/28/2025,CUST0219,Headphones,Accessories,Abuja,Corporate Sales,1,54700,0.08,50324,37547.57,12776.43,USSD,Completed
+ORD01382,5/16/2025,CUST0110,Smartphone,Mobile,Ogun,Online,2,433800,0,867600,725902.25,141697.75,Bank Transfer,Cancelled
+ORD01383,7/17/2025,CUST0032,Power Bank,Accessories,Kaduna,Retail Store,1,30700,0.08,28244,25760.22,2483.78,Bank Transfer,Cancelled
+ORD01384,6/9/2025,CUST0333,Headphones,Accessories,Kano,Marketplace,2,101000,0,202000,137539.1,64460.9,Cash,Completed
+ORD01385,5/29/2025,CUST0111,Tablet,Mobile,Abuja,Online,1,256800,0,256800,204445.88,52354.12,USSD,Completed
+ORD01386,4/13/2025,CUST0202,Smartphone,Mobile,Kano,Online,1,343700,0.05,326515,233760.91,92754.09,Card,Completed
+ORD01387,11/22/2025,CUST0078,Monitor,Computers,Rivers,Online,4,180100,0.08,662768,448048.62,214719.38,Cash,Cancelled
+ORD01388,1/7/2025,CUST0393,Headphones,Accessories,Lagos,Retail Store,2,114700,0.08,211048,180138.64,30909.36,Bank Transfer,Pending
+ORD01389,6/9/2025,CUST0194,External SSD,Storage,Rivers,Corporate Sales,1,139900,0.05,132905,87824.03,45080.97,Cash,Completed
+ORD01390,8/10/2025,CUST0217,Tablet,Mobile,Rivers,Retail Store,2,256300,0.15,435710,409781.62,25928.38,Cash,Completed
+ORD01391,1/10/2025,CUST0237,Smartphone,Mobile,Rivers,Marketplace,1,279800,0.03,271406,182150.96,89255.04,Bank Transfer,Completed
+ORD01392,4/2/2025,CUST0042,Smartphone,Mobile,Ogun,Online,1,382700,0.15,325295,274404.72,50890.28,Card,Completed
+ORD01393,7/27/2025,CUST0371,Headphones,Accessories,Enugu,Online,1,61200,0,61200,41880.52,19319.48,Cash,Completed
+ORD01394,5/25/2025,CUST0092,Smartwatch,Wearables,Enugu,Online,4,119600,0,478400,336452.37,141947.63,Card,Completed
+ORD01395,12/7/2025,CUST0342,Headphones,Accessories,Abuja,Retail Store,3,42900,0,128700,95694.13,33005.87,Card,Completed
+ORD01396,10/10/2025,CUST0051,Smartphone,Mobile,Rivers,Retail Store,5,273600,0.03,1326960,1084008.12,242951.88,Cash,Completed
+ORD01397,4/20/2025,CUST0338,Tablet,Mobile,Ogun,Online,6,230800,0.08,1274016,909673.47,364342.53,USSD,Completed
+ORD01398,10/13/2025,CUST0343,Power Bank,Accessories,Lagos,Online,1,18900,0.15,16065,15444.74,620.26,Cash,Completed
+ORD01399,9/6/2025,CUST0102,Smartphone,Mobile,Kano,Online,5,199300,0,996500,665279.52,331220.48,Mobile Money,Returned
+ORD01400,8/31/2025,CUST0315,Smartwatch,Wearables,Ogun,Marketplace,1,78300,0.15,66555,54150.85,12404.15,Mobile Money,Completed
+ORD01401,5/3/2025,CUST0362,Mouse,Accessories,Enugu,Retail Store,1,44600,0.03,43262,28874.75,14387.25,Bank Transfer,Completed
+ORD01402,7/15/2025,CUST0212,External SSD,Storage,Rivers,Corporate Sales,1,69500,0,69500,54115.93,15384.07,Cash,Completed
+ORD01403,7/31/2025,CUST0290,Smartphone,Mobile,Lagos,Online,1,429400,0.05,407930,317009.92,90920.08,USSD,Completed
+ORD01404,12/31/2025,CUST0176,Smartwatch,Wearables,Rivers,Marketplace,2,137000,0.03,265780,169973.26,95806.74,Mobile Money,Completed
+ORD01405,4/19/2025,CUST0324,Headphones,Accessories,Oyo,Retail Store,1,44200,0.08,40664,30052.62,10611.38,Cash,Completed
+ORD01406,5/17/2025,CUST0259,Headphones,Accessories,Ogun,Marketplace,4,52100,0.1,187560,137412.62,50147.38,Bank Transfer,Completed
+ORD01407,10/17/2025,CUST0147,Monitor,Computers,Rivers,Online,4,101800,0.05,386840,320626.62,66213.38,Bank Transfer,Returned
+ORD01408,9/14/2025,CUST0156,Tablet,Mobile,Abuja,Marketplace,2,120100,0.05,228190,198681.77,29508.23,Bank Transfer,Completed
+ORD01409,11/4/2025,CUST0197,Laptop,Computers,Enugu,Retail Store,1,934100,0.03,906077,608092.32,297984.68,Bank Transfer,Returned
+ORD01410,10/30/2025,CUST0372,Power Bank,Accessories,Abuja,Online,2,54100,0.15,91970,67113.31,24856.69,Cash,Cancelled
+ORD01411,6/26/2025,CUST0288,Tablet,Mobile,Enugu,Retail Store,4,169100,0.15,574940,435960.58,138979.42,USSD,Completed
+ORD01412,5/1/2025,CUST0088,Smartwatch,Wearables,Ogun,Retail Store,1,101300,0.08,93196,78153.91,15042.09,Cash,Completed
+ORD01413,7/13/2025,CUST0279,Keyboard,Accessories,Lagos,Corporate Sales,4,26200,0.1,94320,69091.92,25228.08,Card,Returned
+ORD01414,12/18/2025,CUST0107,Laptop,Computers,Lagos,Online,6,745700,0.08,4116264,3557964.55,558299.45,Cash,Cancelled
+ORD01415,6/16/2025,CUST0271,Smartphone,Mobile,Lagos,Retail Store,2,251300,0.03,487522,410565.3,76956.7,Card,Completed
+ORD01416,11/21/2025,CUST0135,External SSD,Storage,Abuja,Retail Store,2,151700,0,303400,231247.51,72152.49,Bank Transfer,Completed
+ORD01417,7/31/2025,CUST0273,Smartphone,Mobile,Oyo,Marketplace,1,268900,0.03,260833,173646.2,87186.8,Bank Transfer,Cancelled
+ORD01418,12/7/2025,CUST0315,Tablet,Mobile,Lagos,Marketplace,2,296800,0.1,534240,479845.4,54394.6,Card,Completed
+ORD01419,5/22/2025,CUST0114,External SSD,Storage,Kaduna,Marketplace,2,61900,0,123800,84555.69,39244.31,Card,Cancelled
+ORD01420,2/12/2025,CUST0166,Laptop,Computers,Lagos,Marketplace,1,829000,0.15,704650,574062.32,130587.68,Cash,Completed
+ORD01421,5/18/2025,CUST0179,Tablet,Mobile,Oyo,Online,2,160100,0.03,310594,218427.51,92166.49,USSD,Completed
+ORD01422,7/6/2025,CUST0366,Monitor,Computers,Lagos,Marketplace,1,288000,0,288000,215709.79,72290.21,USSD,Cancelled
+ORD01423,10/10/2025,CUST0088,Mouse,Accessories,Kaduna,Online,2,27100,0.08,49864,39216.24,10647.76,Cash,Returned
+ORD01424,4/22/2025,CUST0048,Smartphone,Mobile,Enugu,Marketplace,2,239600,0,479200,377492.88,101707.12,Mobile Money,Returned
+ORD01425,6/17/2025,CUST0034,Smartphone,Mobile,Rivers,Retail Store,2,332300,0,664600,445643.94,218956.06,Cash,Pending
+ORD01426,9/18/2025,CUST0058,Tablet,Mobile,Ogun,Online,4,190300,0.08,700304,594294.36,106009.64,Mobile Money,Cancelled
+ORD01427,2/21/2025,CUST0001,Smartwatch,Wearables,Ogun,Online,2,114900,0.05,218310,155105.89,63204.11,Cash,Completed
+ORD01428,4/22/2025,CUST0273,Smartphone,Mobile,Lagos,Online,2,367700,0.1,661860,581516.83,80343.17,Bank Transfer,Pending
+ORD01429,8/3/2025,CUST0395,Mouse,Accessories,Lagos,Marketplace,5,18800,0.05,89300,73993.92,15306.08,Card,Completed
+ORD01430,11/19/2025,CUST0258,Laptop,Computers,Rivers,Corporate Sales,3,806300,0.08,2225388,1761507.41,463880.59,Bank Transfer,Completed
+ORD01431,3/10/2025,CUST0388,Keyboard,Accessories,Abuja,Online,1,49900,0,49900,32237.73,17662.27,Mobile Money,Returned
+ORD01432,10/31/2025,CUST0031,Smartphone,Mobile,Lagos,Marketplace,1,197700,0,197700,149047.55,48652.45,Bank Transfer,Returned
+ORD01433,8/23/2025,CUST0320,Power Bank,Accessories,Kaduna,Retail Store,6,15000,0.05,85500,59762.83,25737.17,Bank Transfer,Pending
+ORD01434,3/19/2025,CUST0141,Smartphone,Mobile,Lagos,Retail Store,1,283200,0,283200,191809.92,91390.08,USSD,Completed
+ORD01435,7/19/2025,CUST0126,Power Bank,Accessories,Lagos,Retail Store,1,42200,0,42200,33407.46,8792.54,Mobile Money,Completed
+ORD01436,1/12/2025,CUST0160,Tablet,Mobile,Kaduna,Marketplace,2,182900,0.15,310930,229867.13,81062.87,Cash,Cancelled
+ORD01437,5/26/2025,CUST0233,Keyboard,Accessories,Oyo,Retail Store,1,46200,0.05,43890,37130.22,6759.78,Card,Pending
+ORD01438,12/18/2025,CUST0031,Laptop,Computers,Ogun,Online,1,710100,0.1,639090,484317.67,154772.33,Cash,Returned
+ORD01439,4/10/2025,CUST0383,Smartphone,Mobile,Abuja,Online,1,224100,0,224100,170849.87,53250.13,Bank Transfer,Completed
+ORD01440,2/19/2025,CUST0296,Smartphone,Mobile,Kaduna,Marketplace,5,286200,0.05,1359450,979610.14,379839.86,Mobile Money,Completed
+ORD01441,10/24/2025,CUST0137,Mouse,Accessories,Rivers,Retail Store,5,44300,0.08,203780,174222.35,29557.65,Bank Transfer,Cancelled
+ORD01442,3/2/2025,CUST0362,Monitor,Computers,Oyo,Online,1,210700,0.05,200165,157946.62,42218.38,Cash,Completed
+ORD01443,8/28/2025,CUST0257,Laptop,Computers,Kaduna,Online,3,775700,0.15,1978035,1579529.78,398505.22,Cash,Cancelled
+ORD01444,3/14/2025,CUST0254,Smartwatch,Wearables,Lagos,Marketplace,1,63200,0,63200,48692.12,14507.88,USSD,Completed
+ORD01445,2/2/2025,CUST0135,Power Bank,Accessories,Lagos,Marketplace,2,12800,0.03,24832,20004.75,4827.25,Mobile Money,Cancelled
+ORD01446,4/26/2025,CUST0391,Monitor,Computers,Kaduna,Marketplace,4,120800,0,483200,402951.34,80248.66,Cash,Completed
+ORD01447,5/29/2025,CUST0306,Headphones,Accessories,Kaduna,Online,2,48200,0.03,93508,79768.83,13739.17,Card,Completed
+ORD01448,7/30/2025,CUST0222,Tablet,Mobile,Kaduna,Online,2,265000,0.05,503500,347270.51,156229.49,Mobile Money,Pending
+ORD01449,2/19/2025,CUST0103,Smartphone,Mobile,Ogun,Corporate Sales,2,187400,0.15,318580,267572.14,51007.86,Cash,Completed
+ORD01450,8/28/2025,CUST0258,Smartwatch,Wearables,Abuja,Online,2,176600,0.15,300220,278268.95,21951.05,Cash,Completed
+ORD01451,10/26/2025,CUST0028,Tablet,Mobile,Kano,Online,1,249400,0.1,224460,161242.17,63217.83,Card,Cancelled
+ORD01452,10/26/2025,CUST0112,Tablet,Mobile,Kano,Retail Store,1,200900,0.2,160720,126078.47,34641.53,USSD,Returned
+ORD01453,7/28/2025,CUST0278,External SSD,Storage,Kano,Retail Store,2,79800,0,159600,117871.21,41728.79,Bank Transfer,Completed
+ORD01454,5/14/2025,CUST0196,Laptop,Computers,Oyo,Retail Store,1,761000,0.03,738170,499706.07,238463.93,Cash,Completed
+ORD01455,12/27/2025,CUST0287,Smartwatch,Wearables,Lagos,Online,2,130900,0.03,253946,171159.19,82786.81,Bank Transfer,Completed
+ORD01456,11/15/2025,CUST0019,Keyboard,Accessories,Oyo,Corporate Sales,4,34200,0.1,123120,106741.04,16378.96,Mobile Money,Completed
+ORD01457,10/20/2025,CUST0176,Monitor,Computers,Lagos,Online,1,278500,0.15,236725,173577.79,63147.21,USSD,Completed
+ORD01458,11/5/2025,CUST0263,Power Bank,Accessories,Lagos,Online,6,45400,0,272400,178092.94,94307.06,Cash,Cancelled
+ORD01459,12/31/2025,CUST0276,Tablet,Mobile,Oyo,Retail Store,3,225300,0.1,608310,456859.69,151450.31,Card,Completed
+ORD01460,4/7/2025,CUST0238,Headphones,Accessories,Rivers,Online,1,102300,0,102300,67197.96,35102.04,Card,Completed
+ORD01461,6/28/2025,CUST0125,Keyboard,Accessories,Oyo,Online,3,63700,0.08,175812,139488.38,36323.62,Bank Transfer,Completed
+ORD01462,1/3/2025,CUST0211,Laptop,Computers,Oyo,Marketplace,4,914400,0.05,3474720,2387971.1,1086748.9,Card,Pending
+ORD01463,7/14/2025,CUST0034,External SSD,Storage,Lagos,Online,2,104600,0.05,198740,156787.92,41952.08,Cash,Pending
+ORD01464,9/23/2025,CUST0187,Keyboard,Accessories,Kano,Online,4,27300,0.15,92820,93280.21,-460.21,USSD,Returned
+ORD01465,3/18/2025,CUST0019,External SSD,Storage,Lagos,Retail Store,1,164100,0,164100,119096.7,45003.3,USSD,Completed
+ORD01466,11/28/2025,CUST0326,Power Bank,Accessories,Ogun,Online,2,30500,0.15,51850,42207.49,9642.51,Mobile Money,Completed
+ORD01467,12/9/2025,CUST0251,Headphones,Accessories,Ogun,Online,2,103700,0.1,186660,164908.89,21751.11,Cash,Completed
+ORD01468,6/10/2025,CUST0244,Tablet,Mobile,Lagos,Online,2,235000,0,470000,331798.97,138201.03,Cash,Completed
+ORD01469,4/8/2025,CUST0088,Smartwatch,Wearables,Rivers,Online,2,165600,0.08,304704,258410.76,46293.24,Mobile Money,Returned
+ORD01470,9/14/2025,CUST0398,Keyboard,Accessories,Lagos,Online,1,64900,0.03,62953,46066.09,16886.91,Card,Pending
+ORD01471,1/18/2025,CUST0272,Monitor,Computers,Kano,Retail Store,1,252500,0.05,239875,163956.02,75918.98,Cash,Cancelled
+ORD01472,9/24/2025,CUST0340,Smartphone,Mobile,Ogun,Corporate Sales,1,268300,0.03,260251,208444.82,51806.18,Bank Transfer,Pending
+ORD01473,5/6/2025,CUST0145,Smartphone,Mobile,Kano,Online,2,188200,0.05,357580,322520.93,35059.07,Bank Transfer,Completed
+ORD01474,11/30/2025,CUST0183,Monitor,Computers,Kano,Online,2,245500,0.15,417350,399811.29,17538.71,Bank Transfer,Returned
+ORD01475,3/29/2025,CUST0010,Tablet,Mobile,Lagos,Retail Store,1,162100,0.15,137785,138892.88,-1107.88,Mobile Money,Completed
+ORD01476,9/5/2025,CUST0193,Monitor,Computers,Lagos,Retail Store,3,252000,0,756000,478815.46,277184.54,USSD,Pending
+ORD01477,8/22/2025,CUST0310,Laptop,Computers,Lagos,Online,3,662100,0.05,1886985,1481228.28,405756.72,Cash,Returned
+ORD01478,4/13/2025,CUST0166,External SSD,Storage,Ogun,Marketplace,4,150300,0.08,553104,482475.31,70628.69,Bank Transfer,Completed
+ORD01479,9/20/2025,CUST0133,Monitor,Computers,Lagos,Marketplace,1,154000,0.15,130900,117143.01,13756.99,Card,Returned
+ORD01480,2/1/2025,CUST0048,Mouse,Accessories,Lagos,Corporate Sales,1,31900,0.03,30943,19843.5,11099.5,Card,Pending
+ORD01481,11/28/2025,CUST0209,Smartwatch,Wearables,Kano,Online,1,170100,0.08,156492,107586.99,48905.01,USSD,Completed
+ORD01482,3/4/2025,CUST0255,Smartphone,Mobile,Kaduna,Retail Store,1,340000,0,340000,266293.01,73706.99,Mobile Money,Pending
+ORD01483,3/30/2025,CUST0015,Monitor,Computers,Oyo,Online,2,244200,0.2,390720,325933.35,64786.65,Mobile Money,Returned
+ORD01484,4/22/2025,CUST0066,Keyboard,Accessories,Enugu,Online,1,57400,0.05,54530,36804.12,17725.88,Cash,Cancelled
+ORD01485,6/2/2025,CUST0196,Power Bank,Accessories,Abuja,Retail Store,3,27200,0.05,77520,63424.07,14095.93,Bank Transfer,Pending
+ORD01486,2/1/2025,CUST0177,Smartphone,Mobile,Lagos,Retail Store,3,544600,0.2,1307040,1078905.62,228134.38,USSD,Pending
+ORD01487,11/24/2025,CUST0098,Headphones,Accessories,Lagos,Marketplace,2,82200,0,164400,141379.77,23020.23,Bank Transfer,Completed
+ORD01488,3/24/2025,CUST0234,Mouse,Accessories,Rivers,Retail Store,2,39500,0.15,67150,49657.6,17492.4,Cash,Completed
+ORD01489,8/12/2025,CUST0367,Laptop,Computers,Kano,Online,1,891600,0.03,864852,741373.53,123478.47,Cash,Completed
+ORD01490,8/28/2025,CUST0358,Laptop,Computers,Lagos,Online,1,900600,0.03,873582,746427.65,127154.35,Card,Pending
+ORD01491,1/18/2025,CUST0184,Headphones,Accessories,Lagos,Online,2,97800,0.03,189732,142453.39,47278.61,Card,Pending
+ORD01492,6/26/2025,CUST0011,Headphones,Accessories,Lagos,Online,1,109100,0.15,92735,84153.85,8581.15,USSD,Completed
+ORD01493,5/30/2025,CUST0118,Power Bank,Accessories,Ogun,Marketplace,1,21500,0.15,18275,18171.82,103.18,Card,Pending
+ORD01494,12/7/2025,CUST0244,Headphones,Accessories,Kano,Online,2,73900,0.05,140410,116521.86,23888.14,Card,Completed
+ORD01495,10/30/2025,CUST0135,Smartphone,Mobile,Lagos,Online,1,406300,0.1,365670,283802.14,81867.86,Bank Transfer,Completed
+ORD01496,1/1/2025,CUST0290,Smartwatch,Wearables,Kaduna,Marketplace,2,126000,0.08,231840,174852.69,56987.31,Bank Transfer,Completed
+ORD01497,8/1/2025,CUST0234,Headphones,Accessories,Kaduna,Retail Store,2,72400,0.08,133216,91221.8,41994.2,Bank Transfer,Completed
+ORD01498,7/7/2025,CUST0112,External SSD,Storage,Rivers,Marketplace,3,165100,0.03,480441,328940.11,151500.89,USSD,Cancelled
+ORD01499,5/19/2025,CUST0103,Smartphone,Mobile,Kano,Corporate Sales,1,242200,0,242200,160602.7,81597.3,Card,Completed
+ORD01500,12/31/2025,CUST0232,External SSD,Storage,Enugu,Retail Store,2,69400,0,138800,110502.48,28297.52,Cash,Returned

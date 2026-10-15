@@ -176,3 +176,19 @@ WHERE quantity <= 0
    OR unit_price <= 0
    OR discount_rate < 0
    OR discount_rate > 1;
+
+
+Cleaning Datasets
+
+-- triming sales Channels
+update sales
+set sales_channel = Trim(sales_channel);
+
+-- triming sales Channels
+update sales
+set sales_channel = Trim(sales_channel);
+
+-- aggregating the quantity
+
+
+-- filling the missing values of region

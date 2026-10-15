@@ -222,14 +222,14 @@ FROM sales
 WHERE profit < 0
 ORDER BY profit ASC;`
 
-
+![Negative profits](Images/Negative_profits.PNG)
 
 - Extreme discounts
 `
-SELECT * FROM sales
+SELECT product, discount_rate FROM sales
 WHERE discount_rate > 0.20 OR discount_rate < 0;`
 
-![Order Status Distribution](Images/sale_channel2.PNG)
+![Extreme discounts](Images/discount.PNG)
 
 - Revenue formula mismatch
 `
@@ -237,6 +237,8 @@ SELECT order_id, quantity, unit_price, discount_rate, revenue,
        ROUND(quantity * unit_price * (1 - discount_rate), 2) AS expected_revenue
 FROM sales
 WHERE ABS(revenue - quantity * unit_price * (1 - discount_rate)) > 1;`
+
+![Revenue formula mismatch](Images/unit_price.PNG)
 
 Expected Anomalies Found:
 ~20+ loss-making orders (negative profit) — mostly high-discount Electronics.  Extreme revenue values (e.g., ORD00932 = ₦5.2M Laptop order).  Unit price inconsistencies
@@ -312,6 +314,8 @@ ORDER BY revenue DESC;`
     sum(case when cost is null then 1 else 0 end ) as missing_cost_count,
     sum(case when profit is null then 1 else 0 end ) as missing_profit_count
 from sales;`
+
+![Null Values](Images/missing.PNG)
 
 **6.2 Duplicate Orders**
 `

@@ -170,7 +170,7 @@ FROM sales
 GROUP BY month
 ORDER BY month;`
 
-![Monthly Revenue Trend](Images/monthly.PNG)
+![Monthly Revenue Trend](Images/montly.PNG)
 
 Expected Pattern: Q4 (Oct–Dec) spikes from holiday shopping.
 

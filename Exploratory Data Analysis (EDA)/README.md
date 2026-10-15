@@ -123,7 +123,7 @@ from sales
 group by category
 order by order_category desc;`
 
-![Category distribution](Images/category.PNG)
+![Category distribution](Images/category_distribution.PNG)
 
 - Distinct values per categorical column
 

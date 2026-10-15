@@ -340,8 +340,8 @@ HAVING COUNT(DISTINCT product) > 1;`
 
 no |	Issue|	Count|	Recommended Fix
 ---|---------|-------|-----------------
-1 |	NULL | region	2	|Impute 'Unknown'
-2 |	NULL |quantity	1	|Recalculate or drop
+1 |	NULL | region	3	|Impute 'Unknown'
+2 |	NULL |quantity	2	|Recalculate or drop
 3 | Negative profit	|~20	|Flag as promotional loss
 4 |	Case inconsistencies in product / sales_channel|	Multiple	|LOWER(TRIM(...))
 5 |	Extreme revenue outliers (>₦5M)|	~5	|Investigate bulk orders

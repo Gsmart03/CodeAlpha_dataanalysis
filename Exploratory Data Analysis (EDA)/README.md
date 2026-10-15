@@ -157,7 +157,7 @@ FROM sales
 GROUP BY category
 ORDER BY total_revenue DESC;`
 
-![Revenue by Product Category](product.PNG)
+![Revenue by Product Category](Images/product.PNG)
 
 Expected Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
 
@@ -170,7 +170,7 @@ FROM sales
 GROUP BY month
 ORDER BY month;`
 
-![Monthly Revenue Trend](monthly.PNG)
+![Monthly Revenue Trend](Images/monthly.PNG)
 
 Expected Pattern: Q4 (Oct–Dec) spikes from holiday shopping.
 
@@ -184,7 +184,7 @@ FROM sales
 GROUP BY region
 ORDER BY revenue DESC;`
 
-![Regional Performance](region.PNG)
+![Regional Performance](Images/region.PNG)
 
 4.4 Sales Channel Analysis
 `
@@ -197,7 +197,7 @@ FROM sales
 GROUP BY sales_channel
 ORDER BY revenue DESC;`
 
-![Sales Channel Analysis](sale_channel.PNG)
+![Sales Channel Analysis](Images/sale_channel.PNG)
 
 4.5 Order Status Distribution
 `
@@ -208,7 +208,7 @@ FROM sales
 GROUP BY order_status
 ORDER BY orders DESC;`
 
-![Order Status Distribution](sale_channel2.PNG)
+![Order Status Distribution](Images/sale_channel2.PNG)
 
 
 Expected Finding: ~70–75% Completed, rest split between Cancelled/Returned/Pending — a significant operational concern
@@ -229,7 +229,7 @@ ORDER BY profit ASC;`
 SELECT * FROM sales
 WHERE discount_rate > 0.20 OR discount_rate < 0;`
 
-![Order Status Distribution](sale_channel2.PNG)
+![Order Status Distribution](Images/sale_channel2.PNG)
 
 - Revenue formula mismatch
 `

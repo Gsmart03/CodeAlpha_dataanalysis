@@ -1,4 +1,4 @@
-# Tasks One Executive Summary: Sales Transactions EDA
+# Tasks One Executive Summary: E-Commerce Sales Transactions EDA
 ## 1. Project Objective
 To perform a comprehensive Exploratory Data Analysis (EDA) on a year's worth of Nigerian e-commerce sales data. The goal was to uncover revenue trends, evaluate regional and channel performance, test business hypotheses regarding discounts and seasonality, and identify critical data quality issues to inform strategic business decisions.
 

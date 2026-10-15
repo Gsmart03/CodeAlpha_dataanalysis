@@ -104,38 +104,39 @@ order_status|	VARCHAR	|Completed / Pending / Cancelled / Returned
 
 - checking all rows and column
   
-`select * from sales;`
+`SELECT * FROM sales;`
+
 ![All rows and Column](Images/column.PNG)
 
 - Row count and date range
 
-`select count(*), 
-	min(order_date) as first_date,
-    max(order_date) as last_date
-from sales;`
+`SELECT COUNT(*), 
+       MIN(order_date) AS first_date,
+       MAX(order_date) AS last_date
+FROM sales`
 
 ![Row count and date ranges](Images/first_date_order.PNG)
 
 - Category distribution
 
-`select category, count(*) as order_category
-from sales
-group by category
-order by order_category desc;`
+`SELECT category, COUNT(*) AS order_category
+FROM sales
+GROUP BY category
+ORDER BY order_category DESC`
 
 ![Category distribution](Images/category_distribution.PNG)
 
 - Distinct values per categorical column
 
-`select
- count(distinct product) as product_count,
- count(distinct customer_id) as customer_id_count,
- count(distinct category) as category_count,
- count(distinct region) as region_count,
- count(distinct sales_channel) as sale_channels_count,
- count(distinct payment_method) as payment_status_count,
- count(distinct order_status) as order_status_count
- from sales;`
+`SELECT
+    COUNT(DISTINCT product) AS product_count,
+    COUNT(DISTINCT customer_id) AS customer_id_count,
+    COUNT(DISTINCT category) AS category_count,
+    COUNT(DISTINCT region) AS region_count,
+    COUNT(DISTINCT sales_channel) AS sale_channels_count,
+    COUNT(DISTINCT payment_method) AS payment_status_count,
+    COUNT(DISTINCT order_status) AS order_status_count
+FROM sales;`
  
 ![All rows and Column](Images/count_distin.PNG)
  
@@ -146,16 +147,16 @@ There are 389 unique customers with repeat purchases of 10 products within 8 reg
 
 ### 4. Step 3 — Identify Trends, Patterns & Anomalies
 **4.1 Revenue by Product Category**
-`
-select category,
+
+`SELECT category,
        COUNT(*) AS orders,
        ROUND(SUM(revenue), 2) AS total_revenue,
        ROUND(AVG(revenue), 2) AS avg_order_value,
-       ROUND(SUM(profit), 2)  AS total_profit,
-       ROUND(SUM(profit) / SUM(revenue) * 100.0 , 2) AS profit_margin_pct
+       ROUND(SUM(profit), 2) AS total_profit,
+       ROUND(SUM(profit) / SUM(revenue) * 100.0, 2) AS profit_margin_pct
 FROM sales
 GROUP BY category
-ORDER BY total_revenue DESC;`
+ORDER BY total_revenue DESC`
 
 ![Revenue by Product Category](Images/Revenue_per_product_category.PNG)
 

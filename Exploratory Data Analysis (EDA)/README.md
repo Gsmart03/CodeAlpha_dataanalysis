@@ -30,7 +30,7 @@
 ---
 
 ###  Project Overview
-This repository contains a complete Exploratory Data Analysis (EDA) of a Nigerian e-commerce sales dataset. The goal is to uncover trends, patterns, anomalies, and data quality issues that can inform business decisions and prepare the data for downstream modeling or visualization (Power BI).
+This repository contains a complete Exploratory Data Analysis (EDA) of a Nigerian e-commerce sales dataset. The goal is to uncover trends, patterns, anomalies, and data quality issues that can inform business decisions and prepare the data for downstream modeling or visualization.
 
 ### Dataset Summary
 Attribute |	Value

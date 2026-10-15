@@ -157,7 +157,7 @@ FROM sales
 GROUP BY category
 ORDER BY total_revenue DESC;`
 
-![Revenue by Product Category](Images/product.PNG)
+![Revenue by Product Category](Images/Revenue_per_product_category.PNG)
 
 Expected Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
 

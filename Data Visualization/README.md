@@ -180,7 +180,7 @@ Purpose: Instant snapshot for executives
 
 ---
 
-###7. The Data Story (5 Acts)
+### 7. The Data Story (5 Acts)
 **🎬 ACT 1 — "The Business at a Glance"**
 
 In 2025, the business processed 1,500 orders across Nigeria, generating substantial revenue and a healthy double-digit profit margin. But a concerning ~25% of orders end in Cancelled, Returned, or Pending status — meaning 1 in 4 orders never converts to completed revenue. This is the single most important operational signal in the dataset.

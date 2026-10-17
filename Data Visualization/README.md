@@ -1,11 +1,16 @@
 # 📊 Data Visualization Task — CodeAlpha Internship
 ## Nigerian E-Commerce Sales Dataset (2025)
+
 **Analyst:** Abdulsobur Adebayo
+
 **Tool:** Tableau 
+
 **Dataset:** codealpha_task2_3_sales_eda_visualization.csv (1,500 rows)
+
 **Deliverable:** Interactive dashboard + data story + portfolio-ready visuals
 
 ## 📑 Table of Contents
+
 **Project Brief**
 1. Data Preparation Before Visualization
 2. Design Principles for These Visuals

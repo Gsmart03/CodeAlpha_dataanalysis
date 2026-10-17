@@ -138,7 +138,7 @@ Purpose: Instant snapshot for executives
 - Color: Gradient by Profit Margin %
 - Insight target: Mobile + Computers = ~70% of revenue
 
-![Revenue by Product Category](Images/Category_per_reveune.PNG)
+![Revenue by Product Category](Images/category.PNG)
 
 **🗺️ Visual 4 — Regional Sales Map (Filled Map)**
 - Geography: region (Nigerian states)

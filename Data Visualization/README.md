@@ -121,13 +121,15 @@ Completion Rate|	Completed orders / All orders
 
 Purpose: Instant snapshot for executives
 
+![KPI Summary Cards](Images/kpi_cards.PNG)
+
 **📈 Visual 2 — Monthly Revenue & Profit Trend**
 - X-axis: Order Month
 - Y-axis: Dual — SUM(revenue) (solid, blue), SUM(profit) (dashed, green)
 - Marks: Line chart
 - Insight target: Identify Q4 spikes and margin shifts
 
-![Monthly Revenue & Profit Trend]()
+![Monthly Revenue & Profit Trend](Images/Trends.PNG)
 
 **🏷️ Visual 3 — Revenue by Product Category (Horizontal Bar)**
 - Rows: category
@@ -136,7 +138,7 @@ Purpose: Instant snapshot for executives
 - Color: Gradient by Profit Margin %
 - Insight target: Mobile + Computers = ~70% of revenue
 
-![Revenue by Product Category]()
+![Revenue by Product Category](Images/Category_per_reveune.PNG)
 
 **🗺️ Visual 4 — Regional Sales Map (Filled Map)**
 - Geography: region (Nigerian states)
@@ -144,14 +146,14 @@ Purpose: Instant snapshot for executives
 - Tooltip: Orders, AOV, Profit Margin
 - Insight target: Lagos dominance; northern under-penetration
 
-![Regional Sales Map]()
+![Regional Sales Map](Images/region_map.PNG)
 
 **🛒 Visual 5 — Sales Channel Performance (Grouped Bar)**
 - Rows: sales_channel
 - Columns: Side-by-side — SUM(revenue), SUM(profit)
 - Insight target: Online = volume leader; Corporate = highest AOV
 
-![Sales Channel Performance]()
+![Sales Channel Performance](Images/sale_channel.PNG)
 
 **🎟️ Visual 6 — Discount Band vs Profit Margin (Bar)**
 - X-axis: Discount Band
@@ -159,7 +161,7 @@ Purpose: Instant snapshot for executives
 - Color: Diverging (red < 0, green > 0)
 - Insight target: Margins collapse above 15% discount
 
-![Discount Band vs Profit Margin]()
+![Discount Band vs Profit Margin](Images/discount_band.PNG)
 
 **⚠️ Visual 7 — Order Status Funnel (pie)**
 - Slice by: order_status
@@ -167,14 +169,14 @@ Purpose: Instant snapshot for executives
 - Colors: Green (Completed), Orange (Pending), Red (Cancelled / Returned)
 - Insight target: ~25% order leakage
 
-![Order Status Funnel]()
+![Order Status Funnel](Images/Order_statuePie.PNG)
 
 **💳 Visual 8 — Payment Method Mix (pie)**
 - Slice by: payment_method
 - Size: SUM(revenue)
 - Insight target: Card + Bank Transfer + Mobile Money = >85%
 
-![Payment Method Mix]()
+![Payment Method Mix](Images/payment_method.PNG)
 
 ---
 

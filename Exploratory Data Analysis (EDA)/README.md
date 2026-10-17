@@ -104,31 +104,38 @@ order_status|	VARCHAR	|Completed / Pending / Cancelled / Returned
 
 - checking all rows and column
   
-`SELECT * FROM sales;`
+```
+SELECT * FROM sales;
+```
 
 ![All rows and Column](Images/column.PNG)
 
 - Row count and date range
 
-`SELECT COUNT(*), 
+```
+SELECT COUNT(*), 
        MIN(order_date) AS first_date,
        MAX(order_date) AS last_date
-FROM sales`
+FROM sales;
+```
 
 ![Row count and date ranges](Images/first_date_order.PNG)
 
 - Category distribution
 
-`SELECT category, COUNT(*) AS order_category
+```
+SELECT category, COUNT(*) AS order_category
 FROM sales
 GROUP BY category
-ORDER BY order_category DESC`
+ORDER BY order_category DESC
+```
 
 ![Category distribution](Images/category_distribution.PNG)
 
 - Distinct values per categorical column
 
-`SELECT
+```
+SELECT
     COUNT(DISTINCT product) AS product_count,
     COUNT(DISTINCT customer_id) AS customer_id_count,
     COUNT(DISTINCT category) AS category_count,
@@ -136,7 +143,8 @@ ORDER BY order_category DESC`
     COUNT(DISTINCT sales_channel) AS sale_channels_count,
     COUNT(DISTINCT payment_method) AS payment_status_count,
     COUNT(DISTINCT order_status) AS order_status_count
-FROM sales;`
+FROM sales;
+```
  
 ![All rows and Column](Images/count_distin.PNG)
  
@@ -148,7 +156,8 @@ There are 389 unique customers with repeat purchases of 10 products within 8 reg
 ### 4. Step 3 — Identify Trends, Patterns & Anomalies
 **4.1 Revenue by Product Category**
 
-`SELECT category,
+```
+SELECT category,
        COUNT(*) AS orders,
        ROUND(SUM(revenue), 2) AS total_revenue,
        ROUND(AVG(revenue), 2) AS avg_order_value,
@@ -156,39 +165,43 @@ There are 389 unique customers with repeat purchases of 10 products within 8 reg
        ROUND(SUM(profit) / SUM(revenue) * 100.0, 2) AS profit_margin_pct
 FROM sales
 GROUP BY category
-ORDER BY total_revenue DESC`
+ORDER BY total_revenue DESC
+```
 
 ![Revenue by Product Category](Images/Revenue_per_product_category.PNG)
 
 key Finding: Computers and Mobile dominate revenue; Accessories dominate order frequency.
 
 **4.2 Monthly Revenue Trend**
-`SELECT month(order_date) AS month,
+```
+SELECT month(order_date) AS month,
        COUNT(*) AS orders,
        ROUND(SUM(revenue), 2) AS revenue,
        ROUND(SUM(profit), 2)  AS profit
 FROM sales
 GROUP BY month
-ORDER BY month;`
+ORDER BY month;
+```
 
 ![Monthly Revenue Trend](Images/montly.PNG)
 
 Expected Pattern: Q4 (Oct–Dec) spikes from holiday shopping.
 
 **4.3 Regional Performance**
-`
+```
 SELECT COALESCE(region, 'Unknown') AS region,
        COUNT(*) AS orders,
        ROUND(SUM(revenue), 2) AS revenue,
        ROUND(AVG(revenue), 2) AS avg_order_value
 FROM sales
 GROUP BY region
-ORDER BY revenue DESC;`
+ORDER BY revenue DESC;
+```
 
 ![Regional Performance](Images/region.PNG)
 
 4.4 Sales Channel Analysis
-`
+```
 SELECT sales_channel,
        COUNT(*) AS orders,
        ROUND(SUM(revenue), 2) AS revenue,
@@ -196,18 +209,20 @@ SELECT sales_channel,
        ROUND(SUM(profit), 2)  AS profit
 FROM sales
 GROUP BY sales_channel
-ORDER BY revenue DESC;`
+ORDER BY revenue DESC;
+```
 
 ![Sales Channel Analysis](Images/sale_channel.PNG)
 
 4.5 Order Status Distribution
-`
+```
 SELECT order_status,
        COUNT(*) AS orders,
        ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM sales), 2) AS pct
 FROM sales
 GROUP BY order_status
-ORDER BY orders DESC;`
+ORDER BY orders DESC;
+```
 
 ![Order Status Distribution](Images/sale_channel2.PNG)
 
@@ -218,26 +233,30 @@ key Finding: ~70–75% Completed, rest split between Cancelled/Returned/Pending 
 
 - Negative profits (loss-making orders)
   
-`SELECT order_id, product, revenue, cost, profit, discount_rate
+```
+SELECT order_id, product, revenue, cost, profit, discount_rate
 FROM sales
 WHERE profit < 0
-ORDER BY profit ASC;`
+ORDER BY profit ASC;
+```
 
 ![Negative profits](Images/Negative_profits.PNG)
 
 - Extreme discounts
-`
+```
 SELECT product, discount_rate FROM sales
-WHERE discount_rate > 0.20 OR discount_rate < 0;`
+WHERE discount_rate > 0.20 OR discount_rate < 0;
+```
 
 ![Extreme discounts](Images/discount.PNG)
 
 - Revenue formula mismatch
-`
+```
 SELECT order_id, quantity, unit_price, discount_rate, revenue,
        ROUND(quantity * unit_price * (1 - discount_rate), 2) AS expected_revenue
 FROM sales
-WHERE ABS(revenue - quantity * unit_price * (1 - discount_rate)) > 1;`
+WHERE ABS(revenue - quantity * unit_price * (1 - discount_rate)) > 1;
+```
 
 ![Revenue formula mismatch](Images/unit_price.PNG)
 
@@ -247,7 +266,8 @@ Expected Anomalies Found:
 ### 5. Step 4 — Test Hypotheses & Validate Assumptions
 
 - Hypothesis 1: Higher discounts lead to higher quantities purchased
-`SELECT CASE
+```
+SELECT CASE
          WHEN discount_rate = 0 THEN 'No Discount'
          WHEN discount_rate <= 0.05 THEN 'Low (≤5%)'
          WHEN discount_rate <= 0.10 THEN 'Medium (6–10%)'
@@ -260,41 +280,48 @@ Expected Anomalies Found:
        ROUND(AVG(profit), 2)   AS avg_profit
 FROM sales
 GROUP BY discount_band
-ORDER BY orders desc;`
+ORDER BY orders desc;
+```
 
 ![Higher discounts lead to higher quantities purchased](Images/H1.PNG)
 
 - Hypothesis 2: Q4 generates significantly higher revenue
-`SELECT EXTRACT(QUARTER FROM order_date) AS quarter,
+```
+SELECT EXTRACT(QUARTER FROM order_date) AS quarter,
        COUNT(*) AS orders,
        ROUND(SUM(revenue), 2) AS revenue,
        ROUND(AVG(revenue), 2) AS aov
 FROM sales
 GROUP BY quarter
-ORDER BY quarter;`
+ORDER BY quarter;
+```
 
 
 ![Hypothesis 2: Q4 generates significantly higher revenue](Images/extract.PNG)
 
 - Hypothesis 3: Corporate Sales channel has the highest AOV
   
-`SELECT sales_channel,
+```
+SELECT sales_channel,
        ROUND(AVG(revenue), 2) AS aov,
        ROUND(AVG(quantity), 2) AS avg_qty,
        COUNT(*) AS orders
 FROM sales
 GROUP BY sales_channel
-ORDER BY aov DESC;`
+ORDER BY aov DESC;
+```
 
 ![Hypothesis 3: Corporate Sales channel has the highest AOV](Images/H3.PNG)
 
  - Hypothesis 4: Mobile category dominates revenue share
- `SELECT category,
+ ```
+SELECT category,
        ROUND(SUM(revenue), 2) AS revenue,
        ROUND(100.0 * SUM(revenue) / (SELECT SUM(revenue) FROM sales), 2) AS pct_share
 FROM sales
 GROUP BY category
-ORDER BY revenue DESC;`
+ORDER BY revenue DESC;
+```
 
 ![Hypothesis 4: Mobile category dominates revenue share](Images/H4.PNG)
 
@@ -302,7 +329,8 @@ ORDER BY revenue DESC;`
 
 ### 6. Step 5 — Detect Potential Data Issues
 **6.1 Null Values**
-`select 
+```
+select 
     sum(case when  customer_id is null then 1 else 0 end ) as missing_customer_id_count,
     sum(case when product is null then 1 else 0 end ) as missing_product_count,
     sum(case when category is null then 1 else 0 end ) as missing_category_count,
@@ -314,27 +342,31 @@ ORDER BY revenue DESC;`
     sum(case when revenue is null then 1 else 0 end ) as missing_revenue_count,
     sum(case when cost is null then 1 else 0 end ) as missing_cost_count,
     sum(case when profit is null then 1 else 0 end ) as missing_profit_count
-from sales;`
+from sales;
+```
 
 ![Null Values](Images/missing.PNG)
 
 **6.2 Duplicate Orders**
-`
+```
 SELECT order_id, COUNT(*) AS cnt
 FROM sales
 GROUP BY order_id
-HAVING COUNT(*) > 1;`
+HAVING COUNT(*) > 1;
+```
 
 ![Duplicate Orders](Images/duplicate_order.PNG)
 
 
 **6.3 Inconsistent Categorical Values**
 -- Case-sensitive duplicates
-`SELECT LOWER(product) AS normalized_product,
+```
+SELECT LOWER(product) AS normalized_product,
        COUNT(DISTINCT product) AS variations
 FROM sales
 GROUP BY normalized_product
-HAVING COUNT(DISTINCT product) > 1;`
+HAVING COUNT(DISTINCT product) > 1;
+```
 
 ![Inconsistent Categorical Values](Images/case.PNG)
 

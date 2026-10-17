@@ -1,8 +1,8 @@
 # Tasks One Executive Summary: E-Commerce Sales Transactions EDA
-## 1. Project Objective
+### 1. Project Objective
 To perform a comprehensive Exploratory Data Analysis (EDA) on a year's worth of Nigerian e-commerce sales data. The goal was to uncover revenue trends, evaluate regional and channel performance, test business hypotheses regarding discounts and seasonality, and identify critical data quality issues to inform strategic business decisions.
 
-## 2. Methodology
+### 2. Methodology
 The analysis followed a structured five-step framework:
 1. **Ask Meaningful Questions:** Defined key business questions around revenue, seasonality, customer behavior, and data quality.
 2. **Explore Data Structure:** Profiled the dataset (1,500 records, 15 columns) to understand schema, distinct values, and date ranges.
@@ -10,7 +10,7 @@ The analysis followed a structured five-step framework:
 4. **Test Hypotheses:** Validated four core assumptions (H1–H4) using SQL aggregations.
 5. **Detect Data Quality Issues:** Checked for NULLs, duplicates, inconsistent casing, and invalid ranges.
 
-## 3. Key Findings (Verified Against Data)
+### 3. Key Findings (Verified Against Data)
 
 **📈 Revenue & Product Performance**
 - **Total Revenue:** ₦711.9M across 1,500 orders.
@@ -44,7 +44,7 @@ The analysis followed a structured five-step framework:
 - **Duplicates:** No duplicate `order_id` values found.
 - **Inconsistent Categorical Values:** No case-sensitivity issues detected in product names.
 
-## 4. Strategic Recommendations
+### 4. Strategic Recommendations
 
 **🛠️ Data Engineering**
 1. **Enforce Schema Validation:** Apply `NOT NULL` constraints on `region` and `quantity`, and `CHECK` constraints on `discount_rate` (0–1).
@@ -58,9 +58,37 @@ The analysis followed a structured five-step framework:
 4. **Leverage Retail & Corporate Channels:** These channels have the highest AOV. Prioritize corporate partnerships and retail expansion.
 5. **Address Order Leakage:** ~25–30% of orders are Cancelled, Returned, or Pending. Investigate logistics and customer service issues.
 
-## 5. Conclusion
+### 5. Conclusion
 This EDA reveals a business with strong revenue concentration in Computers and Mobile, but significant operational and data quality challenges. The most critical finding is that **discounts are destroying profit without increasing sales volume**. Additionally, the expected Q4 holiday spike did not materialize. By addressing data hygiene issues and re-strategizing discounts, the business can protect margins and unlock growth in underserved regions.
 
 ---
 
 # Task two DATA VISTUALIZATION 
+### 📋 Project Brief
+The objective of this CodeAlpha internship task was to transform raw transactional data into interactive, visually appealing dashboards that reveal clear business insights. The project required designing impactful visualizations, crafting a compelling data story to support decision-making, and packaging the final work into a professional, portfolio-ready format for GitHub.
+
+### 📊 Key Performance Indicators (KPIs)
+- **Total Revenue:** ₦712 Million
+- **Total Profit:** ₦153 Million (22% Margin)
+- **Total Orders:** 1,500
+- **Average Order Value (AOV):** ₦474,600
+
+### 🔍 Core Visual Insights
+1. **Revenue Concentration:** *Computers* and *Mobile* categories dominate revenue, while *Lagos* state accounts for the vast majority of sales.
+2. **The Margin Trap:** High discounts destroy profitability. Orders with no discount yield a **27% margin**, but "Very High" discounts (>15%) slash that down to **10%**.
+3. **Order Leakage:** Only **54% (811)** of orders are completed. The remaining 46% are Cancelled, Returned, or Pending—a massive operational red flag.
+4. **Channel Performance:** *Online* is the highest volume channel, while *Corporate Sales* drives high-value B2B purchases. 
+5. **Payment Diversity:** Revenue is evenly spread across Card, Bank Transfer, Mobile Money, and Cash, meaning no single payment gateway is a bottleneck.
+
+### 🎬 5-Act Data Story
+1. **The Business at a Glance:** Strong revenue, but nearly half of all orders leak before completion.
+2. **Where the Money Comes From:** Heavy reliance on Computers/Mobile and Lagos—a concentration risk.
+3. **How Customers Buy:** Online leads volume; Corporate drives high-value AOV. Diverse payment methods.
+4. **The Margin Trap:** Discounts above 10-15% cost too much profit for the volume gained.
+5. **Recommendations:** 
+   - Fix the 46% order leakage.
+   - Cap discounts at 10%.
+   - Expand marketing to northern states (Kano, Kaduna).
+   - Scale Corporate B2B sales.
+
+

@@ -121,7 +121,7 @@ Completion Rate|	Completed orders / All orders
 
 Purpose: Instant snapshot for executives
 
-![KPI Summary Cards](Images/kpi_cards.PNG)
+![KPI Summary Cards](Images/kpii_cards.PNG)
 
 **📈 Visual 2 — Monthly Revenue & Profit Trend**
 - X-axis: Order Month
